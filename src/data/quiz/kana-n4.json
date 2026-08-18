@@ -1,0 +1,272 @@
+[
+  {
+    "id": "q-n4-kana-001",
+    "level": "N4",
+    "category": "kana",
+    "question": "「飛行機は 空港に 着きました。」「空港」の 読み方は どれですか。",
+    "options": ["くうこう", "そらこう", "くうかん", "くうがん"],
+    "answer": "くうこう",
+    "explanation": "空港 dibaca くうこう, artinya bandara."
+  },
+  {
+    "id": "q-n4-kana-002",
+    "level": "N4",
+    "category": "kana",
+    "question": "「図書館で 本を 借ります。」「図書館」の 読み方は どれですか。",
+    "options": ["としょかん", "ずしょかん", "としょしつ", "ずかん"],
+    "answer": "としょかん",
+    "explanation": "図書館 dibaca としょかん, artinya perpustakaan."
+  },
+  {
+    "id": "q-n4-kana-003",
+    "level": "N4",
+    "category": "kana",
+    "question": "「駅で 切符を 買いました。」「切符」の 読み方は どれですか。",
+    "options": ["きっぷ", "きっふ", "きりふ", "せっぷ"],
+    "answer": "きっぷ",
+    "explanation": "切符 dibaca きっぷ, artinya tiket."
+  },
+  {
+    "id": "q-n4-kana-004",
+    "level": "N4",
+    "category": "kana",
+    "question": "「財布を なくしました。」「財布」の 読み方は どれですか。",
+    "options": ["さいふ", "ざいふ", "さいぶ", "さふ"],
+    "answer": "さいふ",
+    "explanation": "財布 dibaca さいふ, artinya dompet."
+  },
+  {
+    "id": "q-n4-kana-005",
+    "level": "N4",
+    "category": "kana",
+    "question": "「ここに 名前と 住所を 書いてください。」「住所」の 読み方は どれですか。",
+    "options": ["じゅうしょ", "じゅしょ", "ちゅうしょ", "じゅうじょ"],
+    "answer": "じゅうしょ",
+    "explanation": "住所 dibaca じゅうしょ, artinya alamat."
+  },
+  {
+    "id": "q-n4-kana-006",
+    "level": "N4",
+    "category": "kana",
+    "question": "「荷物が 重いです。」「荷物」の 読み方は どれですか。",
+    "options": ["にもつ", "にもの", "かもつ", "にぶつ"],
+    "answer": "にもつ",
+    "explanation": "荷物 dibaca にもつ, artinya barang bawaan."
+  },
+  {
+    "id": "q-n4-kana-007",
+    "level": "N4",
+    "category": "kana",
+    "question": "「新幹線で 大阪へ 行きました。」「新幹線」の 読み方は どれですか。",
+    "options": ["しんかんせん", "しんかんぜん", "にいかんせん", "しんかせん"],
+    "answer": "しんかんせん",
+    "explanation": "新幹線 dibaca しんかんせん, kereta cepat Jepang."
+  },
+  {
+    "id": "q-n4-kana-008",
+    "level": "N4",
+    "category": "kana",
+    "question": "「外国人の 友だちが 来ました。」「外国人」の 読み方は どれですか。",
+    "options": ["がいこくじん", "がいこくひと", "そとこくじん", "がいごくじん"],
+    "answer": "がいこくじん",
+    "explanation": "外国人 dibaca がいこくじん, artinya orang asing."
+  },
+  {
+    "id": "q-n4-kana-009",
+    "level": "N4",
+    "category": "kana",
+    "question": "「洋服を 買いに 行きます。」「洋服」の 読み方は どれですか。",
+    "options": ["ようふく", "ようぶく", "ひろふく", "ようっふく"],
+    "answer": "ようふく",
+    "explanation": "洋服 dibaca ようふく, artinya pakaian (gaya barat)."
+  },
+  {
+    "id": "q-n4-kana-010",
+    "level": "N4",
+    "category": "kana",
+    "question": "「日本での 生活は 楽しいです。」「生活」の 読み方は どれですか。",
+    "options": ["せいかつ", "しょうかつ", "せいか", "しょうがつ"],
+    "answer": "せいかつ",
+    "explanation": "生活 dibaca せいかつ, artinya kehidupan."
+  },
+  {
+    "id": "q-n4-kana-011",
+    "level": "N4",
+    "category": "kana",
+    "question": "「廊下で 走らないでください。」「廊下」の 読み方は どれですか。",
+    "options": ["ろうか", "ろうげ", "ろか", "こうか"],
+    "answer": "ろうか",
+    "explanation": "廊下 dibaca ろうか, artinya koridor."
+  },
+  {
+    "id": "q-n4-kana-012",
+    "level": "N4",
+    "category": "kana",
+    "question": "「事務所で 働いています。」「事務所」の 読み方は どれですか。",
+    "options": ["じむしょ", "じましょ", "むじしょ", "じむじょ"],
+    "answer": "じむしょ",
+    "explanation": "事務所 dibaca じむしょ, artinya kantor."
+  },
+  {
+    "id": "q-n4-kana-013",
+    "level": "N4",
+    "category": "kana",
+    "question": "「空港」の 意味は どれですか。",
+    "options": ["bandara", "pelabuhan", "stasiun", "terminal"],
+    "answer": "bandara",
+    "explanation": "空港 (くうこう) berarti bandara."
+  },
+  {
+    "id": "q-n4-kana-014",
+    "level": "N4",
+    "category": "kana",
+    "question": "「切符」の 意味は どれですか。",
+    "options": ["tiket", "paspor", "kartu anggota", "surat"],
+    "answer": "tiket",
+    "explanation": "切符 (きっぷ) berarti tiket, misalnya tiket kereta."
+  },
+  {
+    "id": "q-n4-kana-015",
+    "level": "N4",
+    "category": "kana",
+    "question": "「荷物」の 意味は どれですか。",
+    "options": ["barang bawaan", "belanjaan", "parsel", "uang"],
+    "answer": "barang bawaan",
+    "explanation": "荷物 (にもつ) berarti barang bawaan/lugasi."
+  },
+  {
+    "id": "q-n4-kana-016",
+    "level": "N4",
+    "category": "kana",
+    "question": "「パソコンが ほしいです。」「パソコン」の 意味は どれですか。",
+    "options": ["komputer", "ponsel", "televisi", "radio"],
+    "answer": "komputer",
+    "explanation": "パソコン adalah kependekan パーソナルコンピューター = komputer."
+  },
+  {
+    "id": "q-n4-kana-017",
+    "level": "N4",
+    "category": "kana",
+    "question": "「夜は レストランで 食べます。」「レストラン」の 意味は どれですか。",
+    "options": ["restoran", "hotel", "kafe", "toko"],
+    "answer": "restoran",
+    "explanation": "レストラン adalah kata serapan 'restoran'."
+  },
+  {
+    "id": "q-n4-kana-018",
+    "level": "N4",
+    "category": "kana",
+    "question": "「朝 シャワーを 浴びます。」「シャワー」の 意味は どれですか。",
+    "options": ["pancuran", "kolam renang", "keran", "ember"],
+    "answer": "pancuran",
+    "explanation": "シャワー adalah kata serapan 'shower' (pancuran mandi)."
+  },
+  {
+    "id": "q-n4-kana-019",
+    "level": "N4",
+    "category": "kana",
+    "question": "「ニュースを 見てから 出かけます。」「ニュース」の 意味は どれですか。",
+    "options": ["berita", "iklan", "drama", "lagu"],
+    "answer": "berita",
+    "explanation": "ニュース adalah kata serapan 'news' = berita."
+  },
+  {
+    "id": "q-n4-kana-020",
+    "level": "N4",
+    "category": "kana",
+    "question": "「エレベーターで 上がってください。」「エレベーター」の 意味は どれですか。",
+    "options": ["lift", "tangga berjalan", "tangga", "lorong"],
+    "answer": "lift",
+    "explanation": "エレベーター adalah kata serapan 'elevator' = lift."
+  },
+  {
+    "id": "q-n4-kana-021",
+    "level": "N4",
+    "category": "kana",
+    "question": "「学生の とき、レストランで バイトを していました。」「バイト」の 意味は どれですか。",
+    "options": ["kerja paruh waktu", "pekerjaan tetap", "istirahat", "upah"],
+    "answer": "kerja paruh waktu",
+    "explanation": "バイト (dari アルバイト) berarti kerja paruh waktu."
+  },
+  {
+    "id": "q-n4-kana-022",
+    "level": "N4",
+    "category": "kana",
+    "question": "「ホテルに 泊まります。」「ホテル」の ローマ字は どれですか。",
+    "options": ["hotel", "hoteru", "hosuteru", "hoten"],
+    "answer": "hotel",
+    "explanation": "ホテル adalah kata serapan dari bahasa Inggris 'hotel'."
+  },
+  {
+    "id": "q-n4-kana-023",
+    "level": "N4",
+    "category": "kana",
+    "question": "「タクシーで 帰ります。」「タクシー」の ローマ字は どれですか。",
+    "options": ["takushi", "takushii", "takusi", "taksii"],
+    "answer": "takushi",
+    "explanation": "タクシー adalah kata serapan 'taksi' (takushi)."
+  },
+  {
+    "id": "q-n4-kana-024",
+    "level": "N4",
+    "category": "kana",
+    "question": "「銀行＿＿ お金を おろします。」 に入る ことばは どれですか。",
+    "options": ["で", "に", "を", "へ"],
+    "answer": "で",
+    "explanation": "で menandai tempat berlangsungnya aksi: 'di bank'."
+  },
+  {
+    "id": "q-n4-kana-025",
+    "level": "N4",
+    "category": "kana",
+    "question": "「家から 学校まで 三十分＿＿ かかります。」 に入る ことばは どれですか。",
+    "options": ["くらい", "しか", "だけ", "より"],
+    "answer": "くらい",
+    "explanation": "くらい/ぐらい berarti kira-kira: 'sekitar 30 menit'."
+  },
+  {
+    "id": "q-n4-kana-026",
+    "level": "N4",
+    "category": "kana",
+    "question": "「お金が 百円＿＿ ありません。」 に入る ことばは どれですか。",
+    "options": ["しか", "だけ", "でも", "など"],
+    "answer": "しか",
+    "explanation": "しか...ない berarti hanya: 'hanya punya 100 yen'."
+  },
+  {
+    "id": "q-n4-kana-027",
+    "level": "N4",
+    "category": "kana",
+    "question": "「この 問題は 子ども＿＿ わかります。」 に入る ことばは どれですか。",
+    "options": ["でも", "だけ", "ほど", "しか"],
+    "answer": "でも",
+    "explanation": "でも berarti 'bahkan': bahkan anak kecil pun paham."
+  },
+  {
+    "id": "q-n4-kana-028",
+    "level": "N4",
+    "category": "kana",
+    "question": "「かばんに 本や ノート＿＿ 入れました。」 に入る ことばは どれですか。",
+    "options": ["など", "くらい", "でも", "まで"],
+    "answer": "など",
+    "explanation": "〜や〜など berarti 'dan sebagainya' untuk daftar sebagian."
+  },
+  {
+    "id": "q-n4-kana-029",
+    "level": "N4",
+    "category": "kana",
+    "question": "「買い物＿＿ 行きます。」 に入る ことばは どれですか。",
+    "options": ["に", "で", "を", "と"],
+    "answer": "に",
+    "explanation": "に menandai tujuan aksi: pergi untuk belanja."
+  },
+  {
+    "id": "q-n4-kana-030",
+    "level": "N4",
+    "category": "kana",
+    "question": "「バス＿＿ 電車のほうが 速いです。」 に入る ことばは どれですか。",
+    "options": ["より", "まで", "から", "ほど"],
+    "answer": "より",
+    "explanation": "より menandai perbandingan: kereta lebih cepat daripada bus."
+  }
+]

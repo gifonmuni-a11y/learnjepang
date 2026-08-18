@@ -1,0 +1,92 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    @apply bg-sumi-900 text-washi font-body antialiased;
+    overscroll-behavior-y: none;
+  }
+
+  ::selection {
+    @apply bg-aka-500/40 text-washi;
+  }
+
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    @apply bg-sumi-600 rounded-full;
+  }
+}
+
+@layer components {
+  /* ==== Signature: genkoyoshi grid + sumi ink + hanko ==== */
+
+  .hw-page {
+    @apply bg-sumi-900;
+    background-image:
+      radial-gradient(1200px 600px at 50% -200px, rgba(139, 124, 246, 0.07), transparent 60%),
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='48' viewBox='0 0 48 48'%3E%3Cpath d='M48 0H0V48' fill='none' stroke='%231a2036' stroke-opacity='0.35' stroke-width='1'/%3E%3C/svg%3E");
+  }
+
+  .glass {
+    @apply bg-sumi-800/70 backdrop-blur-md border border-washi/10;
+  }
+
+  .glass-strong {
+    @apply bg-sumi-700/80 backdrop-blur-xl border border-washi/10;
+  }
+
+  .genkoyoshi-panel {
+    background-image:
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='36' viewBox='0 0 36 36'%3E%3Cpath d='M36 0H0V36' fill='none' stroke='%23e8e6df' stroke-opacity='0.16' stroke-width='1'/%3E%3C/svg%3E"),
+      url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 12 12'%3E%3Cpath d='M12 0H0V12' fill='none' stroke='%23e8e6df' stroke-opacity='0.07' stroke-width='1'/%3E%3C/svg%3E");
+  }
+
+  .hanko {
+    @apply inline-flex items-center justify-center font-mono font-bold rounded-sm text-washi;
+    border: 2px solid currentColor;
+    box-shadow: inset 0 0 0 2px rgba(0, 0, 0, 0.45);
+  }
+
+  .btn-hanko {
+    @apply hanko bg-aka-500 text-washi text-xs px-2 py-1 tracking-widest select-none;
+    border-color: #e0484a;
+  }
+
+  .input-hw {
+    @apply w-full rounded-lg bg-sumi-800 border border-washi/10 px-3.5 py-2.5 text-sm text-washi placeholder:text-washi-faint focus:outline-none focus:border-aka-400/60 focus:ring-1 focus:ring-aka-400/30 transition-colors;
+  }
+
+  .tab-hw {
+    @apply flex-1 rounded-xl px-3 py-2 text-xs font-medium text-washi-dim transition-colors;
+  }
+  .tab-hw-active {
+    @apply bg-sumi-700 text-washi shadow-card;
+  }
+}
+
+@layer utilities {
+  .safe-bottom {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+  .safe-top {
+    padding-top: env(safe-area-inset-top);
+  }
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

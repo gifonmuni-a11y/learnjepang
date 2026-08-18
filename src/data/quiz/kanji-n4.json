@@ -1,0 +1,326 @@
+[
+  {
+    "id": "q-n4-kanji-001",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「病気で 学校を 休みました。」「病気」の 読み方は どれですか。",
+    "options": ["びょうき", "びんき", "やまいき", "びょうぎ"],
+    "answer": "びょうき",
+    "explanation": "病気 dibaca びょうき, artinya penyakit."
+  },
+  {
+    "id": "q-n4-kanji-002",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「医者に なりたいです。」「医者」の 読み方は どれですか。",
+    "options": ["いしゃ", "いしや", "びょうしゃ", "いかしゃ"],
+    "answer": "いしゃ",
+    "explanation": "医者 dibaca いしゃ, artinya dokter."
+  },
+  {
+    "id": "q-n4-kanji-003",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「来月、旅行に 行きます。」「旅行」の 読み方は どれですか。",
+    "options": ["りょこう", "りょうこう", "りょぎょう", "たびゆき"],
+    "answer": "りょこう",
+    "explanation": "旅行 dibaca りょこう, artinya perjalanan wisata."
+  },
+  {
+    "id": "q-n4-kanji-004",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「外国の 友だちが います。」「外国」の 読み方は どれですか。",
+    "options": ["がいこく", "そとこく", "よそくに", "がいごく"],
+    "answer": "がいこく",
+    "explanation": "外国 dibaca がいこく, artinya luar negeri."
+  },
+  {
+    "id": "q-n4-kanji-005",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「階段を 上がってください。」「階段」の 読み方は どれですか。",
+    "options": ["かいだん", "きだん", "かいめん", "しだん"],
+    "answer": "かいだん",
+    "explanation": "階段 dibaca かいだん, artinya tangga."
+  },
+  {
+    "id": "q-n4-kanji-006",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「新しい 商品が 発売されました。」「発売」の 読み方は どれですか。",
+    "options": ["はつばい", "はんばい", "はっぴょう", "かいはつ"],
+    "answer": "はつばい",
+    "explanation": "発売 dibaca はつばい, artinya mulai dijual/diluncurkan."
+  },
+  {
+    "id": "q-n4-kanji-007",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「駅まで 歩いて 五分です。」「駅」の 読み方は どれですか。",
+    "options": ["えき", "やく", "とう", "しゃ"],
+    "answer": "えき",
+    "explanation": "駅 dibaca えき, artinya stasiun."
+  },
+  {
+    "id": "q-n4-kanji-008",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「この 町の 人口が 増えました。」「増え」の 読み方は どれですか。",
+    "options": ["ふえ", "まし", "ぞう", "くわ"],
+    "answer": "ふえ",
+    "explanation": "増える (ふえる) berarti bertambah."
+  },
+  {
+    "id": "q-n4-kanji-009",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「家に 帰りました。」「帰り」の 読み方は どれですか。",
+    "options": ["かえり", "もどり", "へん", "きかえり"],
+    "answer": "かえり",
+    "explanation": "帰る (かえる) berarti pulang."
+  },
+  {
+    "id": "q-n4-kanji-010",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「図書館で 本を 借ります。」「借り」の 読み方は どれですか。",
+    "options": ["かり", "かし", "かえ", "しゃく"],
+    "answer": "かり",
+    "explanation": "借りる (かりる) berarti meminjam."
+  },
+  {
+    "id": "q-n4-kanji-011",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「本を 返しました。」「返し」の 読み方は どれですか。",
+    "options": ["かえし", "かし", "はん", "わたし"],
+    "answer": "かえし",
+    "explanation": "返す (かえす) berarti mengembalikan."
+  },
+  {
+    "id": "q-n4-kanji-012",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「宿題を 忘れました。」「忘れ」の 読み方は どれですか。",
+    "options": ["わすれ", "おぼえ", "なく", "おとし"],
+    "answer": "わすれ",
+    "explanation": "忘れる (わすれる) berarti lupa."
+  },
+  {
+    "id": "q-n4-kanji-013",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「新しい 単語を 覚えました。」「覚え」の 読み方は どれですか。",
+    "options": ["おぼえ", "わすれ", "ならい", "おしえ"],
+    "answer": "おぼえ",
+    "explanation": "覚える (おぼえる) berarti menghafal/mengingat."
+  },
+  {
+    "id": "q-n4-kanji-014",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「エレベーターが 止まりました。」「止まり」の 読み方は どれですか。",
+    "options": ["とまり", "はじまり", "おわり", "うごき"],
+    "answer": "とまり",
+    "explanation": "止まる (とまる) berarti berhenti."
+  },
+  {
+    "id": "q-n4-kanji-015",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「会議が 始まります。」「始まり」の 読み方は どれですか。",
+    "options": ["はじまり", "おわり", "とまり", "うごき"],
+    "answer": "はじまり",
+    "explanation": "始まる (はじまる) berarti dimulai."
+  },
+  {
+    "id": "q-n4-kanji-016",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「授業が 終わりました。」「終わり」の 読み方は どれですか。",
+    "options": ["おわり", "はじまり", "とまり", "しまい"],
+    "answer": "おわり",
+    "explanation": "終わる (おわる) berarti selesai/berakhir."
+  },
+  {
+    "id": "q-n4-kanji-017",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「びょうきで 学校を 休みました。」 正しい 漢字は どれですか。",
+    "options": ["病気", "医者", "病院", "病人"],
+    "answer": "病気",
+    "explanation": "病気 (びょうき) = sakit/penyakit, kombinasi 病 (sakit) + 気."
+  },
+  {
+    "id": "q-n4-kanji-018",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「いしゃに なりたいです。」 正しい 漢字は どれですか。",
+    "options": ["医者", "病者", "患者", "医院"],
+    "answer": "医者",
+    "explanation": "医者 (いしゃ) = dokter; 医 berarti ilmu kedokteran."
+  },
+  {
+    "id": "q-n4-kanji-019",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「あしたの 朝、しゅっぱつします。」 正しい 漢字は どれですか。",
+    "options": ["出発", "出張", "出場", "出店"],
+    "answer": "出発",
+    "explanation": "出発 (しゅっぱつ) = berangkat; 出張 (dinas), 出場 (tampil) memiliki makna lain."
+  },
+  {
+    "id": "q-n4-kanji-020",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「かいだんを 上がってください。」 正しい 漢字は どれですか。",
+    "options": ["階段", "段階", "階級", "階台"],
+    "answer": "階段",
+    "explanation": "階段 (かいだん) = tangga; 段階 berarti tahap."
+  },
+  {
+    "id": "q-n4-kanji-021",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「図書館で 本を かりました。」 正しい 漢字は どれですか。",
+    "options": ["借りました", "貸しました", "返しました", "買いました"],
+    "answer": "借りました",
+    "explanation": "借りる (かりる) = meminjam; 貸す berarti meminjamkan."
+  },
+  {
+    "id": "q-n4-kanji-022",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「本を かえしました。」 正しい 漢字は どれですか。",
+    "options": ["返しました", "借りました", "貸しました", "払いました"],
+    "answer": "返しました",
+    "explanation": "返す (かえす) = mengembalikan; 払う berarti membayar."
+  },
+  {
+    "id": "q-n4-kanji-023",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「宿題を わすれました。」 正しい 漢字は どれですか。",
+    "options": ["忘れました", "忙れました", "恋れました", "想れました"],
+    "answer": "忘れました",
+    "explanation": "忘れる (わすれる) = lupa; kanji lain (忙/恋/想) tidak membentuk kata ini."
+  },
+  {
+    "id": "q-n4-kanji-024",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「駅で 友だちを むかえます。」 正しい 漢字は どれですか。",
+    "options": ["迎えます", "送えます", "向えます", "追えます"],
+    "answer": "迎えます",
+    "explanation": "迎える (むかえる) = menjemput/menyambut."
+  },
+  {
+    "id": "q-n4-kanji-025",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「質問に こたえます。」 正しい 漢字は どれですか。",
+    "options": ["答えます", "返えます", "問えます", "話えます"],
+    "answer": "答えます",
+    "explanation": "答える (こたえる) = menjawab."
+  },
+  {
+    "id": "q-n4-kanji-026",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「母は しんぱいしています。」 正しい 漢字は どれですか。",
+    "options": ["心配", "心痛", "心情", "心不全"],
+    "answer": "心配",
+    "explanation": "心配 (しんぱい) = khawatir."
+  },
+  {
+    "id": "q-n4-kanji-027",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「今日は つかれました。」 正しい 漢字は どれですか。",
+    "options": ["疲れました", "病れました", "苦れました", "倦れました"],
+    "answer": "疲れました",
+    "explanation": "疲れる (つかれる) = lelah."
+  },
+  {
+    "id": "q-n4-kanji-028",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「会議に しゅっせきします。」 正しい 漢字は どれですか。",
+    "options": ["出席", "出張", "出番", "出発"],
+    "answer": "出席",
+    "explanation": "出席 (しゅっせき) = hadir; 出張 berarti perjalanan dinas."
+  },
+  {
+    "id": "q-n4-kanji-029",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「病」の 意味は どれですか。",
+    "options": ["sakit", "obat", "klinik", "perawatan"],
+    "answer": "sakit",
+    "explanation": "病 berarti sakit/penyakit, dipakai dalam 病気、病人."
+  },
+  {
+    "id": "q-n4-kanji-030",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「旅」の 意味は どれですか。",
+    "options": ["perjalanan", "liburan", "kepulangan", "pendakian"],
+    "answer": "perjalanan",
+    "explanation": "旅 berarti perjalanan, dipakai dalam 旅行、旅館."
+  },
+  {
+    "id": "q-n4-kanji-031",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「売」の 意味は どれですか。",
+    "options": ["menjual", "membeli", "menyewa", "menukar"],
+    "answer": "menjual",
+    "explanation": "売 berarti menjual, dipakai dalam 売る、発売."
+  },
+  {
+    "id": "q-n4-kanji-032",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「買」の 意味は どれですか。",
+    "options": ["membeli", "menjual", "meminjam", "membayar"],
+    "answer": "membeli",
+    "explanation": "買 berarti membeli, dipakai dalam 買う、買い物."
+  },
+  {
+    "id": "q-n4-kanji-033",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「借」の 意味は どれですか。",
+    "options": ["meminjam", "mengembalikan", "meminjamkan", "membeli"],
+    "answer": "meminjam",
+    "explanation": "借 berarti meminjam (dari orang lain), dipakai dalam 借りる."
+  },
+  {
+    "id": "q-n4-kanji-034",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「貸」の 意味は どれですか。",
+    "options": ["meminjamkan", "meminjam", "menyewa", "membayar"],
+    "answer": "meminjamkan",
+    "explanation": "貸 berarti meminjamkan (ke orang lain), dipakai dalam 貸す."
+  },
+  {
+    "id": "q-n4-kanji-035",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「返」の 意味は どれですか。",
+    "options": ["mengembalikan", "menjawab", "menyerahkan", "berhenti"],
+    "answer": "mengembalikan",
+    "explanation": "返 berarti mengembalikan, dipakai dalam 返す、返事."
+  },
+  {
+    "id": "q-n4-kanji-036",
+    "level": "N4",
+    "category": "kanji",
+    "question": "「忘」の 意味は どれですか。",
+    "options": ["lupa", "ingat", "mengerti", "merasa"],
+    "answer": "lupa",
+    "explanation": "忘 berarti lupa, dipakai dalam 忘れる、忘れ物."
+  }
+]

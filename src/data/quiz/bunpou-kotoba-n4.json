@@ -1,0 +1,326 @@
+[
+  {
+    "id": "q-n4-bunpou-001",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「宿題を 忘れて＿＿＿＿。」",
+    "options": ["しまいました", "おきました", "ありました", "いきました"],
+    "answer": "しまいました",
+    "explanation": "〜てしまう menunjukkan aksi yang terlanjur selesai (biasanya dengan rasa menyesal)."
+  },
+  {
+    "id": "q-n4-bunpou-002",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「旅行の 前に、切符を 買って＿＿＿＿。」",
+    "options": ["おきます", "しまいます", "あります", "みます"],
+    "answer": "おきます",
+    "explanation": "〜ておく berarti menyiapkan sesuatu lebih dulu untuk masa depan."
+  },
+  {
+    "id": "q-n4-bunpou-003",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「田中さんに 日本語を 教えて＿＿＿＿。」",
+    "options": ["もらいました", "くれました", "あげました", "おきました"],
+    "answer": "もらいました",
+    "explanation": "〜てもらう berarti minta orang lain melakukan sesuatu untuk saya (dengan に menandai pelaku)."
+  },
+  {
+    "id": "q-n4-bunpou-004",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「母が セーターを 作って＿＿＿＿。」",
+    "options": ["くれました", "もらいました", "あげました", "しまいました"],
+    "answer": "くれました",
+    "explanation": "〜てくれる berarti orang lain melakukan sesuatu untuk saya."
+  },
+  {
+    "id": "q-n4-bunpou-005",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「時間が あった＿＿、いっしょに ごはんを 食べませんか。」",
+    "options": ["ら", "ば", "と", "のに"],
+    "answer": "ら",
+    "explanation": "〜たら berarti 'kalau': あったら = kalau ada waktu."
+  },
+  {
+    "id": "q-n4-bunpou-006",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「この 薬を 飲め＿＿、熱が 下がります。」",
+    "options": ["ば", "ら", "と", "たら"],
+    "answer": "ば",
+    "explanation": "〜ば menyatakan kondisi umum: 飲めば = kalau diminum."
+  },
+  {
+    "id": "q-n4-bunpou-007",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「雨が 降っている＿＿、外で 遊んでいます。」",
+    "options": ["のに", "ので", "から", "ほど"],
+    "answer": "のに",
+    "explanation": "〜のに berarti 'padahal': bertentangan dengan yang diharapkan."
+  },
+  {
+    "id": "q-n4-bunpou-008",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「頭が 痛い＿＿、早く 帰ります。」",
+    "options": ["ので", "のに", "ながら", "し"],
+    "answer": "ので",
+    "explanation": "〜ので berarti 'karena' dengan alasan yang objektif."
+  },
+  {
+    "id": "q-n4-bunpou-009",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「約束したから、田中さんは 来る＿＿です。」",
+    "options": ["はず", "つもり", "まま", "ばかり"],
+    "answer": "はず",
+    "explanation": "〜はず berarti 'seharusnya/pasti' berdasarkan logika atau informasi yang ada."
+  },
+  {
+    "id": "q-n4-bunpou-010",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「あの 雲は 馬＿＿です。」",
+    "options": ["みたい", "らしい", "そう", "よう"],
+    "answer": "みたい",
+    "explanation": "〜みたい berarti 'seperti' berdasarkan tampilan."
+  },
+  {
+    "id": "q-n4-bunpou-011",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「聞いた 話では、あの 店の 料理は おいしい＿＿です。」",
+    "options": ["らしい", "みたい", "そう", "べき"],
+    "answer": "らしい",
+    "explanation": "〜らしい berarti 'kabarnya' berdasarkan informasi yang didengar."
+  },
+  {
+    "id": "q-n4-bunpou-012",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「タバコは やめる＿＿にしました。」",
+    "options": ["こと", "もの", "よう", "ため"],
+    "answer": "こと",
+    "explanation": "〜ことにする berarti memutuskan sendiri untuk melakukan sesuatu."
+  },
+  {
+    "id": "q-n4-bunpou-013",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「来月、大阪へ 転勤する＿＿になりました。」",
+    "options": ["こと", "もの", "はず", "ばかり"],
+    "answer": "こと",
+    "explanation": "〜ことになる berarti diputuskan (oleh pihak lain/keadaan), bukan kehendak sendiri."
+  },
+  {
+    "id": "q-n4-bunpou-014",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「日本語を 勉強する＿＿、毎日 ラジオを 聞いています。」",
+    "options": ["ために", "ように", "ことに", "つもり"],
+    "answer": "ために",
+    "explanation": "〜ために menyatakan tujuan langsung dari sebuah aksi."
+  },
+  {
+    "id": "q-n4-bunpou-015",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「日本人と 話せる＿＿、毎日 練習しています。」",
+    "options": ["ように", "ために", "ことに", "そうに"],
+    "answer": "ように",
+    "explanation": "〜ように menyatakan tujuan yang tidak langsung (agar bisa ...)."
+  },
+  {
+    "id": "q-n4-bunpou-016",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「今日は 暑＿＿から、水を たくさん 飲みます。」",
+    "options": ["すぎる", "すぎな", "すぎに", "すぎて"],
+    "answer": "すぎる",
+    "explanation": "〜すぎる berarti 'terlalu': 暑すぎる = terlalu panas."
+  },
+  {
+    "id": "q-n4-bunpou-017",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「この ペンは 字が 書き＿＿です。」",
+    "options": ["やすい", "にくい", "すぎる", "たい"],
+    "answer": "やすい",
+    "explanation": "〜やすい berarti 'mudah untuk': 書きやすい = mudah ditulis."
+  },
+  {
+    "id": "q-n4-bunpou-018",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「この 靴は 歩き＿＿です。」",
+    "options": ["にくい", "やすい", "たい", "そう"],
+    "answer": "にくい",
+    "explanation": "〜にくい berarti 'susah untuk': 歩きにくい = susah dipakai jalan."
+  },
+  {
+    "id": "q-n4-bunpou-019",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「もっと ゆっくり 話して＿＿です。」",
+    "options": ["ほしい", "いい", "たかった", "ください"],
+    "answer": "ほしい",
+    "explanation": "〜てほしい berarti ingin (orang lain) melakukan sesuatu."
+  },
+  {
+    "id": "q-n4-bunpou-020",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「今 ごはんを 食べている＿＿です。」",
+    "options": ["ところ", "ばかり", "こと", "もの"],
+    "answer": "ところ",
+    "explanation": "〜ているところ berarti sedang dalam proses melakukan."
+  },
+  {
+    "id": "q-n4-bunpou-021",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「さっき ごはんを 食べた＿＿なのに、もう おなかが すきました。」",
+    "options": ["ばかり", "ところ", "こと", "まま"],
+    "answer": "ばかり",
+    "explanation": "〜たばかり berarti 'baru saja' melakukan."
+  },
+  {
+    "id": "q-n4-bunpou-022",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「日本語は 思った＿＿ 難しくありません。」",
+    "options": ["ほど", "だけ", "くらい", "しか"],
+    "answer": "ほど",
+    "explanation": "〜ほど menandai tingkat perbandingan: 'tidak sesulit yang dikira'."
+  },
+  {
+    "id": "q-n4-bunpou-023",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「この 店は 安い＿＿、おいしいです。」",
+    "options": ["し", "から", "のに", "ば"],
+    "answer": "し",
+    "explanation": "〜し〜し menyebutkan beberapa alasan sekaligus."
+  },
+  {
+    "id": "q-n4-bunpou-024",
+    "level": "N4",
+    "category": "bunpou",
+    "question": "「天気予報では、明日は 雨が 降る＿＿です。」",
+    "options": ["そうです", "そうに", "そうな", "そうで"],
+    "answer": "そうです",
+    "explanation": "〜そうです (dengan bentuk biasa + そうです) berarti 'kabarnya' dari sumber informasi."
+  },
+  {
+    "id": "q-n4-kotoba-001",
+    "level": "N4",
+    "category": "kotoba",
+    "question": "「来週の 試験の ために、今 ＿＿を しています。」 に入る ことばは どれですか。",
+    "options": ["準備", "予約", "経験", "約束"],
+    "answer": "準備",
+    "explanation": "準備 (じゅんび) berarti persiapan: 'sedang mempersiapkan diri'."
+  },
+  {
+    "id": "q-n4-kotoba-002",
+    "level": "N4",
+    "category": "kotoba",
+    "question": "「この ホテルは 人気が あるから、早く ＿＿しなければ なりません。」 に入る ことばは どれですか。",
+    "options": ["予約", "準備", "相談", "修理"],
+    "answer": "予約",
+    "explanation": "予約 (よやく) berarti reservasi: 'harus cepat memesan'."
+  },
+  {
+    "id": "q-n4-kotoba-003",
+    "level": "N4",
+    "category": "kotoba",
+    "question": "「パソコンが 壊れたから、店に ＿＿を 頼みました。」 に入る ことばは どれですか。",
+    "options": ["修理", "予約", "準備", "出発"],
+    "answer": "修理",
+    "explanation": "修理 (しゅうり) berarti perbaikan: meminta tolong perbaikan."
+  },
+  {
+    "id": "q-n4-kotoba-004",
+    "level": "N4",
+    "category": "kotoba",
+    "question": "「田中さんは 親切な 人です。」「親切」の 意味は どれですか。",
+    "options": ["baik hati", "ceroboh", "pemalu", "sibuk"],
+    "answer": "baik hati",
+    "explanation": "親切 (しんせつ) berarti ramah/baik hati."
+  },
+  {
+    "id": "q-n4-kotoba-005",
+    "level": "N4",
+    "category": "kotoba",
+    "question": "「母は 私の ことを 心配しています。」「心配」の 意味は どれですか。",
+    "options": ["khawatir", "kesal", "senang", "bingung"],
+    "answer": "khawatir",
+    "explanation": "心配 (しんぱい) berarti kekhawatiran."
+  },
+  {
+    "id": "q-n4-kotoba-006",
+    "level": "N4",
+    "category": "kotoba",
+    "question": "「外国で 働いた 経験が あります。」「経験」の 意味は どれですか。",
+    "options": ["pengalaman", "keberanian", "kebiasaan", "kepercayaan"],
+    "answer": "pengalaman",
+    "explanation": "経験 (けいけん) berarti pengalaman."
+  },
+  {
+    "id": "q-n4-kotoba-007",
+    "level": "N4",
+    "category": "kotoba",
+    "question": "「友だちと 明日 会う 約束を しました。」「約束」の 意味は どれですか。",
+    "options": ["janji", "undangan", "tugas", "percakapan"],
+    "answer": "janji",
+    "explanation": "約束 (やくそく) berarti janji."
+  },
+  {
+    "id": "q-n4-kotoba-008",
+    "level": "N4",
+    "category": "kotoba",
+    "question": "「今 会議を しています。」「会議」の 意味は どれですか。",
+    "options": ["rapat", "konser", "pelajaran", "pesta"],
+    "answer": "rapat",
+    "explanation": "会議 (かいぎ) berarti rapat."
+  },
+  {
+    "id": "q-n4-kotoba-009",
+    "level": "N4",
+    "category": "kotoba",
+    "question": "「結果が わかったら、連絡します。」「連絡」の 意味は どれですか。",
+    "options": ["menghubungi", "berangkat", "berhenti", "memikirkan"],
+    "answer": "menghubungi",
+    "explanation": "連絡 (れんらく) berarti menghubungi/memberi kabar."
+  },
+  {
+    "id": "q-n4-kotoba-010",
+    "level": "N4",
+    "category": "kotoba",
+    "question": "「来週、日本語で 発表を します。」「発表」の 意味は どれですか。",
+    "options": ["presentasi", "pembayaran", "pendaftaran", "percakapan"],
+    "answer": "presentasi",
+    "explanation": "発表 (はっぴょう) berarti presentasi/memaparkan hasil."
+  },
+  {
+    "id": "q-n4-kotoba-011",
+    "level": "N4",
+    "category": "kotoba",
+    "question": "「先生に 進路の ことを 相談しました。」「相談」の 意味は どれですか。",
+    "options": ["berkonsultasi", "memikirkan", "mengeluh", "menolak"],
+    "answer": "berkonsultasi",
+    "explanation": "相談 (そうだん) berarti berkonsultasi."
+  },
+  {
+    "id": "q-n4-kotoba-012",
+    "level": "N4",
+    "category": "kotoba",
+    "question": "「明日の 朝、七時に 出発します。」「出発」の 意味は どれですか。",
+    "options": ["berangkat", "bertemu", "kembali", "tiba"],
+    "answer": "berangkat",
+    "explanation": "出発 (しゅっぱつ) berarti keberangkatan."
+  }
+]
