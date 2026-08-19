@@ -1,21 +1,64 @@
 import { createClient } from '@supabase/supabase-js'
 
-// Fallback ke URL anon defaults jika env vars tidak ada (untuk development)
-const url = import.meta.env.VITE_SUPABASE_URL || 'https://your-project.supabase.co'
-const anonKey = import.meta.env.VITE_SUPABASE_ANON_KEY || 'your-anon-key'
+// Defensive init: jangan sampai crash di module-level meski env vars salah/tidak ada.
+// VITE_SUPABASE_URL harus URL valid; ANON_KEY harus JWT (2 bagian dipisah titik).
+const rawUrl = String(import.meta.env.VITE_SUPABASE_URL || '').trim()
+const rawKey = String(import.meta.env.VITE_SUPABASE_ANON_KEY || '').trim()
 
-export const supabase = createClient(url, anonKey, {
-  auth: {
-    persistSession: true,
-    autoRefreshToken: true,
-    detectSessionInUrl: true
+function isValidUrl(value) {
+  try {
+    const u = new URL(value)
+    return /^https?:$/.test(u.protocol) && u.hostname.includes('.')
+  } catch {
+    return false
   }
-})
+}
 
-// Export error handler untuk deteksi kegagalan init
-export const initSupabaseError = () => {
+function isValidKey(value) {
+  return typeof value === 'string' && value.split('.').length >= 2 && value.length > 40
+}
+
+const configured = isValidUrl(rawUrl) && isValidKey(rawKey)
+
+// Mock supabase yang aman: semua method mengembalikan Promise yang resolve
+// dengan hasil kosong sehingga panggilan di seluruh aplikasi tidak pernah crash.
+const safeResolve = () => Promise.resolve({ data: null, error: null, count: 0, status: 200 })
+
+function createNullProxy() {
+  const proxy = new Proxy(function () {
+    return safeResolve()
+  }, {
+    get(_target, prop) {
+      if (prop === 'then' || prop === 'catch' || prop === 'finally') return undefined
+      return createNullProxy()
+    },
+    apply() {
+      return safeResolve()
+    }
+  })
+  return proxy
+}
+
+const nullClient = createNullProxy()
+
+export const supabase = configured
+  ? createClient(rawUrl, rawKey, {
+      auth: {
+        persistSession: true,
+        autoRefreshToken: true,
+        detectSessionInUrl: true
+      }
+    })
+  : nullClient
+
+export const isSupabaseConfigured = () => configured
+
+// Daftar masalah konfigurasi (untuk debugging)
+export function initSupabaseError() {
   const errors = []
-  if (!import.meta.env.VITE_SUPABASE_URL) errors.push('VITE_SUPABASE_URL missing')
-  if (!import.meta.env.VITE_SUPABASE_ANON_KEY) errors.push('VITE_SUPABASE_ANON_KEY missing')
+  if (!rawUrl) errors.push('VITE_SUPABASE_URL kosong')
+  else if (!isValidUrl(rawUrl)) errors.push('VITE_SUPABASE_URL bukan URL valid')
+  if (!rawKey) errors.push('VITE_SUPABASE_ANON_KEY kosong')
+  else if (!isValidKey(rawKey)) errors.push('VITE_SUPABASE_ANON_KEY bukan JWT valid')
   return errors
 }
