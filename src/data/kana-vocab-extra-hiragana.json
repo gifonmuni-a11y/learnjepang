@@ -1,0 +1,3330 @@
+{
+  "あ": [
+    {
+      "kata": "あめ",
+      "romaji": "ame",
+      "arti": "hujan"
+    },
+    {
+      "kata": "あさ",
+      "romaji": "asa",
+      "arti": "pagi"
+    },
+    {
+      "kata": "あり",
+      "romaji": "ari",
+      "arti": "semut"
+    },
+    {
+      "kata": "あかい",
+      "romaji": "akai",
+      "arti": "merah"
+    },
+    {
+      "kata": "あたま",
+      "romaji": "atama",
+      "arti": "kepala"
+    },
+    {
+      "kata": "あかるい",
+      "romaji": "akarui",
+      "arti": "terang, cerah"
+    }
+  ],
+  "い": [
+    {
+      "kata": "いえ",
+      "romaji": "ie",
+      "arti": "rumah"
+    },
+    {
+      "kata": "いぬ",
+      "romaji": "inu",
+      "arti": "anjing"
+    },
+    {
+      "kata": "いし",
+      "romaji": "ishi",
+      "arti": "batu"
+    },
+    {
+      "kata": "いち",
+      "romaji": "ichi",
+      "arti": "satu"
+    },
+    {
+      "kata": "いま",
+      "romaji": "ima",
+      "arti": "sekarang"
+    },
+    {
+      "kata": "いい",
+      "romaji": "ii",
+      "arti": "bagus"
+    }
+  ],
+  "う": [
+    {
+      "kata": "うし",
+      "romaji": "ushi",
+      "arti": "sapi"
+    },
+    {
+      "kata": "うた",
+      "romaji": "uta",
+      "arti": "lagu"
+    },
+    {
+      "kata": "うみ",
+      "romaji": "umi",
+      "arti": "laut"
+    },
+    {
+      "kata": "うえ",
+      "romaji": "ue",
+      "arti": "atas"
+    },
+    {
+      "kata": "うで",
+      "romaji": "ude",
+      "arti": "lengan"
+    },
+    {
+      "kata": "うつくしい",
+      "romaji": "utsukushii",
+      "arti": "indah"
+    }
+  ],
+  "え": [
+    {
+      "kata": "えき",
+      "romaji": "eki",
+      "arti": "stasiun"
+    },
+    {
+      "kata": "えんぴつ",
+      "romaji": "enpitsu",
+      "arti": "pensil"
+    },
+    {
+      "kata": "えいが",
+      "romaji": "eiga",
+      "arti": "film"
+    },
+    {
+      "kata": "えほん",
+      "romaji": "ehon",
+      "arti": "buku bergambar"
+    },
+    {
+      "kata": "えん",
+      "romaji": "en",
+      "arti": "yen (mata uang)"
+    },
+    {
+      "kata": "かえる",
+      "romaji": "kaeru",
+      "arti": "katak"
+    }
+  ],
+  "お": [
+    {
+      "kata": "おと",
+      "romaji": "oto",
+      "arti": "suara, bunyi"
+    },
+    {
+      "kata": "おかね",
+      "romaji": "okane",
+      "arti": "uang"
+    },
+    {
+      "kata": "おおきい",
+      "romaji": "ookii",
+      "arti": "besar"
+    },
+    {
+      "kata": "おいしい",
+      "romaji": "oishii",
+      "arti": "enak, lezat"
+    },
+    {
+      "kata": "おなか",
+      "romaji": "onaka",
+      "arti": "perut"
+    },
+    {
+      "kata": "おもい",
+      "romaji": "omoi",
+      "arti": "berat"
+    }
+  ],
+  "か": [
+    {
+      "kata": "かお",
+      "romaji": "kao",
+      "arti": "wajah"
+    },
+    {
+      "kata": "かみ",
+      "romaji": "kami",
+      "arti": "kertas"
+    },
+    {
+      "kata": "かさ",
+      "romaji": "kasa",
+      "arti": "payung"
+    },
+    {
+      "kata": "かぎ",
+      "romaji": "kagi",
+      "arti": "kunci"
+    },
+    {
+      "kata": "かばん",
+      "romaji": "kaban",
+      "arti": "tas"
+    },
+    {
+      "kata": "かう",
+      "romaji": "kau",
+      "arti": "membeli"
+    }
+  ],
+  "き": [
+    {
+      "kata": "き",
+      "romaji": "ki",
+      "arti": "pohon"
+    },
+    {
+      "kata": "きく",
+      "romaji": "kiku",
+      "arti": "mendengar"
+    },
+    {
+      "kata": "きって",
+      "romaji": "kitte",
+      "arti": "prangko"
+    },
+    {
+      "kata": "きょう",
+      "romaji": "kyou",
+      "arti": "hari ini"
+    },
+    {
+      "kata": "きのう",
+      "romaji": "kinou",
+      "arti": "kemarin"
+    },
+    {
+      "kata": "きらい",
+      "romaji": "kirai",
+      "arti": "tidak suka"
+    }
+  ],
+  "く": [
+    {
+      "kata": "くつ",
+      "romaji": "kutsu",
+      "arti": "sepatu"
+    },
+    {
+      "kata": "くすり",
+      "romaji": "kusuri",
+      "arti": "obat"
+    },
+    {
+      "kata": "くるま",
+      "romaji": "kuruma",
+      "arti": "mobil"
+    },
+    {
+      "kata": "くも",
+      "romaji": "kumo",
+      "arti": "awan"
+    },
+    {
+      "kata": "くち",
+      "romaji": "kuchi",
+      "arti": "mulut"
+    },
+    {
+      "kata": "くろい",
+      "romaji": "kuroi",
+      "arti": "hitam"
+    }
+  ],
+  "け": [
+    {
+      "kata": "けさ",
+      "romaji": "kesa",
+      "arti": "pagi ini"
+    },
+    {
+      "kata": "けっこん",
+      "romaji": "kekkon",
+      "arti": "pernikahan"
+    },
+    {
+      "kata": "けいかく",
+      "romaji": "keikaku",
+      "arti": "rencana"
+    },
+    {
+      "kata": "けしき",
+      "romaji": "keshiki",
+      "arti": "pemandangan"
+    },
+    {
+      "kata": "けが",
+      "romaji": "kega",
+      "arti": "luka"
+    },
+    {
+      "kata": "けいけん",
+      "romaji": "keiken",
+      "arti": "pengalaman"
+    }
+  ],
+  "こ": [
+    {
+      "kata": "こえ",
+      "romaji": "koe",
+      "arti": "suara, ucapan"
+    },
+    {
+      "kata": "こども",
+      "romaji": "kodomo",
+      "arti": "anak"
+    },
+    {
+      "kata": "ことば",
+      "romaji": "kotoba",
+      "arti": "kata, bahasa"
+    },
+    {
+      "kata": "こめ",
+      "romaji": "kome",
+      "arti": "beras"
+    },
+    {
+      "kata": "こころ",
+      "romaji": "kokoro",
+      "arti": "hati"
+    },
+    {
+      "kata": "こわい",
+      "romaji": "kowai",
+      "arti": "menakutkan"
+    }
+  ],
+  "さ": [
+    {
+      "kata": "さかな",
+      "romaji": "sakana",
+      "arti": "ikan"
+    },
+    {
+      "kata": "さくら",
+      "romaji": "sakura",
+      "arti": "bunga sakura"
+    },
+    {
+      "kata": "さむい",
+      "romaji": "samui",
+      "arti": "dingin"
+    },
+    {
+      "kata": "さとう",
+      "romaji": "satou",
+      "arti": "gula"
+    },
+    {
+      "kata": "さけ",
+      "romaji": "sake",
+      "arti": "minuman keras Jepang"
+    },
+    {
+      "kata": "さんぽ",
+      "romaji": "sanpo",
+      "arti": "jalan-jalan"
+    }
+  ],
+  "し": [
+    {
+      "kata": "しお",
+      "romaji": "shio",
+      "arti": "garam"
+    },
+    {
+      "kata": "しごと",
+      "romaji": "shigoto",
+      "arti": "pekerjaan"
+    },
+    {
+      "kata": "しろい",
+      "romaji": "shiroi",
+      "arti": "putih"
+    },
+    {
+      "kata": "しつもん",
+      "romaji": "shitsumon",
+      "arti": "pertanyaan"
+    },
+    {
+      "kata": "しんぶん",
+      "romaji": "shinbun",
+      "arti": "koran"
+    },
+    {
+      "kata": "しま",
+      "romaji": "shima",
+      "arti": "pulau"
+    }
+  ],
+  "す": [
+    {
+      "kata": "すし",
+      "romaji": "sushi",
+      "arti": "sushi"
+    },
+    {
+      "kata": "すき",
+      "romaji": "suki",
+      "arti": "suka"
+    },
+    {
+      "kata": "すこし",
+      "romaji": "sukoshi",
+      "arti": "sedikit"
+    },
+    {
+      "kata": "する",
+      "romaji": "suru",
+      "arti": "melakukan"
+    },
+    {
+      "kata": "すいか",
+      "romaji": "suika",
+      "arti": "semangka"
+    },
+    {
+      "kata": "すわる",
+      "romaji": "suwaru",
+      "arti": "duduk"
+    }
+  ],
+  "せ": [
+    {
+      "kata": "せんせい",
+      "romaji": "sensei",
+      "arti": "guru"
+    },
+    {
+      "kata": "せかい",
+      "romaji": "sekai",
+      "arti": "dunia"
+    },
+    {
+      "kata": "せまい",
+      "romaji": "semai",
+      "arti": "sempit"
+    },
+    {
+      "kata": "せつめい",
+      "romaji": "setsumei",
+      "arti": "penjelasan"
+    },
+    {
+      "kata": "せいかつ",
+      "romaji": "seikatsu",
+      "arti": "kehidupan"
+    },
+    {
+      "kata": "せっけん",
+      "romaji": "sekken",
+      "arti": "sabun"
+    }
+  ],
+  "そ": [
+    {
+      "kata": "そら",
+      "romaji": "sora",
+      "arti": "langit"
+    },
+    {
+      "kata": "そこ",
+      "romaji": "soko",
+      "arti": "di sana"
+    },
+    {
+      "kata": "そば",
+      "romaji": "soba",
+      "arti": "mie soba"
+    },
+    {
+      "kata": "そと",
+      "romaji": "soto",
+      "arti": "luar"
+    },
+    {
+      "kata": "そうじ",
+      "romaji": "souji",
+      "arti": "bersih-bersih"
+    },
+    {
+      "kata": "そんな",
+      "romaji": "sonna",
+      "arti": "seperti itu"
+    }
+  ],
+  "た": [
+    {
+      "kata": "たべる",
+      "romaji": "taberu",
+      "arti": "makan"
+    },
+    {
+      "kata": "たかい",
+      "romaji": "takai",
+      "arti": "tinggi, mahal"
+    },
+    {
+      "kata": "たまご",
+      "romaji": "tamago",
+      "arti": "telur"
+    },
+    {
+      "kata": "たばこ",
+      "romaji": "tabako",
+      "arti": "rokok"
+    },
+    {
+      "kata": "たんじょうび",
+      "romaji": "tanjoubi",
+      "arti": "ulang tahun"
+    },
+    {
+      "kata": "たすける",
+      "romaji": "tasukeru",
+      "arti": "menolong"
+    }
+  ],
+  "ち": [
+    {
+      "kata": "ちず",
+      "romaji": "chizu",
+      "arti": "peta"
+    },
+    {
+      "kata": "ちかてつ",
+      "romaji": "chikatetsu",
+      "arti": "kereta bawah tanah"
+    },
+    {
+      "kata": "ちいさい",
+      "romaji": "chiisai",
+      "arti": "kecil"
+    },
+    {
+      "kata": "ちから",
+      "romaji": "chikara",
+      "arti": "kekuatan"
+    },
+    {
+      "kata": "ちかく",
+      "romaji": "chikaku",
+      "arti": "dekat"
+    },
+    {
+      "kata": "ちがう",
+      "romaji": "chigau",
+      "arti": "berbeda, salah"
+    }
+  ],
+  "つ": [
+    {
+      "kata": "つくえ",
+      "romaji": "tsukue",
+      "arti": "meja"
+    },
+    {
+      "kata": "つき",
+      "romaji": "tsuki",
+      "arti": "bulan (rembulan)"
+    },
+    {
+      "kata": "つめ",
+      "romaji": "tsume",
+      "arti": "kuku"
+    },
+    {
+      "kata": "つかう",
+      "romaji": "tsukau",
+      "arti": "memakai"
+    },
+    {
+      "kata": "つよい",
+      "romaji": "tsuyoi",
+      "arti": "kuat"
+    },
+    {
+      "kata": "つぎ",
+      "romaji": "tsugi",
+      "arti": "berikutnya"
+    }
+  ],
+  "て": [
+    {
+      "kata": "て",
+      "romaji": "te",
+      "arti": "tangan"
+    },
+    {
+      "kata": "てんき",
+      "romaji": "tenki",
+      "arti": "cuaca"
+    },
+    {
+      "kata": "てがみ",
+      "romaji": "tegami",
+      "arti": "surat"
+    },
+    {
+      "kata": "てつだう",
+      "romaji": "tetsudau",
+      "arti": "membantu"
+    },
+    {
+      "kata": "てあらい",
+      "romaji": "tearai",
+      "arti": "toilet, wastafel"
+    },
+    {
+      "kata": "てぶくろ",
+      "romaji": "tebukuro",
+      "arti": "sarung tangan"
+    }
+  ],
+  "と": [
+    {
+      "kata": "とり",
+      "romaji": "tori",
+      "arti": "burung"
+    },
+    {
+      "kata": "とけい",
+      "romaji": "tokei",
+      "arti": "jam"
+    },
+    {
+      "kata": "とし",
+      "romaji": "toshi",
+      "arti": "tahun"
+    },
+    {
+      "kata": "ともだち",
+      "romaji": "tomodachi",
+      "arti": "teman"
+    },
+    {
+      "kata": "とうふ",
+      "romaji": "toufu",
+      "arti": "tahu (makanan)"
+    },
+    {
+      "kata": "とおい",
+      "romaji": "tooi",
+      "arti": "jauh"
+    }
+  ],
+  "な": [
+    {
+      "kata": "なつ",
+      "romaji": "natsu",
+      "arti": "musim panas"
+    },
+    {
+      "kata": "なまえ",
+      "romaji": "namae",
+      "arti": "nama"
+    },
+    {
+      "kata": "ながい",
+      "romaji": "nagai",
+      "arti": "panjang"
+    },
+    {
+      "kata": "なく",
+      "romaji": "naku",
+      "arti": "menangis"
+    },
+    {
+      "kata": "なか",
+      "romaji": "naka",
+      "arti": "di dalam"
+    },
+    {
+      "kata": "なに",
+      "romaji": "nani",
+      "arti": "apa"
+    }
+  ],
+  "に": [
+    {
+      "kata": "にく",
+      "romaji": "niku",
+      "arti": "daging"
+    },
+    {
+      "kata": "にわ",
+      "romaji": "niwa",
+      "arti": "taman"
+    },
+    {
+      "kata": "にほん",
+      "romaji": "nihon",
+      "arti": "Jepang"
+    },
+    {
+      "kata": "にちようび",
+      "romaji": "nichiyoubi",
+      "arti": "hari Minggu"
+    },
+    {
+      "kata": "にんげん",
+      "romaji": "ningen",
+      "arti": "manusia"
+    },
+    {
+      "kata": "にわとり",
+      "romaji": "niwatori",
+      "arti": "ayam"
+    }
+  ],
+  "ぬ": [
+    {
+      "kata": "ぬの",
+      "romaji": "nuno",
+      "arti": "kain"
+    },
+    {
+      "kata": "ぬるい",
+      "romaji": "nurui",
+      "arti": "hangat, suam-suam kuku"
+    },
+    {
+      "kata": "ぬすむ",
+      "romaji": "nusumu",
+      "arti": "mencuri"
+    },
+    {
+      "kata": "ぬう",
+      "romaji": "nuu",
+      "arti": "menjahit"
+    },
+    {
+      "kata": "ぬれる",
+      "romaji": "nureru",
+      "arti": "basah"
+    },
+    {
+      "kata": "ぬく",
+      "romaji": "nuku",
+      "arti": "mencabut"
+    }
+  ],
+  "ね": [
+    {
+      "kata": "ねこ",
+      "romaji": "neko",
+      "arti": "kucing"
+    },
+    {
+      "kata": "ねる",
+      "romaji": "neru",
+      "arti": "tidur"
+    },
+    {
+      "kata": "ねだん",
+      "romaji": "nedan",
+      "arti": "harga"
+    },
+    {
+      "kata": "ねつ",
+      "romaji": "netsu",
+      "arti": "demam, panas"
+    },
+    {
+      "kata": "ねぎ",
+      "romaji": "negi",
+      "arti": "daun bawang"
+    },
+    {
+      "kata": "ねん",
+      "romaji": "nen",
+      "arti": "tahun (jangka waktu)"
+    }
+  ],
+  "の": [
+    {
+      "kata": "のむ",
+      "romaji": "nomu",
+      "arti": "minum"
+    },
+    {
+      "kata": "のみもの",
+      "romaji": "nomimono",
+      "arti": "minuman"
+    },
+    {
+      "kata": "のりもの",
+      "romaji": "norimono",
+      "arti": "kendaraan"
+    },
+    {
+      "kata": "のど",
+      "romaji": "nodo",
+      "arti": "tenggorokan"
+    },
+    {
+      "kata": "のこる",
+      "romaji": "nokoru",
+      "arti": "tersisa"
+    },
+    {
+      "kata": "のぼる",
+      "romaji": "noboru",
+      "arti": "naik, mendaki"
+    }
+  ],
+  "は": [
+    {
+      "kata": "はな",
+      "romaji": "hana",
+      "arti": "bunga"
+    },
+    {
+      "kata": "はし",
+      "romaji": "hashi",
+      "arti": "sumpit"
+    },
+    {
+      "kata": "はやい",
+      "romaji": "hayai",
+      "arti": "cepat"
+    },
+    {
+      "kata": "はる",
+      "romaji": "haru",
+      "arti": "musim semi"
+    },
+    {
+      "kata": "はなす",
+      "romaji": "hanasu",
+      "arti": "berbicara"
+    },
+    {
+      "kata": "はこ",
+      "romaji": "hako",
+      "arti": "kotak"
+    }
+  ],
+  "ひ": [
+    {
+      "kata": "ひと",
+      "romaji": "hito",
+      "arti": "orang"
+    },
+    {
+      "kata": "ひる",
+      "romaji": "hiru",
+      "arti": "siang"
+    },
+    {
+      "kata": "ひくい",
+      "romaji": "hikui",
+      "arti": "rendah"
+    },
+    {
+      "kata": "ひろい",
+      "romaji": "hiroi",
+      "arti": "luas"
+    },
+    {
+      "kata": "ひかり",
+      "romaji": "hikari",
+      "arti": "cahaya"
+    },
+    {
+      "kata": "ひだり",
+      "romaji": "hidari",
+      "arti": "kiri"
+    }
+  ],
+  "ふ": [
+    {
+      "kata": "ふゆ",
+      "romaji": "fuyu",
+      "arti": "musim dingin"
+    },
+    {
+      "kata": "ふく",
+      "romaji": "fuku",
+      "arti": "pakaian"
+    },
+    {
+      "kata": "ふね",
+      "romaji": "fune",
+      "arti": "kapal"
+    },
+    {
+      "kata": "ふかい",
+      "romaji": "fukai",
+      "arti": "dalam"
+    },
+    {
+      "kata": "ふるい",
+      "romaji": "furui",
+      "arti": "tua, lama"
+    },
+    {
+      "kata": "ふたり",
+      "romaji": "futari",
+      "arti": "dua orang"
+    }
+  ],
+  "へ": [
+    {
+      "kata": "へや",
+      "romaji": "heya",
+      "arti": "kamar"
+    },
+    {
+      "kata": "へた",
+      "romaji": "heta",
+      "arti": "tidak pandai"
+    },
+    {
+      "kata": "へん",
+      "romaji": "hen",
+      "arti": "aneh"
+    },
+    {
+      "kata": "へんじ",
+      "romaji": "henji",
+      "arti": "jawaban"
+    },
+    {
+      "kata": "へいわ",
+      "romaji": "heiwa",
+      "arti": "damai"
+    },
+    {
+      "kata": "へび",
+      "romaji": "hebi",
+      "arti": "ular"
+    }
+  ],
+  "ほ": [
+    {
+      "kata": "ほん",
+      "romaji": "hon",
+      "arti": "buku"
+    },
+    {
+      "kata": "ほし",
+      "romaji": "hoshi",
+      "arti": "bintang"
+    },
+    {
+      "kata": "ほか",
+      "romaji": "hoka",
+      "arti": "yang lain"
+    },
+    {
+      "kata": "ほしい",
+      "romaji": "hoshii",
+      "arti": "ingin"
+    },
+    {
+      "kata": "ほそい",
+      "romaji": "hosoi",
+      "arti": "tipis, ramping"
+    },
+    {
+      "kata": "ほんとう",
+      "romaji": "hontou",
+      "arti": "benar, sungguh"
+    }
+  ],
+  "ま": [
+    {
+      "kata": "まち",
+      "romaji": "machi",
+      "arti": "kota"
+    },
+    {
+      "kata": "まいあさ",
+      "romaji": "maiasa",
+      "arti": "setiap pagi"
+    },
+    {
+      "kata": "まつ",
+      "romaji": "matsu",
+      "arti": "menunggu"
+    },
+    {
+      "kata": "まるい",
+      "romaji": "marui",
+      "arti": "bulat"
+    },
+    {
+      "kata": "まど",
+      "romaji": "mado",
+      "arti": "jendela"
+    },
+    {
+      "kata": "まいにち",
+      "romaji": "mainichi",
+      "arti": "setiap hari"
+    }
+  ],
+  "み": [
+    {
+      "kata": "みず",
+      "romaji": "mizu",
+      "arti": "air"
+    },
+    {
+      "kata": "みみ",
+      "romaji": "mimi",
+      "arti": "telinga"
+    },
+    {
+      "kata": "みぎ",
+      "romaji": "migi",
+      "arti": "kanan"
+    },
+    {
+      "kata": "みせ",
+      "romaji": "mise",
+      "arti": "toko"
+    },
+    {
+      "kata": "みる",
+      "romaji": "miru",
+      "arti": "melihat"
+    },
+    {
+      "kata": "みじかい",
+      "romaji": "mijikai",
+      "arti": "pendek"
+    }
+  ],
+  "む": [
+    {
+      "kata": "むし",
+      "romaji": "mushi",
+      "arti": "serangga"
+    },
+    {
+      "kata": "むずかしい",
+      "romaji": "muzukashii",
+      "arti": "sulit"
+    },
+    {
+      "kata": "むすこ",
+      "romaji": "musuko",
+      "arti": "anak laki-laki"
+    },
+    {
+      "kata": "むすめ",
+      "romaji": "musume",
+      "arti": "anak perempuan"
+    },
+    {
+      "kata": "むかし",
+      "romaji": "mukashi",
+      "arti": "zaman dulu"
+    },
+    {
+      "kata": "むら",
+      "romaji": "mura",
+      "arti": "desa"
+    }
+  ],
+  "め": [
+    {
+      "kata": "め",
+      "romaji": "me",
+      "arti": "mata"
+    },
+    {
+      "kata": "めがね",
+      "romaji": "megane",
+      "arti": "kacamata"
+    },
+    {
+      "kata": "めいし",
+      "romaji": "meishi",
+      "arti": "kartu nama"
+    },
+    {
+      "kata": "やめる",
+      "romaji": "yameru",
+      "arti": "berhenti"
+    },
+    {
+      "kata": "ため",
+      "romaji": "tame",
+      "arti": "untuk, demi"
+    },
+    {
+      "kata": "ためいき",
+      "romaji": "tameiki",
+      "arti": "desahan napas"
+    }
+  ],
+  "も": [
+    {
+      "kata": "もり",
+      "romaji": "mori",
+      "arti": "hutan"
+    },
+    {
+      "kata": "もつ",
+      "romaji": "motsu",
+      "arti": "memegang"
+    },
+    {
+      "kata": "もんだい",
+      "romaji": "mondai",
+      "arti": "soal, masalah"
+    },
+    {
+      "kata": "もも",
+      "romaji": "momo",
+      "arti": "persik"
+    },
+    {
+      "kata": "もう",
+      "romaji": "mou",
+      "arti": "sudah, lagi"
+    },
+    {
+      "kata": "もち",
+      "romaji": "mochi",
+      "arti": "kue beras"
+    }
+  ],
+  "や": [
+    {
+      "kata": "やま",
+      "romaji": "yama",
+      "arti": "gunung"
+    },
+    {
+      "kata": "やさい",
+      "romaji": "yasai",
+      "arti": "sayuran"
+    },
+    {
+      "kata": "やすい",
+      "romaji": "yasui",
+      "arti": "murah"
+    },
+    {
+      "kata": "やくそく",
+      "romaji": "yakusoku",
+      "arti": "janji"
+    },
+    {
+      "kata": "やる",
+      "romaji": "yaru",
+      "arti": "melakukan"
+    },
+    {
+      "kata": "やね",
+      "romaji": "yane",
+      "arti": "atap"
+    }
+  ],
+  "ゆ": [
+    {
+      "kata": "ゆき",
+      "romaji": "yuki",
+      "arti": "salju"
+    },
+    {
+      "kata": "ゆび",
+      "romaji": "yubi",
+      "arti": "jari"
+    },
+    {
+      "kata": "ゆめ",
+      "romaji": "yume",
+      "arti": "mimpi"
+    },
+    {
+      "kata": "ゆうがた",
+      "romaji": "yuugata",
+      "arti": "sore hari"
+    },
+    {
+      "kata": "ゆっくり",
+      "romaji": "yukkuri",
+      "arti": "perlahan"
+    },
+    {
+      "kata": "ゆうびん",
+      "romaji": "yuubin",
+      "arti": "pos, surat"
+    }
+  ],
+  "よ": [
+    {
+      "kata": "よる",
+      "romaji": "yoru",
+      "arti": "malam"
+    },
+    {
+      "kata": "よむ",
+      "romaji": "yomu",
+      "arti": "membaca"
+    },
+    {
+      "kata": "よこ",
+      "romaji": "yoko",
+      "arti": "samping"
+    },
+    {
+      "kata": "よやく",
+      "romaji": "yoyaku",
+      "arti": "reservasi"
+    },
+    {
+      "kata": "よかった",
+      "romaji": "yokatta",
+      "arti": "syukurlah, bagus"
+    },
+    {
+      "kata": "ようい",
+      "romaji": "youi",
+      "arti": "persiapan"
+    }
+  ],
+  "ら": [
+    {
+      "kata": "ならう",
+      "romaji": "narau",
+      "arti": "belajar"
+    },
+    {
+      "kata": "ひらく",
+      "romaji": "hiraku",
+      "arti": "membuka"
+    },
+    {
+      "kata": "からだ",
+      "romaji": "karada",
+      "arti": "tubuh"
+    },
+    {
+      "kata": "えらぶ",
+      "romaji": "erabu",
+      "arti": "memilih"
+    },
+    {
+      "kata": "しらべる",
+      "romaji": "shiraberu",
+      "arti": "memeriksa"
+    },
+    {
+      "kata": "はらう",
+      "romaji": "harau",
+      "arti": "membayar"
+    }
+  ],
+  "り": [
+    {
+      "kata": "りんご",
+      "romaji": "ringo",
+      "arti": "apel"
+    },
+    {
+      "kata": "りょうり",
+      "romaji": "ryouri",
+      "arti": "masakan"
+    },
+    {
+      "kata": "りょこう",
+      "romaji": "ryokou",
+      "arti": "perjalanan"
+    },
+    {
+      "kata": "りっぱ",
+      "romaji": "rippa",
+      "arti": "hebat, bagus"
+    },
+    {
+      "kata": "はり",
+      "romaji": "hari",
+      "arti": "jarum"
+    },
+    {
+      "kata": "より",
+      "romaji": "yori",
+      "arti": "daripada"
+    }
+  ],
+  "る": [
+    {
+      "kata": "くる",
+      "romaji": "kuru",
+      "arti": "datang"
+    },
+    {
+      "kata": "さる",
+      "romaji": "saru",
+      "arti": "monyet"
+    },
+    {
+      "kata": "なる",
+      "romaji": "naru",
+      "arti": "menjadi"
+    },
+    {
+      "kata": "はいる",
+      "romaji": "hairu",
+      "arti": "masuk"
+    },
+    {
+      "kata": "おわる",
+      "romaji": "owaru",
+      "arti": "selesai"
+    },
+    {
+      "kata": "とる",
+      "romaji": "toru",
+      "arti": "mengambil"
+    }
+  ],
+  "れ": [
+    {
+      "kata": "れきし",
+      "romaji": "rekishi",
+      "arti": "sejarah"
+    },
+    {
+      "kata": "かれ",
+      "romaji": "kare",
+      "arti": "dia (laki-laki)"
+    },
+    {
+      "kata": "れんしゅう",
+      "romaji": "renshuu",
+      "arti": "latihan"
+    },
+    {
+      "kata": "これ",
+      "romaji": "kore",
+      "arti": "ini"
+    },
+    {
+      "kata": "それ",
+      "romaji": "sore",
+      "arti": "itu"
+    },
+    {
+      "kata": "あれ",
+      "romaji": "are",
+      "arti": "itu (jauh)"
+    }
+  ],
+  "ろ": [
+    {
+      "kata": "ろく",
+      "romaji": "roku",
+      "arti": "enam"
+    },
+    {
+      "kata": "いろ",
+      "romaji": "iro",
+      "arti": "warna"
+    },
+    {
+      "kata": "いろいろ",
+      "romaji": "iroiro",
+      "arti": "berbagai macam"
+    },
+    {
+      "kata": "そろそろ",
+      "romaji": "sorosoro",
+      "arti": "sebentar lagi"
+    },
+    {
+      "kata": "しろ",
+      "romaji": "shiro",
+      "arti": "putih"
+    },
+    {
+      "kata": "くろ",
+      "romaji": "kuro",
+      "arti": "hitam"
+    }
+  ],
+  "わ": [
+    {
+      "kata": "わたし",
+      "romaji": "watashi",
+      "arti": "saya"
+    },
+    {
+      "kata": "わるい",
+      "romaji": "warui",
+      "arti": "buruk"
+    },
+    {
+      "kata": "わかい",
+      "romaji": "wakai",
+      "arti": "muda"
+    },
+    {
+      "kata": "わすれる",
+      "romaji": "wasureru",
+      "arti": "lupa"
+    },
+    {
+      "kata": "わかる",
+      "romaji": "wakaru",
+      "arti": "mengerti"
+    },
+    {
+      "kata": "さわぐ",
+      "romaji": "sawagu",
+      "arti": "berisik, ribut"
+    }
+  ],
+  "を": [
+    {
+      "kata": "ごはんをたべる",
+      "romaji": "gohan wo taberu",
+      "arti": "makan nasi"
+    },
+    {
+      "kata": "みずをのむ",
+      "romaji": "mizu wo nomu",
+      "arti": "minum air"
+    },
+    {
+      "kata": "ほんをよむ",
+      "romaji": "hon wo yomu",
+      "arti": "membaca buku"
+    },
+    {
+      "kata": "てがみをかく",
+      "romaji": "tegami wo kaku",
+      "arti": "menulis surat"
+    },
+    {
+      "kata": "えいがをみる",
+      "romaji": "eiga wo miru",
+      "arti": "menonton film"
+    },
+    {
+      "kata": "おんがくをきく",
+      "romaji": "ongaku wo kiku",
+      "arti": "mendengarkan musik"
+    }
+  ],
+  "ん": [
+    {
+      "kata": "おんがく",
+      "romaji": "ongaku",
+      "arti": "musik"
+    },
+    {
+      "kata": "こんばん",
+      "romaji": "konban",
+      "arti": "malam ini"
+    },
+    {
+      "kata": "あんない",
+      "romaji": "annai",
+      "arti": "panduan, petunjuk"
+    },
+    {
+      "kata": "かんじ",
+      "romaji": "kanji",
+      "arti": "huruf kanji"
+    },
+    {
+      "kata": "にんじん",
+      "romaji": "ninjin",
+      "arti": "wortel"
+    },
+    {
+      "kata": "みんな",
+      "romaji": "minna",
+      "arti": "semua orang"
+    }
+  ],
+  "が": [
+    {
+      "kata": "がくせい",
+      "romaji": "gakusei",
+      "arti": "pelajar"
+    },
+    {
+      "kata": "がいこく",
+      "romaji": "gaikoku",
+      "arti": "luar negeri"
+    },
+    {
+      "kata": "がっこう",
+      "romaji": "gakkou",
+      "arti": "sekolah"
+    },
+    {
+      "kata": "がんばる",
+      "romaji": "ganbaru",
+      "arti": "berusaha, bertahan"
+    },
+    {
+      "kata": "かがみ",
+      "romaji": "kagami",
+      "arti": "cermin"
+    },
+    {
+      "kata": "あがる",
+      "romaji": "agaru",
+      "arti": "naik"
+    }
+  ],
+  "ぎ": [
+    {
+      "kata": "ぎゅうにゅう",
+      "romaji": "gyuunyuu",
+      "arti": "susu"
+    },
+    {
+      "kata": "ぎんこう",
+      "romaji": "ginkou",
+      "arti": "bank"
+    },
+    {
+      "kata": "ぎじゅつ",
+      "romaji": "gijutsu",
+      "arti": "teknologi"
+    },
+    {
+      "kata": "ぎもん",
+      "romaji": "gimon",
+      "arti": "keraguan, pertanyaan"
+    },
+    {
+      "kata": "みぎ",
+      "romaji": "migi",
+      "arti": "kanan"
+    },
+    {
+      "kata": "きぎょう",
+      "romaji": "kigyou",
+      "arti": "perusahaan"
+    }
+  ],
+  "ぐ": [
+    {
+      "kata": "ぐあい",
+      "romaji": "guai",
+      "arti": "kondisi, keadaan"
+    },
+    {
+      "kata": "かぐ",
+      "romaji": "kagu",
+      "arti": "perabot, furnitur"
+    },
+    {
+      "kata": "ぬぐ",
+      "romaji": "nugu",
+      "arti": "melepas (pakaian)"
+    },
+    {
+      "kata": "ぐっすり",
+      "romaji": "gussuri",
+      "arti": "nyenyak (tidur)"
+    },
+    {
+      "kata": "ぐるぐる",
+      "romaji": "guruguru",
+      "arti": "berputar-putar"
+    },
+    {
+      "kata": "なぐる",
+      "romaji": "naguru",
+      "arti": "memukul"
+    }
+  ],
+  "げ": [
+    {
+      "kata": "げんき",
+      "romaji": "genki",
+      "arti": "sehat, semangat"
+    },
+    {
+      "kata": "げんかん",
+      "romaji": "genkan",
+      "arti": "pintu masuk"
+    },
+    {
+      "kata": "げつようび",
+      "romaji": "getsuyoubi",
+      "arti": "hari Senin"
+    },
+    {
+      "kata": "ひげ",
+      "romaji": "hige",
+      "arti": "kumis, janggut"
+    },
+    {
+      "kata": "にげる",
+      "romaji": "nigeru",
+      "arti": "kabur, melarikan diri"
+    },
+    {
+      "kata": "げんだい",
+      "romaji": "gendai",
+      "arti": "modern, masa kini"
+    }
+  ],
+  "ご": [
+    {
+      "kata": "ごはん",
+      "romaji": "gohan",
+      "arti": "nasi, makanan"
+    },
+    {
+      "kata": "ごご",
+      "romaji": "gogo",
+      "arti": "sore"
+    },
+    {
+      "kata": "ごぜん",
+      "romaji": "gozen",
+      "arti": "pagi"
+    },
+    {
+      "kata": "ごみ",
+      "romaji": "gomi",
+      "arti": "sampah"
+    },
+    {
+      "kata": "まご",
+      "romaji": "mago",
+      "arti": "cucu"
+    },
+    {
+      "kata": "かご",
+      "romaji": "kago",
+      "arti": "keranjang"
+    }
+  ],
+  "ざ": [
+    {
+      "kata": "ざっし",
+      "romaji": "zasshi",
+      "arti": "majalah"
+    },
+    {
+      "kata": "ざんねん",
+      "romaji": "zannen",
+      "arti": "sayang sekali"
+    },
+    {
+      "kata": "ざぶとん",
+      "romaji": "zabuton",
+      "arti": "bantal duduk"
+    },
+    {
+      "kata": "かざる",
+      "romaji": "kazaru",
+      "arti": "menghias"
+    },
+    {
+      "kata": "きざむ",
+      "romaji": "kizamu",
+      "arti": "memotong halus"
+    },
+    {
+      "kata": "ざいりょう",
+      "romaji": "zairyou",
+      "arti": "bahan"
+    }
+  ],
+  "じ": [
+    {
+      "kata": "じしょ",
+      "romaji": "jisho",
+      "arti": "kamus"
+    },
+    {
+      "kata": "じかん",
+      "romaji": "jikan",
+      "arti": "waktu"
+    },
+    {
+      "kata": "じぶん",
+      "romaji": "jibun",
+      "arti": "diri sendiri"
+    },
+    {
+      "kata": "じどうしゃ",
+      "romaji": "jidousha",
+      "arti": "mobil"
+    },
+    {
+      "kata": "じしん",
+      "romaji": "jishin",
+      "arti": "gempa bumi"
+    },
+    {
+      "kata": "じゅぎょう",
+      "romaji": "jugyou",
+      "arti": "pelajaran, kelas"
+    }
+  ],
+  "ず": [
+    {
+      "kata": "ずつ",
+      "romaji": "zutsu",
+      "arti": "masing-masing"
+    },
+    {
+      "kata": "はず",
+      "romaji": "hazu",
+      "arti": "seharusnya"
+    },
+    {
+      "kata": "ずるい",
+      "romaji": "zurui",
+      "arti": "curang"
+    },
+    {
+      "kata": "すずしい",
+      "romaji": "suzushii",
+      "arti": "sejuk"
+    },
+    {
+      "kata": "かず",
+      "romaji": "kazu",
+      "arti": "jumlah"
+    },
+    {
+      "kata": "きず",
+      "romaji": "kizu",
+      "arti": "luka, goresan"
+    }
+  ],
+  "ぜ": [
+    {
+      "kata": "ぜひ",
+      "romaji": "zehi",
+      "arti": "pasti, dengan segala cara"
+    },
+    {
+      "kata": "ぜんぶ",
+      "romaji": "zenbu",
+      "arti": "semuanya"
+    },
+    {
+      "kata": "かぜ",
+      "romaji": "kaze",
+      "arti": "angin; flu"
+    },
+    {
+      "kata": "ぜったい",
+      "romaji": "zettai",
+      "arti": "pasti, mutlak"
+    },
+    {
+      "kata": "ぜんぜん",
+      "romaji": "zenzen",
+      "arti": "sama sekali (negatif)"
+    },
+    {
+      "kata": "いぜん",
+      "romaji": "izen",
+      "arti": "sebelumnya"
+    }
+  ],
+  "ぞ": [
+    {
+      "kata": "ぞう",
+      "romaji": "zou",
+      "arti": "gajah"
+    },
+    {
+      "kata": "ぞうきん",
+      "romaji": "zoukin",
+      "arti": "lap, kain pel"
+    },
+    {
+      "kata": "ぞうり",
+      "romaji": "zouri",
+      "arti": "sandal jepit"
+    },
+    {
+      "kata": "かんぞう",
+      "romaji": "kanzou",
+      "arti": "hati (organ)"
+    },
+    {
+      "kata": "なぞ",
+      "romaji": "nazo",
+      "arti": "teka-teki"
+    },
+    {
+      "kata": "ぞくご",
+      "romaji": "zokugo",
+      "arti": "bahasa gaul"
+    }
+  ],
+  "だ": [
+    {
+      "kata": "だいがく",
+      "romaji": "daigaku",
+      "arti": "universitas"
+    },
+    {
+      "kata": "だれ",
+      "romaji": "dare",
+      "arti": "siapa"
+    },
+    {
+      "kata": "だいじょうぶ",
+      "romaji": "daijoubu",
+      "arti": "tidak apa-apa"
+    },
+    {
+      "kata": "だいどころ",
+      "romaji": "daidokoro",
+      "arti": "dapur"
+    },
+    {
+      "kata": "だめ",
+      "romaji": "dame",
+      "arti": "tidak boleh, sia-sia"
+    },
+    {
+      "kata": "だんし",
+      "romaji": "danshi",
+      "arti": "laki-laki"
+    }
+  ],
+  "ぢ": [
+    {
+      "kata": "はなぢ",
+      "romaji": "hanaji",
+      "arti": "mimisan"
+    },
+    {
+      "kata": "ちぢむ",
+      "romaji": "chijimu",
+      "arti": "menyusut"
+    },
+    {
+      "kata": "ちぢれる",
+      "romaji": "chijireru",
+      "arti": "keriting"
+    },
+    {
+      "kata": "みぢか",
+      "romaji": "mijika",
+      "arti": "dekat, akrab"
+    },
+    {
+      "kata": "てぢか",
+      "romaji": "tejika",
+      "arti": "dalam jangkauan"
+    },
+    {
+      "kata": "ちぢこむ",
+      "romaji": "chijikomu",
+      "arti": "meringkuk"
+    }
+  ],
+  "づ": [
+    {
+      "kata": "つづく",
+      "romaji": "tsuzuku",
+      "arti": "berlanjut"
+    },
+    {
+      "kata": "つづける",
+      "romaji": "tsuzukeru",
+      "arti": "melanjutkan"
+    },
+    {
+      "kata": "かたづける",
+      "romaji": "katazukeru",
+      "arti": "membereskan"
+    },
+    {
+      "kata": "みかづき",
+      "romaji": "mikazuki",
+      "arti": "bulan sabit"
+    },
+    {
+      "kata": "きづく",
+      "romaji": "kizuku",
+      "arti": "menyadari"
+    },
+    {
+      "kata": "つづり",
+      "romaji": "tsuzuri",
+      "arti": "ejaan"
+    }
+  ],
+  "で": [
+    {
+      "kata": "でんわ",
+      "romaji": "denwa",
+      "arti": "telepon"
+    },
+    {
+      "kata": "でぐち",
+      "romaji": "deguchi",
+      "arti": "pintu keluar"
+    },
+    {
+      "kata": "でる",
+      "romaji": "deru",
+      "arti": "keluar"
+    },
+    {
+      "kata": "できる",
+      "romaji": "dekiru",
+      "arti": "bisa, dapat"
+    },
+    {
+      "kata": "でんしゃ",
+      "romaji": "densha",
+      "arti": "kereta"
+    },
+    {
+      "kata": "でんき",
+      "romaji": "denki",
+      "arti": "listrik"
+    }
+  ],
+  "ど": [
+    {
+      "kata": "どく",
+      "romaji": "doku",
+      "arti": "racun"
+    },
+    {
+      "kata": "どこ",
+      "romaji": "doko",
+      "arti": "di mana"
+    },
+    {
+      "kata": "どようび",
+      "romaji": "doyoubi",
+      "arti": "hari Sabtu"
+    },
+    {
+      "kata": "どろ",
+      "romaji": "doro",
+      "arti": "lumpur"
+    },
+    {
+      "kata": "どうぶつ",
+      "romaji": "doubutsu",
+      "arti": "binatang"
+    },
+    {
+      "kata": "どあ",
+      "romaji": "doa",
+      "arti": "pintu"
+    }
+  ],
+  "ば": [
+    {
+      "kata": "ばんごはん",
+      "romaji": "bangohan",
+      "arti": "makan malam"
+    },
+    {
+      "kata": "ばしょ",
+      "romaji": "basho",
+      "arti": "tempat"
+    },
+    {
+      "kata": "ばん",
+      "romaji": "ban",
+      "arti": "giliran"
+    },
+    {
+      "kata": "ばい",
+      "romaji": "bai",
+      "arti": "kali lipat"
+    },
+    {
+      "kata": "たば",
+      "romaji": "taba",
+      "arti": "ikatan, berkas"
+    },
+    {
+      "kata": "おばあさん",
+      "romaji": "obaasan",
+      "arti": "nenek"
+    }
+  ],
+  "び": [
+    {
+      "kata": "びょうき",
+      "romaji": "byouki",
+      "arti": "sakit, penyakit"
+    },
+    {
+      "kata": "びん",
+      "romaji": "bin",
+      "arti": "botol"
+    },
+    {
+      "kata": "びよういん",
+      "romaji": "biyouin",
+      "arti": "salon kecantikan"
+    },
+    {
+      "kata": "びっくり",
+      "romaji": "bikkuri",
+      "arti": "terkejut"
+    },
+    {
+      "kata": "たび",
+      "romaji": "tabi",
+      "arti": "perjalanan"
+    },
+    {
+      "kata": "ひとびと",
+      "romaji": "hitobito",
+      "arti": "orang-orang"
+    }
+  ],
+  "ぶ": [
+    {
+      "kata": "ぶん",
+      "romaji": "bun",
+      "arti": "kalimat"
+    },
+    {
+      "kata": "ぶた",
+      "romaji": "buta",
+      "arti": "babi"
+    },
+    {
+      "kata": "ぶどう",
+      "romaji": "budou",
+      "arti": "anggur"
+    },
+    {
+      "kata": "きぶん",
+      "romaji": "kibun",
+      "arti": "suasana hati"
+    },
+    {
+      "kata": "あぶない",
+      "romaji": "abunai",
+      "arti": "berbahaya"
+    },
+    {
+      "kata": "じゅうぶん",
+      "romaji": "juubun",
+      "arti": "cukup"
+    }
+  ],
+  "べ": [
+    {
+      "kata": "べんきょう",
+      "romaji": "benkyou",
+      "arti": "belajar"
+    },
+    {
+      "kata": "べつ",
+      "romaji": "betsu",
+      "arti": "lain, berbeda"
+    },
+    {
+      "kata": "べんとう",
+      "romaji": "bentou",
+      "arti": "bekal makanan"
+    },
+    {
+      "kata": "べんり",
+      "romaji": "benri",
+      "arti": "praktis, berguna"
+    },
+    {
+      "kata": "かべ",
+      "romaji": "kabe",
+      "arti": "dinding"
+    },
+    {
+      "kata": "くべつ",
+      "romaji": "kubetsu",
+      "arti": "pembedaan"
+    }
+  ],
+  "ぼ": [
+    {
+      "kata": "ぼく",
+      "romaji": "boku",
+      "arti": "aku (laki-laki)"
+    },
+    {
+      "kata": "ぼうし",
+      "romaji": "boushi",
+      "arti": "topi"
+    },
+    {
+      "kata": "ほぼ",
+      "romaji": "hobo",
+      "arti": "hampir"
+    },
+    {
+      "kata": "ぼん",
+      "romaji": "bon",
+      "arti": "nampan"
+    },
+    {
+      "kata": "きぼ",
+      "romaji": "kibo",
+      "arti": "harapan"
+    },
+    {
+      "kata": "そぼ",
+      "romaji": "sobo",
+      "arti": "nenek"
+    }
+  ],
+  "ぱ": [
+    {
+      "kata": "ぱん",
+      "romaji": "pan",
+      "arti": "roti"
+    },
+    {
+      "kata": "ぱぱ",
+      "romaji": "papa",
+      "arti": "ayah"
+    },
+    {
+      "kata": "ぱちぱち",
+      "romaji": "pachipachi",
+      "arti": "bunyi tepuk tangan"
+    },
+    {
+      "kata": "しっぱい",
+      "romaji": "shippai",
+      "arti": "kegagalan"
+    },
+    {
+      "kata": "ぱっと",
+      "romaji": "patto",
+      "arti": "sekonyong-konyong"
+    },
+    {
+      "kata": "はっぱ",
+      "romaji": "happa",
+      "arti": "daun"
+    }
+  ],
+  "ぴ": [
+    {
+      "kata": "えんぴつ",
+      "romaji": "enpitsu",
+      "arti": "pensil"
+    },
+    {
+      "kata": "ぴかぴか",
+      "romaji": "pikapika",
+      "arti": "berkilau"
+    },
+    {
+      "kata": "ぴったり",
+      "romaji": "pittari",
+      "arti": "pas sekali"
+    },
+    {
+      "kata": "ぴん",
+      "romaji": "pin",
+      "arti": "peniti"
+    },
+    {
+      "kata": "ぴちぴち",
+      "romaji": "pichipichi",
+      "arti": "segar (ikan hidup)"
+    },
+    {
+      "kata": "ぴりぴり",
+      "romaji": "piripiri",
+      "arti": "pedas menyengat"
+    }
+  ],
+  "ぷ": [
+    {
+      "kata": "ぷんぷん",
+      "romaji": "punpun",
+      "arti": "marah, geram"
+    },
+    {
+      "kata": "ぷるぷる",
+      "romaji": "purupuru",
+      "arti": "gemetar"
+    },
+    {
+      "kata": "ぷつぷつ",
+      "romaji": "putsputsu",
+      "arti": "bintik-bintik"
+    },
+    {
+      "kata": "しっぷ",
+      "romaji": "shippu",
+      "arti": "kompres"
+    },
+    {
+      "kata": "いんぷ",
+      "romaji": "inpu",
+      "arti": "masukan, input"
+    },
+    {
+      "kata": "てんぷ",
+      "romaji": "tenpu",
+      "arti": "lampiran"
+    }
+  ],
+  "ぺ": [
+    {
+      "kata": "ぺん",
+      "romaji": "pen",
+      "arti": "pulpen"
+    },
+    {
+      "kata": "ぺらぺら",
+      "romaji": "perapera",
+      "arti": "lancar (berbahasa)"
+    },
+    {
+      "kata": "ぺこぺこ",
+      "romaji": "pekopeko",
+      "arti": "perut lapar"
+    },
+    {
+      "kata": "ぺんぎん",
+      "romaji": "pengin",
+      "arti": "pinguin"
+    },
+    {
+      "kata": "かんぺき",
+      "romaji": "kanpeki",
+      "arti": "sempurna"
+    },
+    {
+      "kata": "ぺろぺろ",
+      "romaji": "peropero",
+      "arti": "menjilat-jilat"
+    }
+  ],
+  "ぽ": [
+    {
+      "kata": "にっぽん",
+      "romaji": "nippon",
+      "arti": "Jepang"
+    },
+    {
+      "kata": "てっぽう",
+      "romaji": "teppou",
+      "arti": "senapan"
+    },
+    {
+      "kata": "ぽつぽつ",
+      "romaji": "potsupotsu",
+      "arti": "sedikit demi sedikit"
+    },
+    {
+      "kata": "ぽかぽか",
+      "romaji": "pokapoka",
+      "arti": "hangat nyaman"
+    },
+    {
+      "kata": "ぽっちゃり",
+      "romaji": "potchari",
+      "arti": "gemuk, chubby"
+    },
+    {
+      "kata": "ぽんぽん",
+      "romaji": "ponpon",
+      "arti": "perut"
+    }
+  ],
+  "きゃ": [
+    {
+      "kata": "きゃく",
+      "romaji": "kyaku",
+      "arti": "tamu, pelanggan"
+    },
+    {
+      "kata": "おきゃくさん",
+      "romaji": "okyakusan",
+      "arti": "tamu (hormat)"
+    },
+    {
+      "kata": "きゃくま",
+      "romaji": "kyakuma",
+      "arti": "ruang tamu"
+    },
+    {
+      "kata": "きゃべつ",
+      "romaji": "kyabetsu",
+      "arti": "kubis"
+    },
+    {
+      "kata": "かんきゃく",
+      "romaji": "kankyaku",
+      "arti": "penonton"
+    },
+    {
+      "kata": "きゃんぷ",
+      "romaji": "kyampu",
+      "arti": "berkemah"
+    }
+  ],
+  "きゅ": [
+    {
+      "kata": "きゅう",
+      "romaji": "kyuu",
+      "arti": "sembilan"
+    },
+    {
+      "kata": "きゅうじつ",
+      "romaji": "kyuujitsu",
+      "arti": "hari libur"
+    },
+    {
+      "kata": "きゅうきゅうしゃ",
+      "romaji": "kyuukyuusha",
+      "arti": "ambulans"
+    },
+    {
+      "kata": "きゅうり",
+      "romaji": "kyuuri",
+      "arti": "mentimun"
+    },
+    {
+      "kata": "きゅうけい",
+      "romaji": "kyuukei",
+      "arti": "istirahat"
+    },
+    {
+      "kata": "きんきゅう",
+      "romaji": "kinkyu",
+      "arti": "darurat"
+    }
+  ],
+  "きょ": [
+    {
+      "kata": "きょう",
+      "romaji": "kyou",
+      "arti": "hari ini"
+    },
+    {
+      "kata": "きょうし",
+      "romaji": "kyoushi",
+      "arti": "guru"
+    },
+    {
+      "kata": "きょく",
+      "romaji": "kyoku",
+      "arti": "lagu"
+    },
+    {
+      "kata": "きょねん",
+      "romaji": "kyonen",
+      "arti": "tahun lalu"
+    },
+    {
+      "kata": "きょうだい",
+      "romaji": "kyoudai",
+      "arti": "saudara"
+    },
+    {
+      "kata": "きょうみ",
+      "romaji": "kyoumi",
+      "arti": "minat, ketertarikan"
+    }
+  ],
+  "しゃ": [
+    {
+      "kata": "しゃしん",
+      "romaji": "shashin",
+      "arti": "foto"
+    },
+    {
+      "kata": "しゃべる",
+      "romaji": "shaberu",
+      "arti": "mengobrol"
+    },
+    {
+      "kata": "しゃかい",
+      "romaji": "shakai",
+      "arti": "masyarakat"
+    },
+    {
+      "kata": "しゃいん",
+      "romaji": "shain",
+      "arti": "karyawan"
+    },
+    {
+      "kata": "しゃっきん",
+      "romaji": "shakkin",
+      "arti": "utang"
+    },
+    {
+      "kata": "たいしゃ",
+      "romaji": "taisha",
+      "arti": "pensiun"
+    }
+  ],
+  "しゅ": [
+    {
+      "kata": "しゅみ",
+      "romaji": "shumi",
+      "arti": "hobi"
+    },
+    {
+      "kata": "しゅうまつ",
+      "romaji": "shuumatsu",
+      "arti": "akhir pekan"
+    },
+    {
+      "kata": "しゅくだい",
+      "romaji": "shukudai",
+      "arti": "pekerjaan rumah"
+    },
+    {
+      "kata": "しゅじん",
+      "romaji": "shujin",
+      "arti": "suami"
+    },
+    {
+      "kata": "しゅうかん",
+      "romaji": "shuukan",
+      "arti": "kebiasaan"
+    },
+    {
+      "kata": "しゅっぱつ",
+      "romaji": "shuppatsu",
+      "arti": "keberangkatan"
+    }
+  ],
+  "しょ": [
+    {
+      "kata": "しょくじ",
+      "romaji": "shokuji",
+      "arti": "makan"
+    },
+    {
+      "kata": "しょうがっこう",
+      "romaji": "shougakkou",
+      "arti": "sekolah dasar"
+    },
+    {
+      "kata": "しょうらい",
+      "romaji": "shourai",
+      "arti": "masa depan"
+    },
+    {
+      "kata": "しょうがつ",
+      "romaji": "shougatsu",
+      "arti": "Tahun Baru"
+    },
+    {
+      "kata": "しょくどう",
+      "romaji": "shokudou",
+      "arti": "kantin, ruang makan"
+    },
+    {
+      "kata": "しょっちゅう",
+      "romaji": "shocchuu",
+      "arti": "sering"
+    }
+  ],
+  "ちゃ": [
+    {
+      "kata": "ちゃ",
+      "romaji": "cha",
+      "arti": "teh"
+    },
+    {
+      "kata": "おちゃ",
+      "romaji": "ocha",
+      "arti": "teh (hormat)"
+    },
+    {
+      "kata": "ちゃいろ",
+      "romaji": "chairo",
+      "arti": "warna cokelat"
+    },
+    {
+      "kata": "ちゃんと",
+      "romaji": "chanto",
+      "arti": "dengan benar"
+    },
+    {
+      "kata": "ちゃわん",
+      "romaji": "chawan",
+      "arti": "mangkuk"
+    },
+    {
+      "kata": "ちゃぶだい",
+      "romaji": "chabudai",
+      "arti": "meja rendah"
+    }
+  ],
+  "ちゅ": [
+    {
+      "kata": "ちゅうがく",
+      "romaji": "chuugaku",
+      "arti": "SMP"
+    },
+    {
+      "kata": "ちゅうしゃ",
+      "romaji": "chuusha",
+      "arti": "suntikan, injeksi"
+    },
+    {
+      "kata": "ちゅうい",
+      "romaji": "chuui",
+      "arti": "perhatian, hati-hati"
+    },
+    {
+      "kata": "ちゅうもん",
+      "romaji": "chuumon",
+      "arti": "pesanan"
+    },
+    {
+      "kata": "ちゅうしゃじょう",
+      "romaji": "chuushajou",
+      "arti": "tempat parkir"
+    },
+    {
+      "kata": "ちゅうごく",
+      "romaji": "chuugoku",
+      "arti": "Tiongkok"
+    }
+  ],
+  "ちょ": [
+    {
+      "kata": "ちょっと",
+      "romaji": "chotto",
+      "arti": "sebentar, sedikit"
+    },
+    {
+      "kata": "ちょくせつ",
+      "romaji": "chokusetsu",
+      "arti": "langsung"
+    },
+    {
+      "kata": "ちょうし",
+      "romaji": "choushi",
+      "arti": "kondisi, keadaan"
+    },
+    {
+      "kata": "ちょうど",
+      "romaji": "choudo",
+      "arti": "tepat"
+    },
+    {
+      "kata": "ちょうしょく",
+      "romaji": "choushoku",
+      "arti": "sarapan"
+    },
+    {
+      "kata": "てちょう",
+      "romaji": "techou",
+      "arti": "buku catatan"
+    }
+  ],
+  "にゃ": [
+    {
+      "kata": "こんにゃく",
+      "romaji": "konnyaku",
+      "arti": "konjak (makanan)"
+    },
+    {
+      "kata": "にゃんこ",
+      "romaji": "nyanko",
+      "arti": "kucing (kasual)"
+    },
+    {
+      "kata": "にゃん",
+      "romaji": "nyan",
+      "arti": "meong"
+    },
+    {
+      "kata": "にゃあ",
+      "romaji": "nyaa",
+      "arti": "meong (bunyi kucing)"
+    },
+    {
+      "kata": "にゃんにゃん",
+      "romaji": "nyannyan",
+      "arti": "kucing (bahasa anak-anak)"
+    },
+    {
+      "kata": "おにゃのこ",
+      "romaji": "onyanoko",
+      "arti": "anak perempuan (kasual)"
+    }
+  ],
+  "にゅ": [
+    {
+      "kata": "にゅうがく",
+      "romaji": "nyuugaku",
+      "arti": "masuk sekolah"
+    },
+    {
+      "kata": "にゅういん",
+      "romaji": "nyuuin",
+      "arti": "rawat inap"
+    },
+    {
+      "kata": "にゅうようじ",
+      "romaji": "nyuuyouji",
+      "arti": "bayi"
+    },
+    {
+      "kata": "にゅうしゃ",
+      "romaji": "nyuusha",
+      "arti": "masuk kerja"
+    },
+    {
+      "kata": "にゅうしゅう",
+      "romaji": "nyuushuu",
+      "arti": "panen"
+    },
+    {
+      "kata": "にゅうこく",
+      "romaji": "nyuukoku",
+      "arti": "masuk ke negara"
+    }
+  ],
+  "にょ": [
+    {
+      "kata": "にょう",
+      "romaji": "nyou",
+      "arti": "urin, air seni"
+    },
+    {
+      "kata": "はいにょう",
+      "romaji": "hainyou",
+      "arti": "buang air kecil"
+    },
+    {
+      "kata": "にょうぼう",
+      "romaji": "nyoubou",
+      "arti": "istri (tradisional)"
+    },
+    {
+      "kata": "にょきにょき",
+      "romaji": "nyokinyoki",
+      "arti": "tumbuh pesat"
+    },
+    {
+      "kata": "にょろにょろ",
+      "romaji": "nyoronyoro",
+      "arti": "meliuk-liuk"
+    },
+    {
+      "kata": "ぶにょぶにょ",
+      "romaji": "bunyobunyo",
+      "arti": "lembek, lentur"
+    }
+  ],
+  "ひゃ": [
+    {
+      "kata": "ひゃく",
+      "romaji": "hyaku",
+      "arti": "seratus"
+    },
+    {
+      "kata": "ひゃくえん",
+      "romaji": "hyakuen",
+      "arti": "seratus yen"
+    },
+    {
+      "kata": "ひゃっかてん",
+      "romaji": "hyakkaten",
+      "arti": "toko serba ada"
+    },
+    {
+      "kata": "ひゃっかじてん",
+      "romaji": "hyakkajiten",
+      "arti": "ensiklopedia"
+    },
+    {
+      "kata": "にひゃく",
+      "romaji": "nihyaku",
+      "arti": "dua ratus"
+    },
+    {
+      "kata": "ひゃくまん",
+      "romaji": "hyakuman",
+      "arti": "satu juta"
+    }
+  ],
+  "ひゅ": [
+    {
+      "kata": "ひゅう",
+      "romaji": "hyuu",
+      "arti": "desingan angin"
+    },
+    {
+      "kata": "ひゅうひゅう",
+      "romaji": "hyuuhyuu",
+      "arti": "angin bersiut"
+    },
+    {
+      "kata": "ひゅん",
+      "romaji": "hyun",
+      "arti": "bersiut cepat"
+    },
+    {
+      "kata": "ひゅるひゅる",
+      "romaji": "hyuruhyuru",
+      "arti": "bersiut meliuk"
+    },
+    {
+      "kata": "ひゅっと",
+      "romaji": "hyutto",
+      "arti": "dengan bersiut"
+    },
+    {
+      "kata": "ひゅうが",
+      "romaji": "hyuuga",
+      "arti": "nama tempat di Miyazaki"
+    }
+  ],
+  "ひょ": [
+    {
+      "kata": "ひょう",
+      "romaji": "hyou",
+      "arti": "grafik, tabel"
+    },
+    {
+      "kata": "ひょうめん",
+      "romaji": "hyoumen",
+      "arti": "permukaan"
+    },
+    {
+      "kata": "ひょうきん",
+      "romaji": "hyoukin",
+      "arti": "lucu, jenaka"
+    },
+    {
+      "kata": "ひょうじ",
+      "romaji": "hyouji",
+      "arti": "tampilan, penunjukan"
+    },
+    {
+      "kata": "ひょうじょう",
+      "romaji": "hyoujou",
+      "arti": "ekspresi wajah"
+    },
+    {
+      "kata": "ひょうじゅん",
+      "romaji": "hyoujun",
+      "arti": "standar"
+    }
+  ],
+  "みゃ": [
+    {
+      "kata": "さんみゃく",
+      "romaji": "sanmyaku",
+      "arti": "pegunungan"
+    },
+    {
+      "kata": "みゃく",
+      "romaji": "myaku",
+      "arti": "nadi, denyut"
+    },
+    {
+      "kata": "ぶんみゃく",
+      "romaji": "bunmyaku",
+      "arti": "konteks"
+    },
+    {
+      "kata": "みゃくみゃく",
+      "romaji": "myakumyaku",
+      "arti": "berdenyut terus"
+    },
+    {
+      "kata": "だいどうみゃく",
+      "romaji": "daidoumyaku",
+      "arti": "aorta"
+    },
+    {
+      "kata": "しんみゃく",
+      "romaji": "shinmyaku",
+      "arti": "denyut jantung"
+    }
+  ],
+  "みゅ": [
+    {
+      "kata": "みゅーじっく",
+      "romaji": "myuujikku",
+      "arti": "musik"
+    },
+    {
+      "kata": "みゅうじあむ",
+      "romaji": "myuujiamu",
+      "arti": "museum"
+    },
+    {
+      "kata": "こみゅにけーしょん",
+      "romaji": "komyunikeeshon",
+      "arti": "komunikasi"
+    },
+    {
+      "kata": "みゅーじかる",
+      "romaji": "myuujikaru",
+      "arti": "musikal"
+    },
+    {
+      "kata": "みゅーと",
+      "romaji": "myuuto",
+      "arti": "senyap, mode diam"
+    },
+    {
+      "kata": "みゅう",
+      "romaji": "myuu",
+      "arti": "bunyi mengeong"
+    }
+  ],
+  "みょ": [
+    {
+      "kata": "みょうじ",
+      "romaji": "myouji",
+      "arti": "nama keluarga"
+    },
+    {
+      "kata": "みょうにち",
+      "romaji": "myounichi",
+      "arti": "besok (formal)"
+    },
+    {
+      "kata": "みょうばん",
+      "romaji": "myouban",
+      "arti": "besok malam (formal)"
+    },
+    {
+      "kata": "みょうが",
+      "romaji": "myouga",
+      "arti": "jahe Jepang"
+    },
+    {
+      "kata": "みょうちょう",
+      "romaji": "myouchou",
+      "arti": "besok pagi (formal)"
+    },
+    {
+      "kata": "みょう",
+      "romaji": "myou",
+      "arti": "aneh, keanehan"
+    }
+  ],
+  "りゃ": [
+    {
+      "kata": "こりゃ",
+      "romaji": "korya",
+      "arti": "ini sih (kasual)"
+    },
+    {
+      "kata": "そりゃ",
+      "romaji": "sorya",
+      "arti": "tentu saja (kasual)"
+    },
+    {
+      "kata": "りゃく",
+      "romaji": "ryaku",
+      "arti": "singkatan"
+    },
+    {
+      "kata": "りゃくご",
+      "romaji": "ryakugo",
+      "arti": "kata singkatan"
+    },
+    {
+      "kata": "すりゃ",
+      "romaji": "surya",
+      "arti": "kalau melakukan (kasual)"
+    },
+    {
+      "kata": "くりゃ",
+      "romaji": "kurya",
+      "arti": "kalau datang (kasual)"
+    }
+  ],
+  "りゅ": [
+    {
+      "kata": "りゅう",
+      "romaji": "ryuu",
+      "arti": "naga"
+    },
+    {
+      "kata": "りゅうがく",
+      "romaji": "ryuugaku",
+      "arti": "belajar di luar negeri"
+    },
+    {
+      "kata": "りゅうこう",
+      "romaji": "ryuukou",
+      "arti": "tren, mode"
+    },
+    {
+      "kata": "りゅうぐう",
+      "romaji": "ryuuguu",
+      "arti": "istana naga"
+    },
+    {
+      "kata": "でんりゅう",
+      "romaji": "denryuu",
+      "arti": "arus listrik"
+    },
+    {
+      "kata": "かいりゅう",
+      "romaji": "kairyuu",
+      "arti": "arus laut"
+    }
+  ],
+  "りょ": [
+    {
+      "kata": "りょこう",
+      "romaji": "ryokou",
+      "arti": "perjalanan"
+    },
+    {
+      "kata": "りょうり",
+      "romaji": "ryouri",
+      "arti": "masakan"
+    },
+    {
+      "kata": "りょう",
+      "romaji": "ryou",
+      "arti": "kamar"
+    },
+    {
+      "kata": "りょくちゃ",
+      "romaji": "ryokucha",
+      "arti": "teh hijau"
+    },
+    {
+      "kata": "りょうきん",
+      "romaji": "ryoukin",
+      "arti": "biaya"
+    },
+    {
+      "kata": "りょうて",
+      "romaji": "ryoute",
+      "arti": "kedua tangan"
+    }
+  ],
+  "ぎゃ": [
+    {
+      "kata": "ぎゃく",
+      "romaji": "gyaku",
+      "arti": "kebalikan"
+    },
+    {
+      "kata": "ぎゃくたい",
+      "romaji": "gyakutai",
+      "arti": "kekerasan, penyiksaan"
+    },
+    {
+      "kata": "ぎゃくてん",
+      "romaji": "gyakuten",
+      "arti": "pembalikan keadaan"
+    },
+    {
+      "kata": "ぎゃっきょう",
+      "romaji": "gyakkyou",
+      "arti": "situasi buruk"
+    },
+    {
+      "kata": "はんぎゃく",
+      "romaji": "hangyaku",
+      "arti": "pemberontakan"
+    },
+    {
+      "kata": "ぎゃあ",
+      "romaji": "gyaa",
+      "arti": "jeritan (terkejut)"
+    }
+  ],
+  "ぎゅ": [
+    {
+      "kata": "ぎゅうにゅう",
+      "romaji": "gyuunyuu",
+      "arti": "susu"
+    },
+    {
+      "kata": "ぎゅうにく",
+      "romaji": "gyuuniku",
+      "arti": "daging sapi"
+    },
+    {
+      "kata": "ぎゅうどん",
+      "romaji": "gyuudon",
+      "arti": "nasi mangkuk daging sapi"
+    },
+    {
+      "kata": "ぎゅう",
+      "romaji": "gyuu",
+      "arti": "sapi"
+    },
+    {
+      "kata": "ぎゅっと",
+      "romaji": "gyutto",
+      "arti": "dengan erat"
+    },
+    {
+      "kata": "ぎゅうぎゅう",
+      "romaji": "gyuugyuu",
+      "arti": "penuh sesak"
+    }
+  ],
+  "ぎょ": [
+    {
+      "kata": "ぎょうざ",
+      "romaji": "gyouza",
+      "arti": "pangsit goreng"
+    },
+    {
+      "kata": "ぎょうじ",
+      "romaji": "gyouji",
+      "arti": "acara, upacara"
+    },
+    {
+      "kata": "ぎょうむ",
+      "romaji": "gyoumu",
+      "arti": "tugas kerja"
+    },
+    {
+      "kata": "ぎょうれつ",
+      "romaji": "gyouretsu",
+      "arti": "antrean"
+    },
+    {
+      "kata": "ぎょるい",
+      "romaji": "gyorui",
+      "arti": "jenis ikan"
+    },
+    {
+      "kata": "ぎょ",
+      "romaji": "gyo",
+      "arti": "ikan (awalan kata)"
+    }
+  ],
+  "じゃ": [
+    {
+      "kata": "じゃあ",
+      "romaji": "jaa",
+      "arti": "kalau begitu"
+    },
+    {
+      "kata": "じゃ",
+      "romaji": "ja",
+      "arti": "ya, kalau begitu (kasual)"
+    },
+    {
+      "kata": "じゃま",
+      "romaji": "jama",
+      "arti": "gangguan"
+    },
+    {
+      "kata": "じゃがいも",
+      "romaji": "jagaimo",
+      "arti": "kentang"
+    },
+    {
+      "kata": "じゃんけん",
+      "romaji": "janken",
+      "arti": "suit batu-gunting-kertas"
+    },
+    {
+      "kata": "じゃっかん",
+      "romaji": "jakkan",
+      "arti": "sejumlah"
+    }
+  ],
+  "じゅ": [
+    {
+      "kata": "じゅう",
+      "romaji": "juu",
+      "arti": "sepuluh"
+    },
+    {
+      "kata": "じゅぎょう",
+      "romaji": "jugyou",
+      "arti": "pelajaran, kelas"
+    },
+    {
+      "kata": "じゅんび",
+      "romaji": "junbi",
+      "arti": "persiapan"
+    },
+    {
+      "kata": "じゅうしょ",
+      "romaji": "juusho",
+      "arti": "alamat"
+    },
+    {
+      "kata": "じゅんばん",
+      "romaji": "junban",
+      "arti": "urutan"
+    },
+    {
+      "kata": "じゅく",
+      "romaji": "juku",
+      "arti": "bimbingan belajar"
+    }
+  ],
+  "じょ": [
+    {
+      "kata": "じょうず",
+      "romaji": "jouzu",
+      "arti": "pandai, mahir"
+    },
+    {
+      "kata": "じょうぶ",
+      "romaji": "joubu",
+      "arti": "kuat, awet"
+    },
+    {
+      "kata": "じょうだん",
+      "romaji": "joudan",
+      "arti": "lelucon"
+    },
+    {
+      "kata": "じょせい",
+      "romaji": "josei",
+      "arti": "perempuan"
+    },
+    {
+      "kata": "じょゆう",
+      "romaji": "joyuu",
+      "arti": "aktris"
+    },
+    {
+      "kata": "じょし",
+      "romaji": "joshi",
+      "arti": "anak perempuan (kasual)"
+    }
+  ],
+  "びゃ": [
+    {
+      "kata": "さんびゃく",
+      "romaji": "sanbyaku",
+      "arti": "tiga ratus"
+    },
+    {
+      "kata": "なんびゃく",
+      "romaji": "nanbyaku",
+      "arti": "berapa ratus"
+    },
+    {
+      "kata": "びゃっこ",
+      "romaji": "byakko",
+      "arti": "harimau putih (mitos)"
+    },
+    {
+      "kata": "びゃくや",
+      "romaji": "byakuya",
+      "arti": "malam kutub"
+    },
+    {
+      "kata": "びゃくたん",
+      "romaji": "byakutan",
+      "arti": "kayu cendana"
+    },
+    {
+      "kata": "びゃくごう",
+      "romaji": "byakugou",
+      "arti": "jambul putih (Buddha)"
+    }
+  ],
+  "びゅ": [
+    {
+      "kata": "びゅう",
+      "romaji": "byuu",
+      "arti": "suara desingan"
+    },
+    {
+      "kata": "びゅーびゅー",
+      "romaji": "byuubyuu",
+      "arti": "angin menderu"
+    },
+    {
+      "kata": "びゅん",
+      "romaji": "byun",
+      "arti": "bersiut cepat"
+    },
+    {
+      "kata": "びゅんびゅん",
+      "romaji": "byunbyun",
+      "arti": "bersiut-siut"
+    },
+    {
+      "kata": "びゅっと",
+      "romaji": "byutto",
+      "arti": "dengan melesat"
+    },
+    {
+      "kata": "びゅっ",
+      "romaji": "byu",
+      "arti": "desingan tiba-tiba"
+    }
+  ],
+  "びょ": [
+    {
+      "kata": "びょういん",
+      "romaji": "byouin",
+      "arti": "rumah sakit"
+    },
+    {
+      "kata": "びょう",
+      "romaji": "byou",
+      "arti": "detik (waktu)"
+    },
+    {
+      "kata": "びょうどう",
+      "romaji": "byoudou",
+      "arti": "kesetaraan"
+    },
+    {
+      "kata": "びょうぶ",
+      "romaji": "byoubu",
+      "arti": "sekatan penyekat"
+    },
+    {
+      "kata": "びょうえき",
+      "romaji": "byoueki",
+      "arti": "wabah penyakit"
+    },
+    {
+      "kata": "かんびょう",
+      "romaji": "kanbyou",
+      "arti": "merawat orang sakit"
+    }
+  ],
+  "ぴゃ": [
+    {
+      "kata": "はっぴゃく",
+      "romaji": "happiyaku",
+      "arti": "delapan ratus"
+    },
+    {
+      "kata": "ろっぴゃく",
+      "romaji": "roppiyaku",
+      "arti": "enam ratus"
+    },
+    {
+      "kata": "ぴゃっと",
+      "romaji": "pyatto",
+      "arti": "tiba-tiba, cepat"
+    },
+    {
+      "kata": "ぴゃぴゃ",
+      "romaji": "pyapya",
+      "arti": "bunyi kicauan"
+    },
+    {
+      "kata": "ぴゃんぴゃん",
+      "romaji": "pyanpyan",
+      "arti": "bunyi kenyal"
+    },
+    {
+      "kata": "ぴゃっ",
+      "romaji": "pya",
+      "arti": "bunyi tiba-tiba"
+    }
+  ],
+  "ぴゅ": [
+    {
+      "kata": "こんぴゅーたー",
+      "romaji": "konpyuutaa",
+      "arti": "komputer"
+    },
+    {
+      "kata": "ぴゅう",
+      "romaji": "pyuu",
+      "arti": "bunyi siulan"
+    },
+    {
+      "kata": "ぴゅーぴゅー",
+      "romaji": "pyuupyuu",
+      "arti": "bersiul terus"
+    },
+    {
+      "kata": "ぴゅん",
+      "romaji": "pyun",
+      "arti": "melesat"
+    },
+    {
+      "kata": "ぴゅんぴゅん",
+      "romaji": "pyunpyun",
+      "arti": "melesat-melesat"
+    },
+    {
+      "kata": "ぴゅっと",
+      "romaji": "pyutto",
+      "arti": "dengan bersiul"
+    }
+  ],
+  "ぴょ": [
+    {
+      "kata": "ぴょん",
+      "romaji": "pyon",
+      "arti": "lompatan"
+    },
+    {
+      "kata": "ぴょんぴょん",
+      "romaji": "pyonpyon",
+      "arti": "melompat-lompat"
+    },
+    {
+      "kata": "ぴょこぴょこ",
+      "romaji": "pyokopyoko",
+      "arti": "muncul tenggelam bergantian"
+    },
+    {
+      "kata": "ぴょこん",
+      "romaji": "pyokon",
+      "arti": "muncul tiba-tiba"
+    },
+    {
+      "kata": "ぴょいぴょい",
+      "romaji": "pyoipiyoi",
+      "arti": "melompat-lompat kecil"
+    },
+    {
+      "kata": "ぴょーん",
+      "romaji": "pyoon",
+      "arti": "lompatan besar"
+    }
+  ]
+}

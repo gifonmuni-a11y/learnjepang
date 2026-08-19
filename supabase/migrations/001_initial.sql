@@ -4,6 +4,10 @@
 -- Dijalankan di Supabase SQL Editor
 -- Project: mougecldsdwfzrtlsevd.supabase.co
 -- Anonymous Key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1vdWdlY2xkc2R3ZnpydGxzZXZkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODcxMDE2OTMsImV4cCI6MjEwMjY3NzY5M30.K2Em63XvGhzUBk2Q2of7RgQmqclcN8IsD1hIT9YY4lc
+--
+-- CATATAN: Semua policy memakai "drop policy if exists" SEBELUM
+-- "create policy" sehingga aman dijalankan ulang (idempotent).
+-- Tidak akan muncul error 42710 "policy already exists".
 -- ============================================================
 
 -- 1. Enable UUID extension
@@ -25,9 +29,13 @@ create table if not exists public.srs_progress (
   unique (user_id, card_type, card_id)
 );
 alter table public.srs_progress enable row level security;
+drop policy if exists "srs_progress_select_own" on public.srs_progress;
 create policy "srs_progress_select_own" on public.srs_progress for select using (auth.uid() = user_id);
+drop policy if exists "srs_progress_insert_own" on public.srs_progress;
 create policy "srs_progress_insert_own" on public.srs_progress for insert with check (auth.uid() = user_id);
+drop policy if exists "srs_progress_update_own" on public.srs_progress;
 create policy "srs_progress_update_own" on public.srs_progress for update using (auth.uid() = user_id) with check (auth.uid() = user_id);
+drop policy if exists "srs_progress_delete_own" on public.srs_progress;
 create policy "srs_progress_delete_own" on public.srs_progress for delete using (auth.uid() = user_id);
 create index if not exists srs_progress_user_idx on public.srs_progress (user_id);
 create index if not exists srs_progress_due_idx on public.srs_progress (user_id, next_review_date);
@@ -40,9 +48,13 @@ create table if not exists public.custom_decks (
   created_at timestamptz default now()
 );
 alter table public.custom_decks enable row level security;
+drop policy if exists "custom_decks_select_own" on public.custom_decks;
 create policy "custom_decks_select_own" on public.custom_decks for select using (auth.uid() = user_id);
+drop policy if exists "custom_decks_insert_own" on public.custom_decks;
 create policy "custom_decks_insert_own" on public.custom_decks for insert with check (auth.uid() = user_id);
+drop policy if exists "custom_decks_update_own" on public.custom_decks;
 create policy "custom_decks_update_own" on public.custom_decks for update using (auth.uid() = user_id) with check (auth.uid() = user_id);
+drop policy if exists "custom_decks_delete_own" on public.custom_decks;
 create policy "custom_decks_delete_own" on public.custom_decks for delete using (auth.uid() = user_id);
 
 -- Custom Cards
@@ -57,17 +69,21 @@ create table if not exists public.custom_cards (
   created_at timestamptz default now()
 );
 alter table public.custom_cards enable row level security;
+drop policy if exists "custom_cards_select_own" on public.custom_cards;
 create policy "custom_cards_select_own" on public.custom_cards for select using (
     exists (select 1 from public.custom_decks d where d.id = deck_id and d.user_id = auth.uid())
 );
+drop policy if exists "custom_cards_insert_own" on public.custom_cards;
 create policy "custom_cards_insert_own" on public.custom_cards for insert with check (
     exists (select 1 from public.custom_decks d where d.id = deck_id and d.user_id = auth.uid())
 );
+drop policy if exists "custom_cards_update_own" on public.custom_cards;
 create policy "custom_cards_update_own" on public.custom_cards for update using (
     exists (select 1 from public.custom_decks d where d.id = deck_id and d.user_id = auth.uid())
 ) with check (
     exists (select 1 from public.custom_decks d where d.id = deck_id and d.user_id = auth.uid())
 );
+drop policy if exists "custom_cards_delete_own" on public.custom_cards;
 create policy "custom_cards_delete_own" on public.custom_cards for delete using (
     exists (select 1 from public.custom_decks d where d.id = deck_id and d.user_id = auth.uid())
 );
@@ -83,9 +99,13 @@ create table if not exists public.quiz_attempts (
   taken_at timestamptz default now()
 );
 alter table public.quiz_attempts enable row level security;
+drop policy if exists "quiz_attempts_select_own" on public.quiz_attempts;
 create policy "quiz_attempts_select_own" on public.quiz_attempts for select using (auth.uid() = user_id);
+drop policy if exists "quiz_attempts_insert_own" on public.quiz_attempts;
 create policy "quiz_attempts_insert_own" on public.quiz_attempts for insert with check (auth.uid() = user_id);
+drop policy if exists "quiz_attempts_update_own" on public.quiz_attempts;
 create policy "quiz_attempts_update_own" on public.quiz_attempts for update using (auth.uid() = user_id) with check (auth.uid() = user_id);
+drop policy if exists "quiz_attempts_delete_own" on public.quiz_attempts;
 create policy "quiz_attempts_delete_own" on public.quiz_attempts for delete using (auth.uid() = user_id);
 create index if not exists quiz_attempts_user_idx on public.quiz_attempts (user_id, taken_at desc);
 

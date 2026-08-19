@@ -1,0 +1,74 @@
+{
+  "究": [
+    { "kanji": "研究", "furigana": "けんきゅう", "arti": "riset, penelitian" },
+    { "kanji": "究極", "furigana": "きゅうきょく", "arti": "yang paling utama, ekstrem" }
+  ],
+  "去": [
+    { "kanji": "去年", "furigana": "きょねん", "arti": "tahun lalu" },
+    { "kanji": "過去", "furigana": "かこ", "arti": "masa lalu" }
+  ],
+  "京": [
+    { "kanji": "東京", "furigana": "とうきょう", "arti": "Tokyo" },
+    { "kanji": "京都", "furigana": "きょうと", "arti": "Kyoto" }
+  ],
+  "供": [
+    { "kanji": "提供", "furigana": "ていきょう", "arti": "menyediakan, sponsor" },
+    { "kanji": "供給", "furigana": "きょうきゅう", "arti": "pasokan" }
+  ],
+  "君": [
+    { "kanji": "君", "furigana": "きみ", "arti": "kamu" },
+    { "kanji": "君たち", "furigana": "きみたち", "arti": "kalian" }
+  ],
+  "研": [
+    { "kanji": "研究", "furigana": "けんきゅう", "arti": "riset, penelitian" },
+    { "kanji": "研修", "furigana": "けんしゅう", "arti": "pelatihan, training" }
+  ],
+  "戸": [
+    { "kanji": "戸", "furigana": "と", "arti": "pintu (geser)" },
+    { "kanji": "戸棚", "furigana": "とだな", "arti": "lemari" }
+  ],
+  "午": [
+    { "kanji": "午前", "furigana": "ごぜん", "arti": "pagi (sebelum tengah hari)" },
+    { "kanji": "午後", "furigana": "ごご", "arti": "sore (setelah tengah hari)" }
+  ],
+  "祭": [
+    { "kanji": "祭り", "furigana": "まつり", "arti": "festival" },
+    { "kanji": "夏祭り", "furigana": "なつまつり", "arti": "festival musim panas" }
+  ],
+  "菜": [
+    { "kanji": "野菜", "furigana": "やさい", "arti": "sayuran" },
+    { "kanji": "菜の花", "furigana": "なのはな", "arti": "bunga rapeseed" }
+  ],
+  "歳": [
+    { "kanji": "歳末", "furigana": "さいまつ", "arti": "akhir tahun" },
+    { "kanji": "お歳暮", "furigana": "おせいぼ", "arti": "hadiah akhir tahun" }
+  ],
+  "試": [
+    { "kanji": "試す", "furigana": "ためす", "arti": "mencoba" },
+    { "kanji": "試合", "furigana": "しあい", "arti": "pertandingan" }
+  ],
+  "写": [
+    { "kanji": "写真", "furigana": "しゃしん", "arti": "foto" },
+    { "kanji": "写る", "furigana": "うつる", "arti": "terambil (dalam foto)" }
+  ],
+  "借": [
+    { "kanji": "借りる", "furigana": "かりる", "arti": "meminjam" },
+    { "kanji": "借金", "furigana": "しゃっきん", "arti": "utang" }
+  ],
+  "弱": [
+    { "kanji": "弱い", "furigana": "よわい", "arti": "lemah" },
+    { "kanji": "弱点", "furigana": "じゃくてん", "arti": "kelemahan" }
+  ],
+  "森": [
+    { "kanji": "森", "furigana": "もり", "arti": "hutan" },
+    { "kanji": "森林", "furigana": "しんりん", "arti": "hutan" }
+  ],
+  "池": [
+    { "kanji": "池", "furigana": "いけ", "arti": "kolam" },
+    { "kanji": "電池", "furigana": "でんち", "arti": "baterai" }
+  ],
+  "勉": [
+    { "kanji": "勉強", "furigana": "べんきょう", "arti": "belajar" },
+    { "kanji": "勉学", "furigana": "べんがく", "arti": "giat belajar" }
+  ]
+}

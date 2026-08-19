@@ -1,0 +1,74 @@
+{
+  "究": [
+    { "kanji": "追究", "furigana": "ついきゅう", "arti": "menelusuri, mengusut" },
+    { "kanji": "究める", "furigana": "きわめる", "arti": "mendalami" }
+  ],
+  "去": [
+    { "kanji": "除去", "furigana": "じょきょ", "arti": "menghilangkan, membuang" },
+    { "kanji": "去る", "furigana": "さる", "arti": "pergi, meninggalkan" }
+  ],
+  "京": [
+    { "kanji": "上京", "furigana": "じょうきょう", "arti": "pindah ke Tokyo" },
+    { "kanji": "東京駅", "furigana": "とうきょうえき", "arti": "Stasiun Tokyo" }
+  ],
+  "供": [
+    { "kanji": "子供", "furigana": "こども", "arti": "anak-anak" },
+    { "kanji": "供える", "furigana": "そなえる", "arti": "mempersembahkan" }
+  ],
+  "君": [
+    { "kanji": "君主", "furigana": "くんしゅ", "arti": "raja, penguasa" },
+    { "kanji": "君たち", "furigana": "きみたち", "arti": "kalian" }
+  ],
+  "研": [
+    { "kanji": "研ぐ", "furigana": "とぐ", "arti": "mengasah, memoles" },
+    { "kanji": "研磨", "furigana": "けんま", "arti": "pemolesan, pengasahan" }
+  ],
+  "戸": [
+    { "kanji": "戸外", "furigana": "こがい", "arti": "di luar rumah" },
+    { "kanji": "江戸", "furigana": "えど", "arti": "Edo (Tokyo kuno)" }
+  ],
+  "午": [
+    { "kanji": "正午", "furigana": "しょうご", "arti": "tengah hari" },
+    { "kanji": "午睡", "furigana": "ごすい", "arti": "tidur siang" }
+  ],
+  "祭": [
+    { "kanji": "文化祭", "furigana": "ぶんかさい", "arti": "festival budaya" },
+    { "kanji": "学園祭", "furigana": "がくえんさい", "arti": "festival sekolah" }
+  ],
+  "菜": [
+    { "kanji": "小松菜", "furigana": "こまつな", "arti": "sayur komatsuna" },
+    { "kanji": "菜園", "furigana": "さいえん", "arti": "kebun sayur" }
+  ],
+  "歳": [
+    { "kanji": "歳月", "furigana": "さいげつ", "arti": "waktu yang berlalu" },
+    { "kanji": "何歳", "furigana": "なんさい", "arti": "berapa umur" }
+  ],
+  "試": [
+    { "kanji": "試験", "furigana": "しけん", "arti": "ujian" },
+    { "kanji": "試みる", "furigana": "こころみる", "arti": "mencoba, berusaha" }
+  ],
+  "写": [
+    { "kanji": "描写", "furigana": "びょうしゃ", "arti": "deskripsi, gambaran" },
+    { "kanji": "写真館", "furigana": "しゃしんかん", "arti": "studio foto" }
+  ],
+  "借": [
+    { "kanji": "借用", "furigana": "しゃくよう", "arti": "meminjam" },
+    { "kanji": "賃借", "furigana": "ちんしゃく", "arti": "menyewa" }
+  ],
+  "弱": [
+    { "kanji": "虚弱", "furigana": "きょじゃく", "arti": "lemah, rentan" },
+    { "kanji": "弱音", "furigana": "よわね", "arti": "keluhan, meratap" }
+  ],
+  "森": [
+    { "kanji": "森林浴", "furigana": "しんりんよく", "arti": "mandi hutan" },
+    { "kanji": "森の中", "furigana": "もりのなか", "arti": "di dalam hutan" }
+  ],
+  "池": [
+    { "kanji": "貯水池", "furigana": "ちょすいち", "arti": "waduk, bendungan air" },
+    { "kanji": "金魚池", "furigana": "きんぎょいけ", "arti": "kolam ikan mas" }
+  ],
+  "勉": [
+    { "kanji": "勤勉", "furigana": "きんべん", "arti": "rajin, tekun" },
+    { "kanji": "勉強中", "furigana": "べんきょうちゅう", "arti": "sedang belajar" }
+  ]
+}

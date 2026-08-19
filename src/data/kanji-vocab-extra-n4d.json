@@ -1,0 +1,26 @@
+{
+  "去": [
+    { "kanji": "立ち去る", "furigana": "たちさる", "arti": "pergi meninggalkan" },
+    { "kanji": "去り際", "furigana": "さりぎわ", "arti": "momen saat pergi" }
+  ],
+  "供": [
+    { "kanji": "供述", "furigana": "きょうじゅつ", "arti": "kesaksian, pernyataan" },
+    { "kanji": "供与", "furigana": "きょうよ", "arti": "pemberian (bantuan)" }
+  ],
+  "研": [
+    { "kanji": "研究開発", "furigana": "けんきゅうかいはつ", "arti": "riset dan pengembangan" },
+    { "kanji": "研ぎ澄ます", "furigana": "とぎすます", "arti": "mempertajam, mengasah" }
+  ],
+  "午": [
+    { "kanji": "午後中", "furigana": "ごごじゅう", "arti": "sepanjang sore" },
+    { "kanji": "午前様", "furigana": "ごぜんさま", "arti": "pulang larut malam (jam 2 dini hari)" }
+  ],
+  "歳": [
+    { "kanji": "歳時記", "furigana": "さいじき", "arti": "almanak musiman (sastra)" },
+    { "kanji": "歳入", "furigana": "さいにゅう", "arti": "pendapatan tahunan (anggaran)" }
+  ],
+  "池": [
+    { "kanji": "池の水", "furigana": "いけのみず", "arti": "air kolam" },
+    { "kanji": "池畔", "furigana": "いはん", "arti": "tepi kolam" }
+  ]
+}

@@ -1,0 +1,2018 @@
+{
+  "ベ": [
+    {
+      "kata": "ベッド",
+      "romaji": "beddo",
+      "arti": "tempat tidur"
+    },
+    {
+      "kata": "ベスト",
+      "romaji": "besuto",
+      "arti": "terbaik"
+    },
+    {
+      "kata": "ベンチ",
+      "romaji": "benchi",
+      "arti": "bangku taman"
+    },
+    {
+      "kata": "ベビー",
+      "romaji": "bebii",
+      "arti": "bayi"
+    },
+    {
+      "kata": "ベル",
+      "romaji": "beru",
+      "arti": "lonceng"
+    },
+    {
+      "kata": "ベース",
+      "romaji": "beesu",
+      "arti": "dasar"
+    }
+  ],
+  "ボ": [
+    {
+      "kata": "ボタン",
+      "romaji": "botan",
+      "arti": "tombol"
+    },
+    {
+      "kata": "ボール",
+      "romaji": "booru",
+      "arti": "bola"
+    },
+    {
+      "kata": "ボトル",
+      "romaji": "botoru",
+      "arti": "botol"
+    },
+    {
+      "kata": "ボックス",
+      "romaji": "bokkusu",
+      "arti": "kotak"
+    },
+    {
+      "kata": "ボディ",
+      "romaji": "bodi",
+      "arti": "badan"
+    },
+    {
+      "kata": "ボランティア",
+      "romaji": "borantia",
+      "arti": "sukarelawan"
+    }
+  ],
+  "パ": [
+    {
+      "kata": "パソコン",
+      "romaji": "pasokon",
+      "arti": "komputer"
+    },
+    {
+      "kata": "パン",
+      "romaji": "pan",
+      "arti": "roti"
+    },
+    {
+      "kata": "パーティー",
+      "romaji": "paatii",
+      "arti": "pesta"
+    },
+    {
+      "kata": "パスポート",
+      "romaji": "pasupooto",
+      "arti": "paspor"
+    },
+    {
+      "kata": "パジャマ",
+      "romaji": "pajama",
+      "arti": "piyama"
+    },
+    {
+      "kata": "パンダ",
+      "romaji": "panda",
+      "arti": "panda"
+    }
+  ],
+  "ピ": [
+    {
+      "kata": "ピアノ",
+      "romaji": "piano",
+      "arti": "piano"
+    },
+    {
+      "kata": "ピザ",
+      "romaji": "piza",
+      "arti": "pizza"
+    },
+    {
+      "kata": "ピンク",
+      "romaji": "pinku",
+      "arti": "merah muda"
+    },
+    {
+      "kata": "ピアス",
+      "romaji": "piasu",
+      "arti": "anting"
+    },
+    {
+      "kata": "ピクニック",
+      "romaji": "pikunikku",
+      "arti": "piknik"
+    },
+    {
+      "kata": "ピーナッツ",
+      "romaji": "piinattsu",
+      "arti": "kacang tanah"
+    }
+  ],
+  "プ": [
+    {
+      "kata": "プール",
+      "romaji": "puuru",
+      "arti": "kolam renang"
+    },
+    {
+      "kata": "プレゼント",
+      "romaji": "purezento",
+      "arti": "hadiah"
+    },
+    {
+      "kata": "プリン",
+      "romaji": "purin",
+      "arti": "puding"
+    },
+    {
+      "kata": "プリンター",
+      "romaji": "purintaa",
+      "arti": "printer"
+    },
+    {
+      "kata": "プラン",
+      "romaji": "puran",
+      "arti": "rencana"
+    },
+    {
+      "kata": "プラス",
+      "romaji": "purasu",
+      "arti": "tambah"
+    }
+  ],
+  "ペ": [
+    {
+      "kata": "ペン",
+      "romaji": "pen",
+      "arti": "pulpen"
+    },
+    {
+      "kata": "ペット",
+      "romaji": "petto",
+      "arti": "hewan peliharaan"
+    },
+    {
+      "kata": "ペンギン",
+      "romaji": "pengin",
+      "arti": "penguin"
+    },
+    {
+      "kata": "ページ",
+      "romaji": "peeji",
+      "arti": "halaman"
+    },
+    {
+      "kata": "ペース",
+      "romaji": "peesu",
+      "arti": "kecepatan"
+    },
+    {
+      "kata": "ペア",
+      "romaji": "pea",
+      "arti": "pasangan"
+    }
+  ],
+  "ポ": [
+    {
+      "kata": "ポケット",
+      "romaji": "poketto",
+      "arti": "saku"
+    },
+    {
+      "kata": "ポスト",
+      "romaji": "posuto",
+      "arti": "kotak surat"
+    },
+    {
+      "kata": "ポスター",
+      "romaji": "posutaa",
+      "arti": "poster"
+    },
+    {
+      "kata": "ポテト",
+      "romaji": "poteto",
+      "arti": "kentang"
+    },
+    {
+      "kata": "ポイント",
+      "romaji": "pointo",
+      "arti": "poin"
+    },
+    {
+      "kata": "ポンプ",
+      "romaji": "ponpu",
+      "arti": "pompa"
+    }
+  ],
+  "キャ": [
+    {
+      "kata": "キャンプ",
+      "romaji": "kyampu",
+      "arti": "berkemah"
+    },
+    {
+      "kata": "キャベツ",
+      "romaji": "kyabetsu",
+      "arti": "kubis"
+    },
+    {
+      "kata": "キャンセル",
+      "romaji": "kyanseru",
+      "arti": "pembatalan"
+    },
+    {
+      "kata": "キャッシュ",
+      "romaji": "kyasshu",
+      "arti": "uang tunai"
+    },
+    {
+      "kata": "キャリア",
+      "romaji": "kyaria",
+      "arti": "karier"
+    },
+    {
+      "kata": "キャンパス",
+      "romaji": "kyanpasu",
+      "arti": "kampus"
+    }
+  ],
+  "キュ": [
+    {
+      "kata": "キュウリ",
+      "romaji": "kyuuri",
+      "arti": "mentimun"
+    },
+    {
+      "kata": "キュート",
+      "romaji": "kyuuto",
+      "arti": "imut"
+    },
+    {
+      "kata": "キューブ",
+      "romaji": "kyuubu",
+      "arti": "kubus"
+    },
+    {
+      "kata": "キューバ",
+      "romaji": "kyuuba",
+      "arti": "Kuba"
+    },
+    {
+      "kata": "リキュール",
+      "romaji": "rikyuuru",
+      "arti": "minuman keras manis"
+    },
+    {
+      "kata": "プリキュア",
+      "romaji": "purikyua",
+      "arti": "Precure (seri anime)"
+    }
+  ],
+  "キョ": [
+    {
+      "kata": "キョウト",
+      "romaji": "kyouto",
+      "arti": "kota Kyoto"
+    },
+    {
+      "kata": "トーキョー",
+      "romaji": "tookyoo",
+      "arti": "Tokyo"
+    },
+    {
+      "kata": "キョンシー",
+      "romaji": "kyonshii",
+      "arti": "hantu zombie Cina"
+    },
+    {
+      "kata": "キョウセラ",
+      "romaji": "kyousera",
+      "arti": "Kyocera (perusahaan elektronik)"
+    },
+    {
+      "kata": "マルキョウ",
+      "romaji": "marukyou",
+      "arti": "nama supermarket Jepang"
+    },
+    {
+      "kata": "キョードー",
+      "romaji": "kyoodoo",
+      "arti": "Kyodo News (kantor berita)"
+    }
+  ],
+  "シャ": [
+    {
+      "kata": "シャツ",
+      "romaji": "shatsu",
+      "arti": "kemeja"
+    },
+    {
+      "kata": "シャワー",
+      "romaji": "shawaa",
+      "arti": "pancuran air"
+    },
+    {
+      "kata": "シャンプー",
+      "romaji": "shanpuu",
+      "arti": "sampo"
+    },
+    {
+      "kata": "シャッター",
+      "romaji": "shattaa",
+      "arti": "tirai besi"
+    },
+    {
+      "kata": "シャトル",
+      "romaji": "shatoru",
+      "arti": "antar-jemput"
+    },
+    {
+      "kata": "シャッフル",
+      "romaji": "shaffuru",
+      "arti": "pengacakan"
+    }
+  ],
+  "シュ": [
+    {
+      "kata": "シューズ",
+      "romaji": "shuuzu",
+      "arti": "sepatu"
+    },
+    {
+      "kata": "シュート",
+      "romaji": "shuuto",
+      "arti": "tendangan"
+    },
+    {
+      "kata": "シュガー",
+      "romaji": "shugaa",
+      "arti": "gula"
+    },
+    {
+      "kata": "シュークリーム",
+      "romaji": "shuukuriimu",
+      "arti": "kue sus"
+    },
+    {
+      "kata": "シュノーケル",
+      "romaji": "shunookeru",
+      "arti": "snorkel"
+    },
+    {
+      "kata": "バッシュ",
+      "romaji": "basshu",
+      "arti": "sepatu basket"
+    }
+  ],
+  "ショ": [
+    {
+      "kata": "ショッピング",
+      "romaji": "shoppingu",
+      "arti": "belanja"
+    },
+    {
+      "kata": "ショート",
+      "romaji": "shooto",
+      "arti": "pendek"
+    },
+    {
+      "kata": "ショック",
+      "romaji": "shokku",
+      "arti": "keterkejutan"
+    },
+    {
+      "kata": "ショー",
+      "romaji": "shoo",
+      "arti": "pertunjukan"
+    },
+    {
+      "kata": "ショップ",
+      "romaji": "shoppu",
+      "arti": "toko"
+    },
+    {
+      "kata": "ファッション",
+      "romaji": "fasshon",
+      "arti": "mode"
+    }
+  ],
+  "チャ": [
+    {
+      "kata": "チャンス",
+      "romaji": "chansu",
+      "arti": "kesempatan"
+    },
+    {
+      "kata": "チャンネル",
+      "romaji": "channeru",
+      "arti": "saluran"
+    },
+    {
+      "kata": "チャレンジ",
+      "romaji": "charenji",
+      "arti": "tantangan"
+    },
+    {
+      "kata": "チャット",
+      "romaji": "chatto",
+      "arti": "obrolan"
+    },
+    {
+      "kata": "チャイナ",
+      "romaji": "chaina",
+      "arti": "Cina"
+    },
+    {
+      "kata": "チャージ",
+      "romaji": "chaaji",
+      "arti": "isi daya"
+    }
+  ],
+  "チュ": [
+    {
+      "kata": "チューブ",
+      "romaji": "chuubu",
+      "arti": "tabung"
+    },
+    {
+      "kata": "チューニング",
+      "romaji": "chuuningu",
+      "arti": "penyetelan"
+    },
+    {
+      "kata": "チューリップ",
+      "romaji": "chuurippu",
+      "arti": "tulip"
+    },
+    {
+      "kata": "チューハイ",
+      "romaji": "chuuhai",
+      "arti": "minuman soda beralkohol"
+    },
+    {
+      "kata": "チューナー",
+      "romaji": "chuunaa",
+      "arti": "penala"
+    },
+    {
+      "kata": "チュニック",
+      "romaji": "chunikku",
+      "arti": "tunik"
+    }
+  ],
+  "チョ": [
+    {
+      "kata": "チョコレート",
+      "romaji": "chokoreeto",
+      "arti": "cokelat"
+    },
+    {
+      "kata": "チョイス",
+      "romaji": "choisu",
+      "arti": "pilihan"
+    },
+    {
+      "kata": "チョッパー",
+      "romaji": "choppaa",
+      "arti": "cincangan"
+    },
+    {
+      "kata": "チョーク",
+      "romaji": "chooku",
+      "arti": "kapur tulis"
+    },
+    {
+      "kata": "チョップ",
+      "romaji": "choppu",
+      "arti": "potongan"
+    },
+    {
+      "kata": "マッチョ",
+      "romaji": "matcho",
+      "arti": "pria berotot"
+    }
+  ],
+  "ニャ": [
+    {
+      "kata": "ニャンコ",
+      "romaji": "nyanko",
+      "arti": "kucing"
+    },
+    {
+      "kata": "ニャース",
+      "romaji": "nyaasu",
+      "arti": "Meowth (nama Pokemon)"
+    },
+    {
+      "kata": "コニャック",
+      "romaji": "konyakku",
+      "arti": "cognac"
+    },
+    {
+      "kata": "コンニャク",
+      "romaji": "konnyaku",
+      "arti": "konjak"
+    },
+    {
+      "kata": "ホニャララ",
+      "romaji": "honyarara",
+      "arti": "anu (sesuatu yang tak disebut)"
+    },
+    {
+      "kata": "ピニャコラーダ",
+      "romaji": "pinyakoraada",
+      "arti": "koktail pina colada"
+    }
+  ],
+  "ニュ": [
+    {
+      "kata": "ニュース",
+      "romaji": "nyuusu",
+      "arti": "berita"
+    },
+    {
+      "kata": "ニュー",
+      "romaji": "nyuu",
+      "arti": "baru"
+    },
+    {
+      "kata": "ニュアンス",
+      "romaji": "nyuansu",
+      "arti": "nuansa"
+    },
+    {
+      "kata": "ニューヨーク",
+      "romaji": "nyuuyooku",
+      "arti": "New York"
+    },
+    {
+      "kata": "マニュアル",
+      "romaji": "manyuaru",
+      "arti": "buku petunjuk"
+    },
+    {
+      "kata": "ニュートン",
+      "romaji": "nyuuton",
+      "arti": "Newton"
+    }
+  ],
+  "ニョ": [
+    {
+      "kata": "ニョッキ",
+      "romaji": "nyokki",
+      "arti": "gnocchi"
+    },
+    {
+      "kata": "ポニョ",
+      "romaji": "ponyo",
+      "arti": "Ponyo (film Ghibli)"
+    },
+    {
+      "kata": "セニョリータ",
+      "romaji": "senyorita",
+      "arti": "nona (panggilan Spanyol)"
+    },
+    {
+      "kata": "セニョール",
+      "romaji": "senyooru",
+      "arti": "tuan (panggilan Spanyol)"
+    },
+    {
+      "kata": "アンニョンハセヨ",
+      "romaji": "annnyonhaseyo",
+      "arti": "halo (salam bahasa Korea)"
+    },
+    {
+      "kata": "ニョロニョロ",
+      "romaji": "nyoronyoro",
+      "arti": "meliuk-liuk"
+    }
+  ],
+  "ヒャ": [
+    {
+      "kata": "ヒャクパーセント",
+      "romaji": "hyakupaasento",
+      "arti": "seratus persen"
+    },
+    {
+      "kata": "ヒャッホー",
+      "romaji": "hyahhoo",
+      "arti": "hore"
+    },
+    {
+      "kata": "ヒャッハー",
+      "romaji": "hyahhaa",
+      "arti": "hore (seruan gembira)"
+    },
+    {
+      "kata": "ヒャダイン",
+      "romaji": "hyadain",
+      "arti": "Hyadain (musisi YouTube)"
+    },
+    {
+      "kata": "ミヒャエル",
+      "romaji": "mihyaeru",
+      "arti": "Michael (nama)"
+    },
+    {
+      "kata": "ヒャー",
+      "romaji": "hyaa",
+      "arti": "jeritan kaget"
+    }
+  ],
+  "ヒュ": [
+    {
+      "kata": "ヒューマン",
+      "romaji": "hyuuman",
+      "arti": "manusia"
+    },
+    {
+      "kata": "ヒューズ",
+      "romaji": "hyuuzu",
+      "arti": "sekring"
+    },
+    {
+      "kata": "ヒュッテ",
+      "romaji": "hyutte",
+      "arti": "pondok gunung"
+    },
+    {
+      "kata": "ヒュンダイ",
+      "romaji": "hyundai",
+      "arti": "Hyundai (merek mobil)"
+    },
+    {
+      "kata": "ヒューストン",
+      "romaji": "hyuusuton",
+      "arti": "Houston"
+    },
+    {
+      "kata": "ヒューマニズム",
+      "romaji": "hyuumanizumu",
+      "arti": "humanisme"
+    }
+  ],
+  "ヒョ": [
+    {
+      "kata": "ヒョウ",
+      "romaji": "hyou",
+      "arti": "macan tutul"
+    },
+    {
+      "kata": "ユキヒョウ",
+      "romaji": "yukihyou",
+      "arti": "macan tutul salju"
+    },
+    {
+      "kata": "クロヒョウ",
+      "romaji": "kurohyou",
+      "arti": "panter hitam"
+    },
+    {
+      "kata": "シロヒョウ",
+      "romaji": "shirohyou",
+      "arti": "macan tutul putih"
+    },
+    {
+      "kata": "ヒョウガ",
+      "romaji": "hyouga",
+      "arti": "gletser"
+    },
+    {
+      "kata": "ヒョウリュウ",
+      "romaji": "hyouryuu",
+      "arti": "terdampar (hanyut)"
+    }
+  ],
+  "ミャ": [
+    {
+      "kata": "ミャンマー",
+      "romaji": "myanmaa",
+      "arti": "Myanmar"
+    },
+    {
+      "kata": "ミャオ",
+      "romaji": "myao",
+      "arti": "meong (suara kucing)"
+    },
+    {
+      "kata": "ミャウ",
+      "romaji": "myau",
+      "arti": "meong (suara kucing)"
+    },
+    {
+      "kata": "ミャクミャク",
+      "romaji": "myakumyaku",
+      "arti": "maskot Expo Osaka 2025"
+    },
+    {
+      "kata": "ミャンコ",
+      "romaji": "myanko",
+      "arti": "kucing (kata sayang)"
+    },
+    {
+      "kata": "ミャウミャウ",
+      "romaji": "myaumyau",
+      "arti": "suara meong"
+    }
+  ],
+  "ミュ": [
+    {
+      "kata": "ミュージック",
+      "romaji": "myuujikku",
+      "arti": "musik"
+    },
+    {
+      "kata": "ミュージカル",
+      "romaji": "myuujikaru",
+      "arti": "musikal"
+    },
+    {
+      "kata": "ミュージアム",
+      "romaji": "myuujiamu",
+      "arti": "museum"
+    },
+    {
+      "kata": "ミュージシャン",
+      "romaji": "myuujishan",
+      "arti": "musisi"
+    },
+    {
+      "kata": "コミュニケーション",
+      "romaji": "komyunikeeshon",
+      "arti": "komunikasi"
+    },
+    {
+      "kata": "コミュニティー",
+      "romaji": "komyunitii",
+      "arti": "komunitas"
+    }
+  ],
+  "ミョ": [
+    {
+      "kata": "ミョウガ",
+      "romaji": "myouga",
+      "arti": "jahe Jepang"
+    },
+    {
+      "kata": "ミョウバン",
+      "romaji": "myouban",
+      "arti": "tawas"
+    },
+    {
+      "kata": "ミョウジ",
+      "romaji": "myouji",
+      "arti": "nama keluarga"
+    },
+    {
+      "kata": "ミョウミ",
+      "romaji": "myoumi",
+      "arti": "kelezatan"
+    },
+    {
+      "kata": "ミョウギ",
+      "romaji": "myougi",
+      "arti": "keterampilan hebat"
+    },
+    {
+      "kata": "ミョウコウ",
+      "romaji": "myoukou",
+      "arti": "Gunung Myoko"
+    }
+  ],
+  "リャ": [
+    {
+      "kata": "リャマ",
+      "romaji": "ryama",
+      "arti": "llama"
+    },
+    {
+      "kata": "リャクゴ",
+      "romaji": "ryakugo",
+      "arti": "singkatan"
+    },
+    {
+      "kata": "リャクジ",
+      "romaji": "ryakuji",
+      "arti": "huruf ringkas"
+    },
+    {
+      "kata": "リャクショウ",
+      "romaji": "ryakushou",
+      "arti": "nama singkatan"
+    },
+    {
+      "kata": "リャザン",
+      "romaji": "ryazan",
+      "arti": "Ryazan (kota di Rusia)"
+    },
+    {
+      "kata": "リャノス",
+      "romaji": "ryanousu",
+      "arti": "dataran llanos"
+    }
+  ],
+  "リュ": [
+    {
+      "kata": "リュック",
+      "romaji": "ryukku",
+      "arti": "ransel"
+    },
+    {
+      "kata": "リューマチ",
+      "romaji": "ryuumaachi",
+      "arti": "rematik"
+    },
+    {
+      "kata": "リュート",
+      "romaji": "ryuuto",
+      "arti": "kecapi (alat musik)"
+    },
+    {
+      "kata": "リュクス",
+      "romaji": "ryukusu",
+      "arti": "mewah"
+    },
+    {
+      "kata": "バリュー",
+      "romaji": "baryuu",
+      "arti": "nilai"
+    },
+    {
+      "kata": "リュミエール",
+      "romaji": "ryumieeru",
+      "arti": "Lumiere (nama)"
+    }
+  ],
+  "リョ": [
+    {
+      "kata": "リョクチャ",
+      "romaji": "ryokucha",
+      "arti": "teh hijau"
+    },
+    {
+      "kata": "リョコウ",
+      "romaji": "ryokou",
+      "arti": "perjalanan"
+    },
+    {
+      "kata": "リョウリ",
+      "romaji": "ryouri",
+      "arti": "memasak"
+    },
+    {
+      "kata": "リョウキン",
+      "romaji": "ryoukin",
+      "arti": "tarif"
+    },
+    {
+      "kata": "リョウホウ",
+      "romaji": "ryouhou",
+      "arti": "keduanya"
+    },
+    {
+      "kata": "リョウテ",
+      "romaji": "ryoute",
+      "arti": "kedua tangan"
+    }
+  ],
+  "ギャ": [
+    {
+      "kata": "ギャラリー",
+      "romaji": "gyararii",
+      "arti": "galeri"
+    },
+    {
+      "kata": "ギャング",
+      "romaji": "gyangu",
+      "arti": "geng"
+    },
+    {
+      "kata": "ギャップ",
+      "romaji": "gyappu",
+      "arti": "kesenjangan"
+    },
+    {
+      "kata": "ギャグ",
+      "romaji": "gyagu",
+      "arti": "lelucon"
+    },
+    {
+      "kata": "ギャンブル",
+      "romaji": "gyanburu",
+      "arti": "perjudian"
+    },
+    {
+      "kata": "ギャル",
+      "romaji": "gyaru",
+      "arti": "gadis modis"
+    }
+  ],
+  "ギュ": [
+    {
+      "kata": "ギュウニュウ",
+      "romaji": "gyuunyuu",
+      "arti": "susu"
+    },
+    {
+      "kata": "ギュウニク",
+      "romaji": "gyuuniku",
+      "arti": "daging sapi"
+    },
+    {
+      "kata": "ギュウドン",
+      "romaji": "gyuudon",
+      "arti": "beef bowl"
+    },
+    {
+      "kata": "ギュウタン",
+      "romaji": "gyuutan",
+      "arti": "lidah sapi"
+    },
+    {
+      "kata": "ギュウギュウ",
+      "romaji": "gyuugyuu",
+      "arti": "penuh sesak"
+    },
+    {
+      "kata": "ギュッ",
+      "romaji": "gyu",
+      "arti": "mencengkeram erat"
+    }
+  ],
+  "ギョ": [
+    {
+      "kata": "ギョーザ",
+      "romaji": "gyooza",
+      "arti": "pangsit goreng"
+    },
+    {
+      "kata": "ギョウザ",
+      "romaji": "gyouza",
+      "arti": "pangsit goreng"
+    },
+    {
+      "kata": "ギョウジャニンニク",
+      "romaji": "gyoujaninniku",
+      "arti": "bawang liar Hokkaido"
+    },
+    {
+      "kata": "ギョウカイ",
+      "romaji": "gyoukai",
+      "arti": "dunia industri"
+    },
+    {
+      "kata": "ギョウレツ",
+      "romaji": "gyouretsu",
+      "arti": "antrean panjang"
+    },
+    {
+      "kata": "ギョウテン",
+      "romaji": "gyouten",
+      "arti": "terkejut"
+    }
+  ],
+  "ジャ": [
+    {
+      "kata": "ジャンプ",
+      "romaji": "janpu",
+      "arti": "lompat"
+    },
+    {
+      "kata": "ジャケット",
+      "romaji": "jaketto",
+      "arti": "jaket"
+    },
+    {
+      "kata": "ジャム",
+      "romaji": "jamu",
+      "arti": "selai"
+    },
+    {
+      "kata": "ジャンル",
+      "romaji": "janru",
+      "arti": "genre"
+    },
+    {
+      "kata": "ジャガイモ",
+      "romaji": "jagaimo",
+      "arti": "kentang"
+    },
+    {
+      "kata": "ジャズ",
+      "romaji": "jazu",
+      "arti": "jazz"
+    }
+  ],
+  "ジュ": [
+    {
+      "kata": "ジュース",
+      "romaji": "juusu",
+      "arti": "jus"
+    },
+    {
+      "kata": "ジュニア",
+      "romaji": "junia",
+      "arti": "junior"
+    },
+    {
+      "kata": "ジュエリー",
+      "romaji": "juerii",
+      "arti": "perhiasan"
+    },
+    {
+      "kata": "ジュピター",
+      "romaji": "jupitaa",
+      "arti": "Jupiter"
+    },
+    {
+      "kata": "ジュネーブ",
+      "romaji": "juneebu",
+      "arti": "Jenewa"
+    },
+    {
+      "kata": "レジュメ",
+      "romaji": "rejume",
+      "arti": "ringkasan"
+    }
+  ],
+  "ジョ": [
+    {
+      "kata": "ジョギング",
+      "romaji": "jogingu",
+      "arti": "joging"
+    },
+    {
+      "kata": "ジョーク",
+      "romaji": "jooku",
+      "arti": "lelucon"
+    },
+    {
+      "kata": "ジョブ",
+      "romaji": "jobu",
+      "arti": "pekerjaan"
+    },
+    {
+      "kata": "ジョッキ",
+      "romaji": "jokki",
+      "arti": "gelas besar"
+    },
+    {
+      "kata": "ジョイ",
+      "romaji": "joi",
+      "arti": "kegembiraan"
+    },
+    {
+      "kata": "ジョーカー",
+      "romaji": "jookaa",
+      "arti": "joker"
+    }
+  ],
+  "ビャ": [
+    {
+      "kata": "ビャクダン",
+      "romaji": "byakudan",
+      "arti": "kayu cendana"
+    },
+    {
+      "kata": "ビャッコ",
+      "romaji": "byakko",
+      "arti": "harimau putih"
+    },
+    {
+      "kata": "ビャンビャンメン",
+      "romaji": "byanbyanmen",
+      "arti": "mi biang biang"
+    },
+    {
+      "kata": "サンビャク",
+      "romaji": "sanbyaku",
+      "arti": "tiga ratus"
+    },
+    {
+      "kata": "ビャクヤコウ",
+      "romaji": "byakuyakou",
+      "arti": "Byakuyakou (judul novel)"
+    },
+    {
+      "kata": "ビャクレン",
+      "romaji": "byakuren",
+      "arti": "teratai putih"
+    }
+  ],
+  "ビュ": [
+    {
+      "kata": "ビュー",
+      "romaji": "byuu",
+      "arti": "pemandangan"
+    },
+    {
+      "kata": "ビュッフェ",
+      "romaji": "byuffe",
+      "arti": "prasmanan"
+    },
+    {
+      "kata": "ビューティー",
+      "romaji": "byuutii",
+      "arti": "kecantikan"
+    },
+    {
+      "kata": "ビューロー",
+      "romaji": "byuuroo",
+      "arti": "biro"
+    },
+    {
+      "kata": "レビュー",
+      "romaji": "rebyuu",
+      "arti": "ulasan"
+    },
+    {
+      "kata": "インタビュー",
+      "romaji": "intabyuu",
+      "arti": "wawancara"
+    }
+  ],
+  "ビョ": [
+    {
+      "kata": "ビョウキ",
+      "romaji": "byouki",
+      "arti": "sakit"
+    },
+    {
+      "kata": "ビョウイン",
+      "romaji": "byouin",
+      "arti": "rumah sakit"
+    },
+    {
+      "kata": "ビョウニン",
+      "romaji": "byounin",
+      "arti": "pasien"
+    },
+    {
+      "kata": "ビョウブ",
+      "romaji": "byoubu",
+      "arti": "sekat ruangan"
+    },
+    {
+      "kata": "ビョウドウ",
+      "romaji": "byoudou",
+      "arti": "kesetaraan"
+    },
+    {
+      "kata": "ビョウゼン",
+      "romaji": "byouzen",
+      "arti": "tertegun"
+    }
+  ],
+  "ピャ": [
+    {
+      "kata": "ロッピャク",
+      "romaji": "roppyaku",
+      "arti": "enam ratus"
+    },
+    {
+      "kata": "ハッピャク",
+      "romaji": "happiyaku",
+      "arti": "delapan ratus"
+    },
+    {
+      "kata": "ピャッ",
+      "romaji": "pyat",
+      "arti": "bunyi sayatan"
+    },
+    {
+      "kata": "ピャー",
+      "romaji": "pyaa",
+      "arti": "bunyi pekikan"
+    },
+    {
+      "kata": "ピャンピャン",
+      "romaji": "pyanpyan",
+      "arti": "bunyi tamparan"
+    },
+    {
+      "kata": "ピャッピャッ",
+      "romaji": "pyappyat",
+      "arti": "bunyi berulang"
+    }
+  ],
+  "ピュ": [
+    {
+      "kata": "ピュア",
+      "romaji": "pyua",
+      "arti": "murni"
+    },
+    {
+      "kata": "ピューマ",
+      "romaji": "pyuuma",
+      "arti": "puma"
+    },
+    {
+      "kata": "ピュー",
+      "romaji": "pyuu",
+      "arti": "bunyi angin"
+    },
+    {
+      "kata": "ピューレ",
+      "romaji": "pyuure",
+      "arti": "puree"
+    },
+    {
+      "kata": "ピュリッツァー",
+      "romaji": "pyurittsaa",
+      "arti": "Pulitzer (hadiah jurnalistik)"
+    },
+    {
+      "kata": "ピュアウォーター",
+      "romaji": "pyuawootaa",
+      "arti": "air murni"
+    }
+  ],
+  "ピョ": [
+    {
+      "kata": "ピョンピョン",
+      "romaji": "pyonpyon",
+      "arti": "melompat-lompat"
+    },
+    {
+      "kata": "ピョン",
+      "romaji": "pyon",
+      "arti": "lompatan"
+    },
+    {
+      "kata": "ピョコピョコ",
+      "romaji": "pyokopyoko",
+      "arti": "melompat-lompat kecil"
+    },
+    {
+      "kata": "ピョンヤン",
+      "romaji": "pyonyan",
+      "arti": "Pyongyang"
+    },
+    {
+      "kata": "ピョートル",
+      "romaji": "pyootoru",
+      "arti": "Pyotr (nama Rusia)"
+    },
+    {
+      "kata": "ピョコン",
+      "romaji": "pyokon",
+      "arti": "gerakan menunduk tiba-tiba"
+    }
+  ],
+  "シェ": [
+    {
+      "kata": "シェフ",
+      "romaji": "shefu",
+      "arti": "koki"
+    },
+    {
+      "kata": "シェア",
+      "romaji": "shea",
+      "arti": "berbagi"
+    },
+    {
+      "kata": "シェル",
+      "romaji": "sheru",
+      "arti": "cangkang"
+    },
+    {
+      "kata": "シェルター",
+      "romaji": "sherutaa",
+      "arti": "tempat perlindungan"
+    },
+    {
+      "kata": "シェービング",
+      "romaji": "sheebingu",
+      "arti": "mencukur"
+    },
+    {
+      "kata": "シェイク",
+      "romaji": "sheiku",
+      "arti": "kocokan"
+    }
+  ],
+  "ジェ": [
+    {
+      "kata": "ジェット",
+      "romaji": "jetto",
+      "arti": "jet"
+    },
+    {
+      "kata": "ジェネレーション",
+      "romaji": "jenereshon",
+      "arti": "generasi"
+    },
+    {
+      "kata": "ジェスチャー",
+      "romaji": "jesuchaa",
+      "arti": "gerak tubuh"
+    },
+    {
+      "kata": "ジェラート",
+      "romaji": "jeraato",
+      "arti": "gelato"
+    },
+    {
+      "kata": "ジェンダー",
+      "romaji": "jendaa",
+      "arti": "gender"
+    },
+    {
+      "kata": "ジェントルマン",
+      "romaji": "jentoruman",
+      "arti": "pria santun"
+    }
+  ],
+  "チェ": [
+    {
+      "kata": "チェック",
+      "romaji": "chekku",
+      "arti": "pemeriksaan"
+    },
+    {
+      "kata": "チェンジ",
+      "romaji": "chenji",
+      "arti": "perubahan"
+    },
+    {
+      "kata": "チェア",
+      "romaji": "chea",
+      "arti": "kursi"
+    },
+    {
+      "kata": "チェーン",
+      "romaji": "cheen",
+      "arti": "rantai"
+    },
+    {
+      "kata": "チェス",
+      "romaji": "chesu",
+      "arti": "catur"
+    },
+    {
+      "kata": "チェロ",
+      "romaji": "chero",
+      "arti": "selo"
+    }
+  ],
+  "ティ": [
+    {
+      "kata": "ティー",
+      "romaji": "tii",
+      "arti": "teh"
+    },
+    {
+      "kata": "ティッシュ",
+      "romaji": "tisshu",
+      "arti": "tisu"
+    },
+    {
+      "kata": "ティーン",
+      "romaji": "tiin",
+      "arti": "remaja"
+    },
+    {
+      "kata": "パーティー",
+      "romaji": "paatii",
+      "arti": "pesta"
+    },
+    {
+      "kata": "コミュニティー",
+      "romaji": "komyunitii",
+      "arti": "komunitas"
+    },
+    {
+      "kata": "アクティブ",
+      "romaji": "akutibu",
+      "arti": "aktif"
+    }
+  ],
+  "ディ": [
+    {
+      "kata": "ディズニー",
+      "romaji": "dizunii",
+      "arti": "Disney"
+    },
+    {
+      "kata": "ディナー",
+      "romaji": "dinaa",
+      "arti": "makan malam"
+    },
+    {
+      "kata": "ディスク",
+      "romaji": "disuku",
+      "arti": "cakram"
+    },
+    {
+      "kata": "ディスコ",
+      "romaji": "disuko",
+      "arti": "disko"
+    },
+    {
+      "kata": "ディスカッション",
+      "romaji": "disukasshon",
+      "arti": "diskusi"
+    },
+    {
+      "kata": "ディフェンス",
+      "romaji": "difensu",
+      "arti": "pertahanan"
+    }
+  ],
+  "トゥ": [
+    {
+      "kata": "トゥモロー",
+      "romaji": "tumoroo",
+      "arti": "besok"
+    },
+    {
+      "kata": "トゥナイト",
+      "romaji": "tunaito",
+      "arti": "malam ini"
+    },
+    {
+      "kata": "トゥデイ",
+      "romaji": "tudei",
+      "arti": "hari ini"
+    },
+    {
+      "kata": "トゥイッター",
+      "romaji": "tuittaa",
+      "arti": "Twitter"
+    },
+    {
+      "kata": "トゥルー",
+      "romaji": "turuu",
+      "arti": "benar"
+    },
+    {
+      "kata": "トゥー",
+      "romaji": "tuu",
+      "arti": "dua"
+    }
+  ],
+  "ドゥ": [
+    {
+      "kata": "ドゥカティ",
+      "romaji": "dukati",
+      "arti": "Ducati (merek motor)"
+    },
+    {
+      "kata": "ドゥオーモ",
+      "romaji": "duoomo",
+      "arti": "Duomo (katedral)"
+    },
+    {
+      "kata": "ドゥーマ",
+      "romaji": "duuma",
+      "arti": "Duma (parlemen Rusia)"
+    },
+    {
+      "kata": "ドゥーム",
+      "romaji": "duumu",
+      "arti": "Doom (nama gim)"
+    },
+    {
+      "kata": "ドゥルル",
+      "romaji": "dururu",
+      "arti": "bunyi telepon berdering"
+    },
+    {
+      "kata": "ドゥンドゥン",
+      "romaji": "dundun",
+      "arti": "bunyi gendang"
+    }
+  ],
+  "ファ": [
+    {
+      "kata": "ファン",
+      "romaji": "fan",
+      "arti": "penggemar"
+    },
+    {
+      "kata": "ファイト",
+      "romaji": "faito",
+      "arti": "semangat"
+    },
+    {
+      "kata": "ファミリー",
+      "romaji": "famirii",
+      "arti": "keluarga"
+    },
+    {
+      "kata": "ファッション",
+      "romaji": "fasshon",
+      "arti": "mode"
+    },
+    {
+      "kata": "ファックス",
+      "romaji": "fakkusu",
+      "arti": "faks"
+    },
+    {
+      "kata": "ファイヤー",
+      "romaji": "faiyaa",
+      "arti": "api"
+    }
+  ],
+  "フィ": [
+    {
+      "kata": "フィルム",
+      "romaji": "firumu",
+      "arti": "film"
+    },
+    {
+      "kata": "フィギュア",
+      "romaji": "figyua",
+      "arti": "figur"
+    },
+    {
+      "kata": "フィードバック",
+      "romaji": "fiidobakku",
+      "arti": "umpan balik"
+    },
+    {
+      "kata": "フィールド",
+      "romaji": "fiirudo",
+      "arti": "lapangan"
+    },
+    {
+      "kata": "フィリピン",
+      "romaji": "firipin",
+      "arti": "Filipina"
+    },
+    {
+      "kata": "フィンガー",
+      "romaji": "fingaa",
+      "arti": "jari"
+    }
+  ],
+  "フェ": [
+    {
+      "kata": "カフェ",
+      "romaji": "kafe",
+      "arti": "kafe"
+    },
+    {
+      "kata": "フェリー",
+      "romaji": "ferii",
+      "arti": "kapal feri"
+    },
+    {
+      "kata": "フェア",
+      "romaji": "fea",
+      "arti": "adil"
+    },
+    {
+      "kata": "フェス",
+      "romaji": "fesu",
+      "arti": "festival"
+    },
+    {
+      "kata": "フェアリー",
+      "romaji": "fearii",
+      "arti": "peri"
+    },
+    {
+      "kata": "フェスティバル",
+      "romaji": "fesutibaru",
+      "arti": "festival"
+    }
+  ],
+  "フォ": [
+    {
+      "kata": "フォーク",
+      "romaji": "fooku",
+      "arti": "garpu"
+    },
+    {
+      "kata": "フォーム",
+      "romaji": "foomu",
+      "arti": "formulir"
+    },
+    {
+      "kata": "フォト",
+      "romaji": "foto",
+      "arti": "foto"
+    },
+    {
+      "kata": "フォロー",
+      "romaji": "foroo",
+      "arti": "mengikuti"
+    },
+    {
+      "kata": "フォーカス",
+      "romaji": "fookasu",
+      "arti": "fokus"
+    },
+    {
+      "kata": "フォント",
+      "romaji": "fonto",
+      "arti": "huruf"
+    }
+  ],
+  "ヴァ": [
+    {
+      "kata": "ヴァイオリン",
+      "romaji": "vaiorin",
+      "arti": "biola"
+    },
+    {
+      "kata": "ヴァレンタイン",
+      "romaji": "varentain",
+      "arti": "Valentine"
+    },
+    {
+      "kata": "ヴァージン",
+      "romaji": "vaajin",
+      "arti": "perawan"
+    },
+    {
+      "kata": "ヴァリエーション",
+      "romaji": "varieshon",
+      "arti": "variasi"
+    },
+    {
+      "kata": "ヴァカンス",
+      "romaji": "vakansu",
+      "arti": "liburan"
+    },
+    {
+      "kata": "ヴァイタル",
+      "romaji": "vaitaru",
+      "arti": "vital"
+    }
+  ],
+  "ヴィ": [
+    {
+      "kata": "ヴィジョン",
+      "romaji": "vijon",
+      "arti": "visi"
+    },
+    {
+      "kata": "ヴィレッジ",
+      "romaji": "virejji",
+      "arti": "desa"
+    },
+    {
+      "kata": "ヴィンテージ",
+      "romaji": "vinteiji",
+      "arti": "vintage"
+    },
+    {
+      "kata": "ヴィジュアル",
+      "romaji": "vijuaru",
+      "arti": "visual"
+    },
+    {
+      "kata": "ヴィザ",
+      "romaji": "viza",
+      "arti": "visa"
+    },
+    {
+      "kata": "ヴィーナス",
+      "romaji": "viinasu",
+      "arti": "Venus"
+    }
+  ],
+  "ヴ": [
+    {
+      "kata": "ヴォーカル",
+      "romaji": "vookaru",
+      "arti": "vokal"
+    },
+    {
+      "kata": "ヴァイオリン",
+      "romaji": "vaiorin",
+      "arti": "biola"
+    },
+    {
+      "kata": "ヴィーナス",
+      "romaji": "viinasu",
+      "arti": "Venus"
+    },
+    {
+      "kata": "ヴェルサイユ",
+      "romaji": "verusaiyu",
+      "arti": "Versailles"
+    },
+    {
+      "kata": "ヴォリューム",
+      "romaji": "voryuumu",
+      "arti": "volume"
+    },
+    {
+      "kata": "ヴィンテージ",
+      "romaji": "vinteiji",
+      "arti": "vintage"
+    }
+  ],
+  "ヴェ": [
+    {
+      "kata": "ヴェルサイユ",
+      "romaji": "verusaiyu",
+      "arti": "Versailles"
+    },
+    {
+      "kata": "ヴェール",
+      "romaji": "veeru",
+      "arti": "kerudung"
+    },
+    {
+      "kata": "ヴェランダ",
+      "romaji": "veranda",
+      "arti": "beranda"
+    },
+    {
+      "kata": "ヴェネツィア",
+      "romaji": "venetsia",
+      "arti": "Venesia"
+    },
+    {
+      "kata": "ヴェルディ",
+      "romaji": "verudi",
+      "arti": "Verdi (komponis)"
+    },
+    {
+      "kata": "ヴェテラン",
+      "romaji": "veteran",
+      "arti": "veteran"
+    }
+  ],
+  "ヴォ": [
+    {
+      "kata": "ヴォーカル",
+      "romaji": "vookaru",
+      "arti": "vokal"
+    },
+    {
+      "kata": "ヴォリューム",
+      "romaji": "voryuumu",
+      "arti": "volume"
+    },
+    {
+      "kata": "ヴォイス",
+      "romaji": "voisu",
+      "arti": "suara"
+    },
+    {
+      "kata": "ヴォルガ",
+      "romaji": "voruga",
+      "arti": "Sungai Volga"
+    },
+    {
+      "kata": "ヴォルフ",
+      "romaji": "vorufu",
+      "arti": "serigala (bahasa Jerman)"
+    },
+    {
+      "kata": "ヴォルフラム",
+      "romaji": "vorufuramu",
+      "arti": "wolfram (logam)"
+    }
+  ],
+  "ウィ": [
+    {
+      "kata": "ウィンドウ",
+      "romaji": "windou",
+      "arti": "jendela"
+    },
+    {
+      "kata": "ウィーク",
+      "romaji": "wiiku",
+      "arti": "minggu"
+    },
+    {
+      "kata": "ウィスキー",
+      "romaji": "wisukii",
+      "arti": "wiski"
+    },
+    {
+      "kata": "ウィッグ",
+      "romaji": "wiggu",
+      "arti": "wig"
+    },
+    {
+      "kata": "ウィルス",
+      "romaji": "wirusu",
+      "arti": "virus"
+    },
+    {
+      "kata": "ウィンター",
+      "romaji": "wintaa",
+      "arti": "musim dingin"
+    }
+  ],
+  "ウェ": [
+    {
+      "kata": "ウェブ",
+      "romaji": "webu",
+      "arti": "web"
+    },
+    {
+      "kata": "ウェイト",
+      "romaji": "weito",
+      "arti": "berat"
+    },
+    {
+      "kata": "ウェルカム",
+      "romaji": "werukamu",
+      "arti": "selamat datang"
+    },
+    {
+      "kata": "ウェア",
+      "romaji": "wea",
+      "arti": "pakaian"
+    },
+    {
+      "kata": "ウェスト",
+      "romaji": "wesuto",
+      "arti": "pinggang"
+    },
+    {
+      "kata": "ウェディング",
+      "romaji": "wedingu",
+      "arti": "pernikahan"
+    }
+  ],
+  "ウォ": [
+    {
+      "kata": "ウォーター",
+      "romaji": "wotaa",
+      "arti": "air"
+    },
+    {
+      "kata": "ウォッチ",
+      "romaji": "wocchi",
+      "arti": "jam tangan"
+    },
+    {
+      "kata": "ウォーキング",
+      "romaji": "wookingu",
+      "arti": "jalan kaki"
+    },
+    {
+      "kata": "ウォール",
+      "romaji": "wooru",
+      "arti": "dinding"
+    },
+    {
+      "kata": "ウォームアップ",
+      "romaji": "woomuappu",
+      "arti": "pemanasan"
+    },
+    {
+      "kata": "ウォルマート",
+      "romaji": "worumaato",
+      "arti": "Walmart (peritel)"
+    }
+  ],
+  "ツァ": [
+    {
+      "kata": "ツァーリ",
+      "romaji": "tsaari",
+      "arti": "tsar (raja Rusia)"
+    },
+    {
+      "kata": "モーツァルト",
+      "romaji": "mootsaruto",
+      "arti": "Mozart"
+    },
+    {
+      "kata": "ピッツァ",
+      "romaji": "pittsa",
+      "arti": "pizza ala Italia"
+    },
+    {
+      "kata": "ツァイス",
+      "romaji": "tsaisu",
+      "arti": "Zeiss (merek optik)"
+    },
+    {
+      "kata": "ツァイト",
+      "romaji": "tsaito",
+      "arti": "zeit (waktu, bahasa Jerman)"
+    },
+    {
+      "kata": "ツァラトゥストラ",
+      "romaji": "tsaratusutora",
+      "arti": "Zarathustra"
+    }
+  ],
+  "ツィ": [
+    {
+      "kata": "ツィター",
+      "romaji": "tsitaa",
+      "arti": "zither (alat musik)"
+    },
+    {
+      "kata": "ツィゴイネルワイゼン",
+      "romaji": "tsigoineruwaizen",
+      "arti": "Zigeunerweisen (lagu biola)"
+    },
+    {
+      "kata": "ライプツィヒ",
+      "romaji": "raiputsihi",
+      "arti": "Leipzig (kota Jerman)"
+    },
+    {
+      "kata": "ツィンメルマン",
+      "romaji": "tsimmerman",
+      "arti": "Zimmermann (nama Jerman)"
+    },
+    {
+      "kata": "ツィンツィン",
+      "romaji": "tsintsin",
+      "arti": "bunyi jangkrik"
+    },
+    {
+      "kata": "ツィーゲル",
+      "romaji": "tsiigeru",
+      "arti": "bata (bahasa Jerman)"
+    }
+  ],
+  "ツェ": [
+    {
+      "kata": "ツェッペリン",
+      "romaji": "tsupperin",
+      "arti": "Zeppelin (kapal udara)"
+    },
+    {
+      "kata": "ツェルニー",
+      "romaji": "tserunii",
+      "arti": "Czerny (komponis)"
+    },
+    {
+      "kata": "ツェツェバエ",
+      "romaji": "tsetsebae",
+      "arti": "lalat tsetse"
+    },
+    {
+      "kata": "ツェルマット",
+      "romaji": "tserumatto",
+      "arti": "Zermatt (kota ski)"
+    },
+    {
+      "kata": "ツェントラル",
+      "romaji": "tsentoraru",
+      "arti": "pusat (bahasa Jerman)"
+    },
+    {
+      "kata": "ツェルト",
+      "romaji": "tseruto",
+      "arti": "tenda darurat"
+    }
+  ],
+  "ツォ": [
+    {
+      "kata": "ツォルキン",
+      "romaji": "tsorukin",
+      "arti": "Tzolkin (kalender Maya)"
+    },
+    {
+      "kata": "ツォンカパ",
+      "romaji": "tsonkapa",
+      "arti": "Tsongkhapa (biksu Tibet)"
+    },
+    {
+      "kata": "ツォイクハウス",
+      "romaji": "tsoikuhausu",
+      "arti": "Zeughaus (gudang senjata)"
+    },
+    {
+      "kata": "ツォルン",
+      "romaji": "tsorun",
+      "arti": "Zorn (amarah, bahasa Jerman)"
+    },
+    {
+      "kata": "メッツォ",
+      "romaji": "metso",
+      "arti": "mezzo (agak/sedang)"
+    },
+    {
+      "kata": "メッツォソプラノ",
+      "romaji": "metsosopurano",
+      "arti": "mezzo-soprano (suara)"
+    }
+  ]
+}
