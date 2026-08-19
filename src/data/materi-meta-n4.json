@@ -1,0 +1,302 @@
+{
+  "bp-n4-001": {
+    "title": "Kondisi ~tara (Jika ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan 'jika ...' dengan bentuk ~tara, dan apa aturan konjugasinya untuk kata kerja dan kata sifat?"
+  },
+  "bp-n4-002": {
+    "title": "Kondisi ~ba (Jika/Kalau ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana membentuk kalimat kondisional dengan ~ba dari kata kerja kelompok 1, 2, dan 3?"
+  },
+  "bp-n4-003": {
+    "title": "Klausa Waktu ~to (Kalau/Ketika ...)",
+    "category": "Kata Bantu",
+    "prompt": "Kapan kita menggunakan ~to untuk menyatakan hubungan 'kalau/ketika' beserta batasan penggunaannya?"
+  },
+  "bp-n4-004": {
+    "title": "Kondisi ~nara (Kalau Begitu ...)",
+    "category": "Kata Bantu",
+    "prompt": "Apa perbedaan nuansa ~nara dibandingkan ~tara dan ~ba dalam kalimat kondisional?"
+  },
+  "bp-n4-005": {
+    "title": "Alasan ~node (Karena ...)",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana menyatakan alasan dengan ~node dan kapan lebih tepat digunakan dibandingkan ~kara?"
+  },
+  "bp-n4-006": {
+    "title": "Kontras ~noni (Padahal ...)",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana menyatakan rasa kecewa atau kontras 'padahal' menggunakan ~noni?"
+  },
+  "bp-n4-007": {
+    "title": "Daftar Alasan ~shi ~shi",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana menyebutkan beberapa alasan sekaligus dalam satu kalimat menggunakan pola ~shi ~shi?"
+  },
+  "bp-n4-008": {
+    "title": "Perkiraan ~hazu desu (Seharusnya ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan perkiraan yang didasari keyakinan atau logika dengan ~hazu desu?"
+  },
+  "bp-n4-009": {
+    "title": "Negasi Perkiraan ~hazu ga arimasen",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan 'tidak mungkin ...' dengan ~hazu ga arimasen dan apa bedanya dengan ~hazu desu?"
+  },
+  "bp-n4-010": {
+    "title": "Keputusan ~koto ni suru (Memutuskan Untuk ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan keputusan pribadi 'memutuskan untuk ...' menggunakan ~koto ni suru?"
+  },
+  "bp-n4-011": {
+    "title": "Keputusan Umum ~koto ni naru (Menjadi ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan keputusan yang ditentukan oleh pihak luar atau keadaan menggunakan ~koto ni naru?"
+  },
+  "bp-n4-012": {
+    "title": "Kebiasaan ~koto ni shite iru (Sudah Memutuskan/ Membiasakan ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan aturan atau kebiasaan yang sedang dijalankan sehari-hari dengan ~koto ni shite iru?"
+  },
+  "bp-n4-013": {
+    "title": "Tujuan ~youni (Agar/Supaya ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan tujuan 'agar ...' dengan ~youni dan apa bedanya dengan ~tame ni?"
+  },
+  "bp-n4-014": {
+    "title": "Perubahan ~youni naru (Menjadi ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan perubahan kemampuan atau keadaan secara bertahap dengan ~youni naru?"
+  },
+  "bp-n4-015": {
+    "title": "Menyampaikan Pesan ~youni iu (Berkata Supaya ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyampaikan pesan atau kutipan permintaan orang lain dengan pola ~youni iu?"
+  },
+  "bp-n4-016": {
+    "title": "Spekulasi ~mitai desu (Sepertinya ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan dugaan berdasarkan penglihatan langsung dengan ~mitai desu, dan bagaimana aturan perubahannya?"
+  },
+  "bp-n4-017": {
+    "title": "Kesan Umum ~rashii desu (Kelihatannya ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan kesan atau rumor 'sepertinya' dengan ~rashii desu dan apa bedanya dengan ~sou desu?"
+  },
+  "bp-n4-018": {
+    "title": "Analogi ~you desu (Seperti / Sepertinya ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan dugaan atau kemiripan dengan ~you desu, termasuk bentuk untuk kata benda dan kata sifat?"
+  },
+  "bp-n4-019": {
+    "title": "Dengar Kabar ~sou desu (Katanya ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyampaikan kabar atau informasi yang didengar dari orang lain dengan ~sou desu?"
+  },
+  "bp-n4-020": {
+    "title": "Dugaan ~sou desu (Kelihatannya ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan dugaan berdasarkan kesan visual dengan ~sou desu, dan apa perbedaannya dengan ~sou desu yang berarti 'katanya'?"
+  },
+  "bp-n4-021": {
+    "title": "Penyelesaian ~te shimau (Sudah Terlanjur ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan tindakan yang sudah selesai atau terlanjur terjadi dengan rasa penyesalan menggunakan ~te shimau?"
+  },
+  "bp-n4-022": {
+    "title": "Persiapan ~te oku (Melakukan Lebih Dulu ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan tindakan yang dilakukan sebagai persiapan untuk masa depan dengan ~te oku?"
+  },
+  "bp-n4-023": {
+    "title": "Keadaan Hasil ~te aru (Sudah Dalam Keadaan ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan keadaan yang sudah dihasilkan oleh tindakan seseorang menggunakan ~te aru?"
+  },
+  "bp-n4-024": {
+    "title": "Arah Jauh ~te iku (Terus Berlalu / Semakin ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan aksi yang berlanjut menjauh dari pembicara atau berlangsung ke masa depan dengan ~te iku?"
+  },
+  "bp-n4-025": {
+    "title": "Arah Mendekat ~te kuru (Datang / Mulai ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan aksi yang mendekati pembicara atau perubahan yang mulai terjadi dengan ~te kuru?"
+  },
+  "bp-n4-026": {
+    "title": "Menerima Perbuatan ~te morau (Minta/Menerima Dilakukan ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan bahwa kita menerima/meminta seseorang melakukan sesuatu untuk kita dengan ~te morau?"
+  },
+  "bp-n4-027": {
+    "title": "Pemberian Orang Lain ~te kureru (Seseorang Melakukan Untuk Saya)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan kebaikan orang lain yang dilakukan untuk kita atau orang yang dekat dengan kita menggunakan ~te kureru?"
+  },
+  "bp-n4-028": {
+    "title": "Memberi Perbuatan ~te ageru (Melakukan Untuk Orang Lain)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan tindakan yang kita lakukan untuk kepentingan orang lain menggunakan ~te ageru?"
+  },
+  "bp-n4-029": {
+    "title": "Kemungkinan Ditolong ~te moraeru (Bisa Minta Dilakukan ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana meminta tolong secara sopan menggunakan bentuk potensial ~te moraeru?"
+  },
+  "bp-n4-030": {
+    "title": "Keinginan ~te hoshii (Ingin Seseorang Melakukan ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan keinginan agar orang lain melakukan sesuatu untuk kita dengan ~te hoshii?"
+  },
+  "bp-n4-031": {
+    "title": "Kelebihan ~sugiru (Terlalu ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan 'terlalu ...' dengan ~sugiru untuk kata kerja, kata sifat i, dan kata sifat na?"
+  },
+  "bp-n4-032": {
+    "title": "Mudah ~yasui (Mudah Untuk ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan sifat 'mudah untuk dilakukan' dengan bentuk ~yasui?"
+  },
+  "bp-n4-033": {
+    "title": "Sulit ~nikui (Sulit Untuk ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan sifat 'sulit untuk dilakukan' dengan bentuk ~nikui, dan apa pasangannya yang berlawanan?"
+  },
+  "bp-n4-034": {
+    "title": "Tujuan ~tame ni (Untuk / Demi ...)",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana menyatakan tujuan 'untuk ...' dengan ~tame ni, dan bentuk apa yang digunakan sebelum pola ini?"
+  },
+  "bp-n4-035": {
+    "title": "Sebab ~tame ni (Karena ...)",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana membedakan penggunaan ~tame ni sebagai 'tujuan' dan sebagai 'sebab' dalam sebuah kalimat?"
+  },
+  "bp-n4-036": {
+    "title": "Saran ~ba ii (Sebaiknya ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana memberi saran 'sebaiknya kamu ...' menggunakan bentuk ~ba ii desu?"
+  },
+  "bp-n4-037": {
+    "title": "Saran ~tara ii / ~to ii (Akan Lebih Baik ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana memberi saran dengan ~tara ii desu dan ~to ii desu, dan apa perbedaan nuansa keduanya?"
+  },
+  "bp-n4-038": {
+    "title": "Penyesalan ~ba yokatta (Seharusnya/Andai Saja ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan penyesalan 'andai saja waktu itu ...' menggunakan ~ba yokatta?"
+  },
+  "bp-n4-039": {
+    "title": "Fase Aksi ~tokoro desu (Baru Saja / Sedang / Akan ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan tiga fase tindakan (akan/sedang/baru selesai) dengan pola ~tokoro desu?"
+  },
+  "bp-n4-040": {
+    "title": "Hanya ~bakari (Hanya/Berulang ...)",
+    "category": "Partikel",
+    "prompt": "Bagaimana menyatakan 'hanya ...' atau tindakan berulang dengan partikel ~bakari?"
+  },
+  "bp-n4-041": {
+    "title": "Larangan ~te wa ikenai (Tidak Boleh ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan larangan 'tidak boleh ...' dengan ~te wa ikenai dan variasi ~te wa dame?"
+  },
+  "bp-n4-042": {
+    "title": "Larangan Bentuk Santai ~nakucha / ~nakya",
+    "category": "Kata Bantu",
+    "prompt": "Apa bentuk singkat santai dari ~nakereba naranai untuk 'harus', dan bagaimana penggunaannya?"
+  },
+  "bp-n4-043": {
+    "title": "Usaha ~youni suru (Berusaha Untuk ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan usaha untuk mencapai suatu keadaan dengan ~youni suru?"
+  },
+  "bp-n4-044": {
+    "title": "Tingkat Tertinggi ~hodo ... nai (Tidak Ada Yang Lebih ... Dari ...)",
+    "category": "Partikel",
+    "prompt": "Bagaimana menyatakan 'tidak ada yang lebih ... daripada ...' menggunakan pola ~hodo ... nai?"
+  },
+  "bp-n4-045": {
+    "title": "Perbandingan ~ba ~hodo (Semakin ... Semakin ...)",
+    "category": "Partikel",
+    "prompt": "Bagaimana menyatakan 'semakin ... semakin ...' dengan kombinasi ~ba ~hodo?"
+  },
+  "bp-n4-046": {
+    "title": "Bahkan ~demo (Bahkan ... Pun ...)",
+    "category": "Partikel",
+    "prompt": "Bagaimana menyatakan 'bahkan' untuk memberi contoh ekstrem dengan partikel ~demo?"
+  },
+  "bp-n4-047": {
+    "title": "Topik ~ni tsuite (Tentang / Mengenai ...)",
+    "category": "Partikel",
+    "prompt": "Bagaimana menyatakan topik pembicaraan 'mengenai ...' dengan ~ni tsuite?"
+  },
+  "bp-n4-048": {
+    "title": "Sebab Akibat ~ni yotte (Oleh / Akibat / Tergantung ...)",
+    "category": "Partikel",
+    "prompt": "Bagaimana menyatakan sebab, cara, atau ketergantungan 'oleh/karena/tergantung' dengan ~ni yotte?"
+  },
+  "bp-n4-049": {
+    "title": "Peran ~toshite (Sebagai ...)",
+    "category": "Partikel",
+    "prompt": "Bagaimana menyatakan kapasitas atau peran 'sebagai ...' dengan ~toshite?"
+  },
+  "bp-n4-050": {
+    "title": "Kecenderungan ~ppoi (Berbau ... / Cenderung ...)",
+    "category": "Kata Sifat",
+    "prompt": "Bagaimana membentuk kata sifat yang menyatakan kecenderungan 'berbau/cenderung' dengan ~ppoi?"
+  },
+  "bp-n4-051": {
+    "title": "Baru Selesai ~ta bakari (Baru Saja ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan 'baru saja selesai ...' dengan ~ta bakari dan apa bedanya dengan ~ta tokoro?"
+  },
+  "bp-n4-052": {
+    "title": "Klausa Tanya ~ka dou ka (Apakah ... Atau Tidak)",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana menyisipkan pertanyaan 'apakah ... atau tidak' ke dalam kalimat menggunakan ~ka dou ka?"
+  },
+  "bp-n4-053": {
+    "title": "Ragu-Ragu ~kashira (Ya? / Gerangan ...)",
+    "category": "Partikel",
+    "prompt": "Bagaimana menyatakan keraguan atau bertanya pada diri sendiri dengan partikel akhir ~kashira?"
+  },
+  "bp-n4-054": {
+    "title": "Berkah ~okage de (Berkat ...)",
+    "category": "Partikel",
+    "prompt": "Bagaimana menyatakan 'berkat ...' untuk hasil positif dengan ~okage de?"
+  },
+  "bp-n4-055": {
+    "title": "Penyebab Negatif ~sei de (Akibat ... / Karena ...)",
+    "category": "Partikel",
+    "prompt": "Bagaimana menyatakan sebab yang menghasilkan akibat negatif dengan ~sei de, dan apa lawan katanya?"
+  },
+  "bp-n4-056": {
+    "title": "Selama ~uchi ni (Selagi / Sementara ...)",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana menyatakan 'selagi/sementara ...' dengan ~uchi ni untuk menunjukkan kesempatan yang terbatas?"
+  },
+  "bp-n4-057": {
+    "title": "Selama Itu ~uchi wa (Selama ...)",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana menyatakan 'selama ...' dengan ~uchi wa dan apa bedanya dengan ~uchi ni?"
+  },
+  "bp-n4-058": {
+    "title": "Sudut Pandang ~ni totte (Bagi / Menurut ...)",
+    "category": "Partikel",
+    "prompt": "Bagaimana menyatakan sudut pandang 'bagi ...' dengan ~ni totte?"
+  },
+  "bp-n4-059": {
+    "title": "Cara Melakukan ~kata (Cara ...)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana membentuk kata yang menyatakan 'cara melakukan' suatu aksi dengan akhiran ~kata?"
+  },
+  "bp-n4-060": {
+    "title": "Sumber Informasi ~ni yoru to (Menurut ...)",
+    "category": "Partikel",
+    "prompt": "Bagaimana menyebutkan sumber informasi 'menurut ...' dengan ~ni yoru to?"
+  }
+}

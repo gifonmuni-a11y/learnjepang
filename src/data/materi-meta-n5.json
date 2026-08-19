@@ -1,0 +1,302 @@
+{
+  "bp-n5-001": {
+    "title": "Bentuk Masu (Sopan)",
+    "category": "Kata Kerja",
+    "prompt": "Bagaimana mengubah kata kerja menjadi bentuk sopan lampau negatif?"
+  },
+  "bp-n5-002": {
+    "title": "Kopula Desu (Sopan)",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana menyatakan 'bukan' dalam bentuk lampau sopan menggunakan kopula?"
+  },
+  "bp-n5-003": {
+    "title": "Partikel O (Objek)",
+    "category": "Partikel",
+    "prompt": "Partikel apa yang menandai objek langsung dari kata kerja transitif?"
+  },
+  "bp-n5-004": {
+    "title": "Partikel Ni (Waktu & Tujuan)",
+    "category": "Partikel",
+    "prompt": "Bagaimana menyatakan titik waktu seperti 'jam 7' dalam kalimat?"
+  },
+  "bp-n5-005": {
+    "title": "Partikel De (Tempat & Alat)",
+    "category": "Partikel",
+    "prompt": "Bagaimana membedakan penggunaan partikel で untuk tempat dan untuk alat?"
+  },
+  "bp-n5-006": {
+    "title": "Partikel E (Arah)",
+    "category": "Partikel",
+    "prompt": "Bagaimana cara membaca dan memakai partikel yang menandai arah tujuan?"
+  },
+  "bp-n5-007": {
+    "title": "Dari... Sampai (Kara... Made)",
+    "category": "Partikel",
+    "prompt": "Bagaimana menyatakan rentang waktu 'dari jam 9 sampai jam 5'?"
+  },
+  "bp-n5-008": {
+    "title": "Partikel To (Bersama)",
+    "category": "Partikel",
+    "prompt": "Partikel apa yang dipakai untuk menyatakan 'bersama dengan' teman?"
+  },
+  "bp-n5-009": {
+    "title": "Partikel Ya (Daftar Sebagian)",
+    "category": "Partikel",
+    "prompt": "Apa beda partikel や dan と saat mendaftar benda dalam satu kalimat?"
+  },
+  "bp-n5-010": {
+    "title": "Partikel No (Kepemilikan)",
+    "category": "Partikel",
+    "prompt": "Bagaimana menghubungkan dua kata benda untuk menyatakan kepemilikan?"
+  },
+  "bp-n5-011": {
+    "title": "Partikel Ga (Subjek)",
+    "category": "Partikel",
+    "prompt": "Kapan partikel が dipakai sebagai penanda subjek dalam kalimat?"
+  },
+  "bp-n5-012": {
+    "title": "Partikel Mo (Juga)",
+    "category": "Partikel",
+    "prompt": "Bagaimana menyatakan 'saya juga pelajar' menggunakan partikel yang tepat?"
+  },
+  "bp-n5-013": {
+    "title": "Partikel Ka (Tanya)",
+    "category": "Partikel",
+    "prompt": "Bagaimana mengubah kalimat pernyataan menjadi pertanyaan ya/tidak?"
+  },
+  "bp-n5-014": {
+    "title": "Partikel Ne & Yo",
+    "category": "Partikel",
+    "prompt": "Apa perbedaan fungsi partikel ね dan よ di akhir kalimat?"
+  },
+  "bp-n5-015": {
+    "title": "Ajakan Masenka",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana mengajak seseorang makan bersama secara sopan?"
+  },
+  "bp-n5-016": {
+    "title": "Ajakan Mashou",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana mengajak seseorang melakukan sesuatu bersama-sama?"
+  },
+  "bp-n5-017": {
+    "title": "Tawaran Mashouka",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menawarkan bantuan kepada seseorang dengan sopan?"
+  },
+  "bp-n5-018": {
+    "title": "Permintaan Te Kudasai",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana meminta tolong seseorang melakukan sesuatu secara sopan?"
+  },
+  "bp-n5-019": {
+    "title": "Izin Te Mo Ii",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana meminta izin untuk merokok dalam bahasa Jepang?"
+  },
+  "bp-n5-020": {
+    "title": "Larangan Te Wa Ikenai",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan 'tidak boleh makan di sini'?"
+  },
+  "bp-n5-021": {
+    "title": "Urutan Te Kara",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana menyatakan 'setelah makan, saya keluar'?"
+  },
+  "bp-n5-022": {
+    "title": "Bentuk Te Iru (Sedang)",
+    "category": "Kata Kerja",
+    "prompt": "Bagaimana menyatakan aksi yang sedang berlangsung sekarang?"
+  },
+  "bp-n5-023": {
+    "title": "Larangan Sopan Naide Kudasai",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana meminta seseorang agar tidak berfoto di sini?"
+  },
+  "bp-n5-024": {
+    "title": "Kewajiban Nakereba Narimasen",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan kewajiban 'harus belajar setiap hari'?"
+  },
+  "bp-n5-025": {
+    "title": "Tidak Wajib Nakute Mo Ii",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan 'hari ini tidak perlu datang'?"
+  },
+  "bp-n5-026": {
+    "title": "Pengalaman Ta Koto ga Aru",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan pengalaman 'pernah mendaki Gunung Fuji'?"
+  },
+  "bp-n5-027": {
+    "title": "Daftar Aksi Tari... Tari",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyebutkan beberapa contoh aktivitas di akhir pekan sekaligus?"
+  },
+  "bp-n5-028": {
+    "title": "Keinginan Tai",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan keinginan 'ingin pergi ke Jepang'?"
+  },
+  "bp-n5-029": {
+    "title": "Sambil (Nagara)",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana menyatakan dua aksi yang dilakukan bersamaan seperti 'berlari sambil mendengarkan musik'?"
+  },
+  "bp-n5-030": {
+    "title": "Nominalisasi Koto",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana mengubah kata kerja menjadi kata benda agar bisa dijadikan topik?"
+  },
+  "bp-n5-031": {
+    "title": "Kemampuan Koto ga Dekiru",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan kemampuan 'bisa berbicara bahasa Jepang'?"
+  },
+  "bp-n5-032": {
+    "title": "Sebelum (Mae ni)",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana menyatakan aksi yang dilakukan 'sebelum tidur'?"
+  },
+  "bp-n5-033": {
+    "title": "Setelah (Ato de)",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Apa perbedaan pola 〜てから dan 〜あとで dalam menyatakan urutan aksi?"
+  },
+  "bp-n5-034": {
+    "title": "Ketika (Toki)",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana menyatakan 'saat kecil, saya tinggal di desa'?"
+  },
+  "bp-n5-035": {
+    "title": "Pendapat To Omou",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan pendapat 'saya pikir besok akan hujan'?"
+  },
+  "bp-n5-036": {
+    "title": "Kutipan To Iimashita",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana melaporkan ucapan orang lain menggunakan と言いました?"
+  },
+  "bp-n5-037": {
+    "title": "Dugaan Deshou",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan perkiraan 'besok mungkin dingin'?"
+  },
+  "bp-n5-038": {
+    "title": "Kemungkinan Kamoshirenai",
+    "category": "Kata Bantu",
+    "prompt": "Apa perbedaan tingkat kepastian antara 〜でしょう dan 〜かもしれません?"
+  },
+  "bp-n5-039": {
+    "title": "Perbandingan Yori... Hou ga",
+    "category": "Kata Sifat",
+    "prompt": "Bagaimana menyatakan 'bus lebih murah daripada kereta'?"
+  },
+  "bp-n5-040": {
+    "title": "Superlatif Ichiban",
+    "category": "Kata Sifat",
+    "prompt": "Bagaimana menyatakan 'gunung tertinggi di Jepang'?"
+  },
+  "bp-n5-041": {
+    "title": "Ingin Benda Hoshii",
+    "category": "Kata Sifat",
+    "prompt": "Bagaimana menyatakan keinginan terhadap benda seperti 'ingin komputer baru'?"
+  },
+  "bp-n5-042": {
+    "title": "Tujuan Pergerakan Ni Iku",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana menyatakan tujuan 'pergi belanja' menggunakan partikel に?"
+  },
+  "bp-n5-043": {
+    "title": "Struktur Wa... Ga (Suka/Pandai)",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana menyatakan 'saya suka ikan' dengan struktur は...が?"
+  },
+  "bp-n5-044": {
+    "title": "Keberadaan Aru / Iru",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Kapan memakai あります dan kapan memakai います untuk menyatakan keberadaan?"
+  },
+  "bp-n5-045": {
+    "title": "Lokasi Keberadaan",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana menyatakan 'bank ada di depan stasiun'?"
+  },
+  "bp-n5-046": {
+    "title": "Meminta Benda O Kudasai",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana meminta segelas air dengan sopan di restoran?"
+  },
+  "bp-n5-047": {
+    "title": "Hanya (Dake)",
+    "category": "Partikel",
+    "prompt": "Bagaimana menyatakan 'hanya anggota yang bisa masuk'?"
+  },
+  "bp-n5-048": {
+    "title": "Hanya... Shika... Nai",
+    "category": "Partikel",
+    "prompt": "Apa perbedaan pola 〜だけ dan 〜しか〜ない dalam menyatakan 'hanya'?"
+  },
+  "bp-n5-049": {
+    "title": "Pilihan Ka... Ka",
+    "category": "Partikel",
+    "prompt": "Bagaimana menanyakan pilihan antara kopi dan teh?"
+  },
+  "bp-n5-050": {
+    "title": "I-Adjective (Sekarang & Lampau)",
+    "category": "Kata Sifat",
+    "prompt": "Bagaimana membentuk bentuk lampau negatif i-adjective?"
+  },
+  "bp-n5-051": {
+    "title": "Na-Adjective (Sekarang & Lampau)",
+    "category": "Kata Sifat",
+    "prompt": "Bagaimana perubahan bentuk na-adjective dalam bentuk sopan lampau?"
+  },
+  "bp-n5-052": {
+    "title": "Penghitung Benda (Tsu)",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana menghitung tiga buah apel menggunakan penghitung umum?"
+  },
+  "bp-n5-053": {
+    "title": "Penghitung Orang (Nin)",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana menghitung jumlah orang yang ada di dalam kelas?"
+  },
+  "bp-n5-054": {
+    "title": "Rencana Tsumori",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan rencana 'berencana pergi ke Jepang tahun depan'?"
+  },
+  "bp-n5-055": {
+    "title": "Partikel Ga (Tetapi)",
+    "category": "Partikel",
+    "prompt": "Bagaimana menggabungkan dua kalimat yang saling berlawanan maknanya?"
+  },
+  "bp-n5-056": {
+    "title": "Alasan (Kara)",
+    "category": "Partikel",
+    "prompt": "Bagaimana menyatakan alasan 'karena tidak ada waktu' di akhir klausa?"
+  },
+  "bp-n5-057": {
+    "title": "Mencoba (Te Miru)",
+    "category": "Kata Bantu",
+    "prompt": "Bagaimana menyatakan 'saya coba makan kue ini'?"
+  },
+  "bp-n5-058": {
+    "title": "Respon Sou Desu ka",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana merespons informasi baru yang baru saja didengar dengan sopan?"
+  },
+  "bp-n5-059": {
+    "title": "Partikel Wa (Topik)",
+    "category": "Partikel",
+    "prompt": "Apa fungsi partikel は dalam kalimat 'わたしは 田中です'?"
+  },
+  "bp-n5-060": {
+    "title": "Tanya Pilihan Desu ka... Ka",
+    "category": "Tata Bahasa Dasar",
+    "prompt": "Bagaimana menanyakan dua kemungkinan sekaligus seperti 'hari ini atau besok?'"
+  }
+}

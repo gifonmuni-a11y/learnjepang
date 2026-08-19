@@ -1,0 +1,112 @@
+{
+  "pt-001": {
+    "title": "Partikel は (penanda topik)",
+    "category": "Partikel",
+    "prompt": "Bagaimana cara menandai topik utama dari sebuah kalimat dalam bahasa Jepang?"
+  },
+  "pt-002": {
+    "title": "Partikel が (penanda subjek / penekanan)",
+    "category": "Partikel",
+    "prompt": "Dalam kalimat tanya dengan kata tanya seperti 誰 atau 何, partikel apa yang menandai subjek yang ditanyakan?"
+  },
+  "pt-003": {
+    "title": "Partikel を (objek langsung)",
+    "category": "Partikel",
+    "prompt": "Bagaimana cara menandai objek langsung yang dikenai aksi oleh kata kerja transitif?"
+  },
+  "pt-004": {
+    "title": "Partikel に (tujuan, waktu, tempat, penerima)",
+    "category": "Partikel",
+    "prompt": "Partikel apa yang dipakai untuk menunjukkan tujuan gerakan, waktu terjadinya aksi, atau penerima suatu benda?"
+  },
+  "pt-005": {
+    "title": "Partikel へ (arah tujuan)",
+    "category": "Partikel",
+    "prompt": "Jika Anda ingin menyatakan 'pergi ke arah Jepang', partikel apa yang menandai arah tujuan tersebut?"
+  },
+  "pt-006": {
+    "title": "Partikel で (tempat aksi, alat/cara)",
+    "category": "Partikel",
+    "prompt": "Bagaimana cara menunjukkan tempat terjadinya aksi atau alat/cara yang digunakan untuk melakukan sesuatu?"
+  },
+  "pt-007": {
+    "title": "Partikel と (bersama / daftar lengkap)",
+    "category": "Partikel",
+    "prompt": "Partikel apa yang digunakan untuk menyatakan 'bersama dengan' seseorang atau menghubungkan daftar yang lengkap?"
+  },
+  "pt-008": {
+    "title": "Partikel も ('juga')",
+    "category": "Partikel",
+    "prompt": "Bagaimana cara menambahkan makna 'juga' ke suatu topik atau subjek yang sudah disebutkan sebelumnya?"
+  },
+  "pt-009": {
+    "title": "Partikel や (daftar sebagian)",
+    "category": "Partikel",
+    "prompt": "Partikel apa yang menghubungkan daftar yang tidak lengkap, sehingga tersirat masih ada item lain?"
+  },
+  "pt-010": {
+    "title": "Partikel の (kepemilikan / keterangan)",
+    "category": "Partikel",
+    "prompt": "Bagaimana cara menyatakan kepemilikan atau hubungan antara dua kata benda, misalnya 'mobil Jepang'?"
+  },
+  "pt-011": {
+    "title": "Partikel か (tanya di akhir kalimat)",
+    "category": "Partikel",
+    "prompt": "Apa yang ditambahkan di akhir kalimat agar menjadi kalimat tanya yang bersifat yes/no?"
+  },
+  "pt-012": {
+    "title": "Partikel ね (mencari persetujuan)",
+    "category": "Partikel",
+    "prompt": "Partikel akhir apa yang dipakai untuk mencari persetujuan lawan bicara, mirip dengan 'ya kan?' dalam bahasa Indonesia?"
+  },
+  "pt-013": {
+    "title": "Partikel よ (informasi baru / penekanan)",
+    "category": "Partikel",
+    "prompt": "Bagaimana cara memberi tahu lawan bicara informasi yang baru baginya dengan nuansa penegasan 'lho'?"
+  },
+  "pt-014": {
+    "title": "Partikel から (titik awal / sebab)",
+    "category": "Partikel",
+    "prompt": "Partikel apa yang menunjukkan titik awal waktu atau tempat, dan juga dapat berarti 'karena' di akhir klausa?"
+  },
+  "pt-015": {
+    "title": "Partikel まで (batas akhir 'sampai')",
+    "category": "Partikel",
+    "prompt": "Bagaimana cara menyatakan batas akhir suatu waktu atau tempat, misalnya 'menunggu sampai jam 5'?"
+  },
+  "pt-016": {
+    "title": "Partikel だけ ('hanya')",
+    "category": "Partikel",
+    "prompt": "Partikel apa yang menyatakan pembatasan 'hanya' pada kalimat positif, misalnya 'hanya anak-anak yang masuk'?"
+  },
+  "pt-017": {
+    "title": "Partikel しか (…しか〜ない)",
+    "category": "Partikel",
+    "prompt": "Bagaimana cara mengungkapkan 'hanya' dengan nuansa negatif, misalnya 'hanya ada 10.000 yen'?"
+  },
+  "pt-018": {
+    "title": "Partikel より (perbandingan 'daripada')",
+    "category": "Partikel",
+    "prompt": "Partikel apa yang dipakai untuk membandingkan dua hal, seperti menyatakan 'kotak lebih ringan daripada tas'?"
+  },
+  "pt-019": {
+    "title": "Partikel など ('dan sebagainya')",
+    "category": "Partikel",
+    "prompt": "Bagaimana cara melengkapi daftar yang disebut dengan partikel や agar bermakna 'dan sebagainya'?"
+  },
+  "pt-020": {
+    "title": "Partikel でも (tetapi / bahkan)",
+    "category": "Partikel",
+    "prompt": "Kata apa yang dipakai di awal kalimat untuk menyatakan pertentangan 'tetapi' terhadap kalimat sebelumnya?"
+  },
+  "pt-021": {
+    "title": "Partikel くらい/ぐらい (perkiraan 'sekitar')",
+    "category": "Partikel",
+    "prompt": "Bagaimana cara menyatakan perkiraan jumlah atau waktu yang tidak pasti, misalnya 'sekitar 10 menit'?"
+  },
+  "pt-022": {
+    "title": "Partikel が (penghubung 'tetapi')",
+    "category": "Partikel",
+    "prompt": "Bagaimana cara menggabungkan dua klausa yang bertentangan dalam satu kalimat, misalnya 'sulit, tetapi menyenangkan'?"
+  }
+}
