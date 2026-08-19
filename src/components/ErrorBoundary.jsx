@@ -1,4 +1,6 @@
 // Error Boundary untuk menangkap runtime error di seluruh aplikasi
+import React from 'react'
+
 class ErrorBoundary extends React.Component {
   constructor(props) {
     super(props)
