@@ -22,18 +22,27 @@ export default function HiraganaKatakana() {
   }, [])
 
   const entries = type === 'hiragana' ? hiragana : katakana
-  const filtered = entries.filter(
+  const isPartikel = (e) => {
+  const p = ['は', 'が', 'を', 'に', 'へ', 'で', 'と', 'も', 'や', 'の', 'か', 'ね', 'よ', 'から', 'まで', 'だけ', 'しか', 'より']
+  return p.includes(e.kanji)
+}
+
+const filtered = entries.filter(
     (e) =>
       (e.kanji + e.romaji + e.meaning + (e.mnemonicNote || '')).toLowerCase().includes(search.toLowerCase()) &&
       (filter === 'base'
-        ? !/[が-ん]/.test(e.kanji) && !/[ぱ-ん]/.test(e.kanji)
+        ? !/[が-ん]/.test(e.kanji) && !/[ぱ-ん]/.test(e.kanji) && !isPartikel(e)
         : filter === 'dakuten'
         ? /[が-ん]/.test(e.kanji)
         : filter === 'handakuten'
         ? /[ぱ-ん]/.test(e.kanji)
         : filter === 'youon'
         ? /[アイウエオガギグゲゴ]/.test(e.kanji) || /[アアイウエオガギグゲゴ]/.test(e.kanji)
-        : /[パピプペポ]/.test(e.kanji) || /[パピプペポ]/.test(e.kanji))
+        : filter === 'gairaigo'
+        ? /[パピプペポ]/.test(e.kanji) || /[パピプペポ]/.test(e.kanji)
+        : filter === 'partikel'
+        ? isPartikel(e)
+        : true)
   )
 
   const handleSearch = (e) => setSearch(e.target.value)
@@ -80,6 +89,7 @@ export default function HiraganaKatakana() {
               <option value="handakuten">Handakuten</option>
               <option value="youon">Youon</option>
               <option value="gairaigo">Gairaigo</option>
+              <option value="partikel">Partikel</option>
             </select>
           </div>
         </div>

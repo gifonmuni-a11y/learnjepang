@@ -2,7 +2,6 @@
 // Gunakan data JSON dari modul masing-masing. Set cardType untuk SRS sync.
 import { useEffect } from 'react'
 import Flashcard from '../components/Flashcard'
-import { useSWRConfig } from 'react-query'
 
 // Data contoh untuk hafalan kana (pakai id dari JSON)
 const kanaCards = {
@@ -22,16 +21,14 @@ const katakanaCards = {
 }
 
 const FlashcardPage = () => {
-  const { mutateAsync } = useSWRConfig()
   const cards = kanaCards // bisa ditukar berdasarkan route params
 
   return (
     <Flashcard
       cards={cards}
       onRate={(id, rating) => {
-        ;(async () => {
-          await mutateAsync(['srs', id], { easeFactor: rating === 3 ? 2.5 : 2.3 })
-        })()
+        // SRS state sudah disimpan oleh komponen Flashcard ke Supabase/localStorage
+        // Tidak perlu mutateAsync lagi di sini
       }}
       showIllustration={true}
       canvasMode={false}

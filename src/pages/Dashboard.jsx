@@ -43,7 +43,32 @@ const modules = [
 ]
 
 export default function Dashboard() {
-  const { user } = useAuth()
+  const { user, loading, error } = useAuth()
+
+  if (loading) {
+    return (
+      <div className="min-h-screen flex items-center justify-center">
+        <div className="genkoyoshi-panel glass rounded-2xl p-8 text-center">
+          <div className="animate-spin rounded-full h-12 w-12 border-b-2 border-washi-400 mb-4"></div>
+          <p className="text-washi-dim">Sedang memuat...</p>
+        </div>
+      </div>
+    )
+  }
+
+  if (error) {
+    return (
+      <div className="min-h-screen flex items-center justify-center">
+        <div className="genkoyoshi-panel glass rounded-2xl p-8 text-center text-aka-500">
+          <h2 className="font-bold mb-2">Error Auth</h2>
+          <p>{error}</p>
+          <button onClick={() => window.location.reload()} className="mt-4 bg-washi-400 text-sumi-900 px-4 py-2 rounded-xl">
+            Coba Lagi
+          </button>
+        </div>
+      </div>
+    )
+  }
 
   return (
     <div className="space-y-6 animate-fade-up">

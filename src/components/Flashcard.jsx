@@ -39,12 +39,12 @@ export default function Flashcard({
   useEffect(() => {
     ;(async () => {
       const cardType = cards._cardType || 'unknown'
-      const stored = await loadSrsStates(user?.?.id || null, cardType)
+      const stored = await loadSrsStates(user && user.id ? user.id : null, cardType)
       const st = stored[card.id] || null
       setSrsState(st)
       setIsDue(st ? !st.nextReviewDate || st.nextReviewDate <= new Date().toISOString().slice(0, 10) : true)
     })()
-  }, [user?.?.id, index, cards._cardType])
+  }, [user && user.id, index, cards._cardType])
 
   // Compute progress: berapa kartu yang sudah direview total di session ini
   const totalCards = cards.length
@@ -209,7 +209,7 @@ export default function Flashcard({
                 }`}
                 aria-label={`Rating: ${r.label}`}
               >
-                <span className={`tone-${r.tone}}` />
+                <span className={`tone-${r.tone}`} aria-label={`Rating tone ${r.label}`}>&#8203;</span>
                 <span>{r.label}</span>
               </button>
             ))}

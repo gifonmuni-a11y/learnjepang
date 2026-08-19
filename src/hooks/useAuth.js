@@ -4,10 +4,14 @@ import { supabase } from '../lib/supabase'
 export function useAuth() {
   const [session, setSession] = useState(null)
   const [loading, setLoading] = useState(true)
+  const [error, setError] = useState(null)
 
   useEffect(() => {
     supabase.auth.getSession().then(({ data }) => {
       setSession(data.session)
+      setLoading(false)
+    }).catch((err) => {
+      setError(err.message)
       setLoading(false)
     })
 
@@ -31,5 +35,5 @@ export function useAuth() {
     await supabase.auth.signOut()
   }, [])
 
-  return { session, user: session?.user ?? null, loading, signInWithMagicLink, signOut }
+  return { session, user: session?.user ?? null, loading, error, signInWithMagicLink, signOut }
 }

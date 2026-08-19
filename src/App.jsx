@@ -8,6 +8,8 @@ import BunpouKotoba from './pages/BunpouKotoba'
 import Kanji from './pages/Kanji'
 import Hafalan from './pages/Hafalan'
 import SimulasiJlpt from './pages/SimulasiJlpt'
+import FlashcardPage from './components/FlashcardPage'
+import QuizPage from './components/QuizPage'
 
 export default function App() {
   return (
@@ -18,16 +20,16 @@ export default function App() {
           <Route path="/profil" element={<Profil />} />
 
           <Route path="/hiragana-katakana" element={<HiraganaKatakana />} />
-          <Route path="/hiragana-katakana/card" element={<ComingSoon title="Flashcard Kana" />} />
-          <Route path="/hiragana-katakana/kuis" element={<ComingSoon title="Kuis Kana" />} />
+          <Route path="/hiragana-katakana/card" element={<FlashcardPage />} />
+          <Route path="/hiragana-katakana/kuis" element={<QuizPage />}/>
 
           <Route path="/bunpou-kotoba" element={<BunpouKotoba />} />
-          <Route path="/bunpou-kotoba/card" element={<ComingSoon title="Flashcard Bunpou & Kotoba" />} />
-          <Route path="/bunpou-kotoba/kuis" element={<ComingSoon title="Kuis Bunpou & Kotoba" />} />
+          <Route path="/bunpou-kotoba/card" element={<FlashcardPage />} />
+          <Route path="/bunpou-kotoba/kuis" element={<QuizPage />}/>
 
           <Route path="/kanji" element={<Kanji />} />
-          <Route path="/kanji/card" element={<ComingSoon title="Flashcard Kanji" />} />
-          <Route path="/kanji/kuis" element={<ComingSoon title="Kuis Kanji" />} />
+          <Route path="/kanji/card" element={<FlashcardPage />} />
+          <Route path="/kanji/kuis" element={<QuizPage />}/>
 
           <Route path="/hafalan" element={<Hafalan />} />
           <Route path="/hafalan/buat" element={<HafalanBuat />} />
