@@ -2,7 +2,7 @@
 import { useState, useNavigate } from 'react'
 import { useAuth } from '../hooks/useAuth'
 import { parseImport } from '../lib/hafalan'
-import { Button } from '../components/ui/Button'
+import Button from '../components/ui/Button'
 
 export default function HafalanBuat() {
   const { user } = useAuth()

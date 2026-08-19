@@ -3,7 +3,7 @@ import { useState, useEffect, useParams } from 'react'
 import { useAuth } from '../hooks/useAuth'
 import { loadDeckCards } from '../lib/hafalan'
 import Flashcard from '../components/Flashcard'
-import { Button } from '../components/ui/Button'
+import Button from '../components/ui/Button'
 import { useNavigate } from 'react-router-dom'
 
 export default function HafalanReview() {
