@@ -1,0 +1,1251 @@
+{
+  "悪": [
+    {"kanji": "悪口", "furigana": "わるぐち", "arti": "gosip jahat"},
+    {"kanji": "悪人", "furigana": "あくにん", "arti": "orang jahat"},
+    {"kanji": "最悪", "furigana": "さいあく", "arti": "terburuk"},
+    {"kanji": "悪化", "furigana": "あっか", "arti": "memburuk"},
+    {"kanji": "悪魔", "furigana": "あくま", "arti": "iblis"}
+  ],
+  "以": [
+    {"kanji": "以内", "furigana": "いない", "arti": "dalam batas"},
+    {"kanji": "以下", "furigana": "いか", "arti": "di bawah, kurang dari"},
+    {"kanji": "以前", "furigana": "いぜん", "arti": "sebelumnya"},
+    {"kanji": "以後", "furigana": "いご", "arti": "setelah ini"},
+    {"kanji": "以外", "furigana": "いがい", "arti": "selain"}
+  ],
+  "医": [
+    {"kanji": "医学", "furigana": "いがく", "arti": "ilmu kedokteran"},
+    {"kanji": "医師", "furigana": "いし", "arti": "dokter"},
+    {"kanji": "医療", "furigana": "いりょう", "arti": "perawatan medis"},
+    {"kanji": "歯医者", "furigana": "はいしゃ", "arti": "dokter gigi"},
+    {"kanji": "名医", "furigana": "めいい", "arti": "dokter terkenal"}
+  ],
+  "意": [
+    {"kanji": "意見", "furigana": "いけん", "arti": "pendapat"},
+    {"kanji": "注意", "furigana": "ちゅうい", "arti": "perhatian, hati-hati"},
+    {"kanji": "用意", "furigana": "ようい", "arti": "persiapan"},
+    {"kanji": "意識", "furigana": "いしき", "arti": "kesadaran"},
+    {"kanji": "同意", "furigana": "どうい", "arti": "persetujuan"}
+  ],
+  "引": [
+    {"kanji": "引っ越す", "furigana": "ひっこす", "arti": "pindah rumah"},
+    {"kanji": "引き出し", "furigana": "ひきだし", "arti": "laci"},
+    {"kanji": "引っ張る", "furigana": "ひっぱる", "arti": "menarik kuat"},
+    {"kanji": "引き受ける", "furigana": "ひきうける", "arti": "menerima, menanggung"},
+    {"kanji": "引力", "furigana": "いんりょく", "arti": "gravitasi"}
+  ],
+  "員": [
+    {"kanji": "店員", "furigana": "てんいん", "arti": "karyawan toko"},
+    {"kanji": "全員", "furigana": "ぜんいん", "arti": "semua anggota"},
+    {"kanji": "会員", "furigana": "かいいん", "arti": "anggota"},
+    {"kanji": "職員", "furigana": "しょくいん", "arti": "staf, pegawai"},
+    {"kanji": "議員", "furigana": "ぎいん", "arti": "anggota parlemen"}
+  ],
+  "院": [
+    {"kanji": "大学院", "furigana": "だいがくいん", "arti": "pascasarjana"},
+    {"kanji": "入院", "furigana": "にゅういん", "arti": "dirawat di rumah sakit"},
+    {"kanji": "退院", "furigana": "たいいん", "arti": "keluar dari rumah sakit"},
+    {"kanji": "医院", "furigana": "いいん", "arti": "klinik"},
+    {"kanji": "寺院", "furigana": "じいん", "arti": "kuil Buddha"}
+  ],
+  "右": [
+    {"kanji": "右側", "furigana": "みぎがわ", "arti": "sisi kanan"},
+    {"kanji": "右手", "furigana": "みぎて", "arti": "tangan kanan"},
+    {"kanji": "左右", "furigana": "さゆう", "arti": "kiri kanan"},
+    {"kanji": "右足", "furigana": "みぎあし", "arti": "kaki kanan"},
+    {"kanji": "右折", "furigana": "うせつ", "arti": "belok kanan"}
+  ],
+  "運": [
+    {"kanji": "運ぶ", "furigana": "はこぶ", "arti": "membawa, mengangkut"},
+    {"kanji": "運動", "furigana": "うんどう", "arti": "olahraga"},
+    {"kanji": "運命", "furigana": "うんめい", "arti": "takdir"},
+    {"kanji": "運賃", "furigana": "うんちん", "arti": "ongkos"},
+    {"kanji": "運送", "furigana": "うんそう", "arti": "pengiriman"}
+  ],
+  "英": [
+    {"kanji": "英会話", "furigana": "えいかいわ", "arti": "percakapan bahasa Inggris"},
+    {"kanji": "英国", "furigana": "えいこく", "arti": "Inggris"},
+    {"kanji": "英雄", "furigana": "えいゆう", "arti": "pahlawan"},
+    {"kanji": "英文", "furigana": "えいぶん", "arti": "tulisan bahasa Inggris"},
+    {"kanji": "英和辞典", "furigana": "えいわじてん", "arti": "kamus Inggris-Jepang"}
+  ],
+  "映": [
+    {"kanji": "映る", "furigana": "うつる", "arti": "terpantul, terlihat"},
+    {"kanji": "映す", "furigana": "うつす", "arti": "memantulkan, menampilkan"},
+    {"kanji": "映画館", "furigana": "えいがかん", "arti": "bioskop"},
+    {"kanji": "上映", "furigana": "じょうえい", "arti": "penayangan film"},
+    {"kanji": "映像", "furigana": "えいぞう", "arti": "gambar, video"}
+  ],
+  "遠": [
+    {"kanji": "遠く", "furigana": "とおく", "arti": "tempat jauh"},
+    {"kanji": "遠慮", "furigana": "えんりょ", "arti": "sungkan, malu-malu"},
+    {"kanji": "遠足", "furigana": "えんそく", "arti": "piknik sekolah"},
+    {"kanji": "永遠", "furigana": "えいえん", "arti": "keabadian"},
+    {"kanji": "遠回り", "furigana": "とおまわり", "arti": "memutar, jalan jauh"}
+  ],
+  "屋": [
+    {"kanji": "本屋", "furigana": "ほんや", "arti": "toko buku"},
+    {"kanji": "肉屋", "furigana": "にくや", "arti": "tukang daging"},
+    {"kanji": "花屋", "furigana": "はなや", "arti": "toko bunga"},
+    {"kanji": "八百屋", "furigana": "やおや", "arti": "toko sayur"},
+    {"kanji": "床屋", "furigana": "とこや", "arti": "tukang cukur"}
+  ],
+  "音": [
+    {"kanji": "音", "furigana": "おと", "arti": "suara"},
+    {"kanji": "発音", "furigana": "はつおん", "arti": "pelafalan"},
+    {"kanji": "騒音", "furigana": "そうおん", "arti": "kebisingan"},
+    {"kanji": "足音", "furigana": "あしおと", "arti": "suara langkah kaki"},
+    {"kanji": "雨音", "furigana": "あまおと", "arti": "suara hujan"}
+  ],
+  "下": [
+    {"kanji": "下着", "furigana": "したぎ", "arti": "pakaian dalam"},
+    {"kanji": "下りる", "furigana": "おりる", "arti": "turun"},
+    {"kanji": "下手", "furigana": "へた", "arti": "tidak pandai"},
+    {"kanji": "地下", "furigana": "ちか", "arti": "bawah tanah"},
+    {"kanji": "下さい", "furigana": "ください", "arti": "tolong (beri)"}
+  ],
+  "化": [
+    {"kanji": "化粧", "furigana": "けしょう", "arti": "riasan wajah"},
+    {"kanji": "変化", "furigana": "へんか", "arti": "perubahan"},
+    {"kanji": "化学", "furigana": "かがく", "arti": "kimia"},
+    {"kanji": "化け物", "furigana": "ばけもの", "arti": "monster"},
+    {"kanji": "進化", "furigana": "しんか", "arti": "evolusi"}
+  ],
+  "夏": [
+    {"kanji": "夏休み", "furigana": "なつやすみ", "arti": "libur musim panas"},
+    {"kanji": "夏祭り", "furigana": "なつまつり", "arti": "festival musim panas"},
+    {"kanji": "真夏", "furigana": "まなつ", "arti": "puncak musim panas"},
+    {"kanji": "夏服", "furigana": "なつふく", "arti": "baju musim panas"},
+    {"kanji": "夏風邪", "furigana": "なつかぜ", "arti": "flu musim panas"}
+  ],
+  "家": [
+    {"kanji": "家族", "furigana": "かぞく", "arti": "keluarga"},
+    {"kanji": "家賃", "furigana": "やちん", "arti": "sewa rumah"},
+    {"kanji": "家事", "furigana": "かじ", "arti": "pekerjaan rumah tangga"},
+    {"kanji": "大家", "furigana": "おおや", "arti": "pemilik rumah sewa"},
+    {"kanji": "国家", "furigana": "こっか", "arti": "negara"}
+  ],
+  "歌": [
+    {"kanji": "歌う", "furigana": "うたう", "arti": "bernyanyi"},
+    {"kanji": "歌手", "furigana": "かしゅ", "arti": "penyanyi"},
+    {"kanji": "歌詞", "furigana": "かし", "arti": "lirik lagu"},
+    {"kanji": "歌声", "furigana": "うたごえ", "arti": "suara nyanyian"},
+    {"kanji": "国歌", "furigana": "こっか", "arti": "lagu kebangsaan"}
+  ],
+  "画": [
+    {"kanji": "漫画", "furigana": "まんが", "arti": "komik"},
+    {"kanji": "画面", "furigana": "がめん", "arti": "layar"},
+    {"kanji": "画家", "furigana": "がか", "arti": "pelukis"},
+    {"kanji": "絵画", "furigana": "かいが", "arti": "lukisan"},
+    {"kanji": "画用紙", "furigana": "がようし", "arti": "kertas gambar"}
+  ],
+  "回": [
+    {"kanji": "回す", "furigana": "まわす", "arti": "memutar, mengirimkan"},
+    {"kanji": "一回", "furigana": "いっかい", "arti": "satu kali"},
+    {"kanji": "回答", "furigana": "かいとう", "arti": "jawaban"},
+    {"kanji": "回数", "furigana": "かいすう", "arti": "jumlah kali"},
+    {"kanji": "回転", "furigana": "かいてん", "arti": "putaran"}
+  ],
+  "界": [
+    {"kanji": "業界", "furigana": "ぎょうかい", "arti": "industri, dunia usaha"},
+    {"kanji": "自然界", "furigana": "しぜんかい", "arti": "alam semesta"},
+    {"kanji": "視界", "furigana": "しかい", "arti": "pandangan, jangkauan mata"},
+    {"kanji": "境界", "furigana": "きょうかい", "arti": "batas"},
+    {"kanji": "芸能界", "furigana": "げいのうかい", "arti": "dunia hiburan"}
+  ],
+  "階": [
+    {"kanji": "一階", "furigana": "いっかい", "arti": "lantai satu"},
+    {"kanji": "二階", "furigana": "にかい", "arti": "lantai dua"},
+    {"kanji": "三階", "furigana": "さんかい", "arti": "lantai tiga"},
+    {"kanji": "階級", "furigana": "かいきゅう", "arti": "kelas, golongan"},
+    {"kanji": "地階", "furigana": "ちかい", "arti": "lantai basement"}
+  ],
+  "開": [
+    {"kanji": "開ける", "furigana": "あける", "arti": "membuka"},
+    {"kanji": "開店", "furigana": "かいてん", "arti": "buka toko"},
+    {"kanji": "開始", "furigana": "かいし", "arti": "mulai"},
+    {"kanji": "公開", "furigana": "こうかい", "arti": "dipublikasikan"},
+    {"kanji": "開発", "furigana": "かいはつ", "arti": "pengembangan"}
+  ],
+  "外": [
+    {"kanji": "外国", "furigana": "がいこく", "arti": "negara asing"},
+    {"kanji": "外食", "furigana": "がいしょく", "arti": "makan di luar"},
+    {"kanji": "外側", "furigana": "そとがわ", "arti": "sisi luar"},
+    {"kanji": "外出", "furigana": "がいしゅつ", "arti": "pergi keluar"},
+    {"kanji": "外国人", "furigana": "がいこくじん", "arti": "orang asing"}
+  ],
+  "寒": [
+    {"kanji": "寒さ", "furigana": "さむさ", "arti": "dinginnya"},
+    {"kanji": "寒気", "furigana": "さむけ", "arti": "menggigil"},
+    {"kanji": "寒暖計", "furigana": "かんだんけい", "arti": "termometer"},
+    {"kanji": "寒天", "furigana": "かんてん", "arti": "agar-agar"},
+    {"kanji": "寒風", "furigana": "かんぷう", "arti": "angin dingin"}
+  ],
+  "間": [
+    {"kanji": "間", "furigana": "あいだ", "arti": "jarak, di antara"},
+    {"kanji": "間違い", "furigana": "まちがい", "arti": "kesalahan"},
+    {"kanji": "人間", "furigana": "にんげん", "arti": "manusia"},
+    {"kanji": "世間", "furigana": "せけん", "arti": "dunia, masyarakat"},
+    {"kanji": "期間", "furigana": "きかん", "arti": "jangka waktu"}
+  ],
+  "漢": [
+    {"kanji": "漢方", "furigana": "かんぽう", "arti": "obat herbal Jepang"},
+    {"kanji": "漢語", "furigana": "かんご", "arti": "kata serapan Cina"},
+    {"kanji": "漢文", "furigana": "かんぶん", "arti": "tulisan klasik Cina"},
+    {"kanji": "漢民族", "furigana": "かんみんぞく", "arti": "bangsa Han"},
+    {"kanji": "漢和辞典", "furigana": "かんわじてん", "arti": "kamus kanji"}
+  ],
+  "館": [
+    {"kanji": "博物館", "furigana": "はくぶつかん", "arti": "museum"},
+    {"kanji": "大使館", "furigana": "たいしかん", "arti": "kedutaan besar"},
+    {"kanji": "旅館", "furigana": "りょかん", "arti": "penginapan tradisional"},
+    {"kanji": "体育館", "furigana": "たいいくかん", "arti": "gedung olahraga"},
+    {"kanji": "水族館", "furigana": "すいぞくかん", "arti": "akuarium"}
+  ],
+  "感": [
+    {"kanji": "感じ", "furigana": "かんじ", "arti": "perasaan"},
+    {"kanji": "感想", "furigana": "かんそう", "arti": "kesan"},
+    {"kanji": "感動", "furigana": "かんどう", "arti": "terharu"},
+    {"kanji": "感謝", "furigana": "かんしゃ", "arti": "terima kasih"},
+    {"kanji": "感心", "furigana": "かんしん", "arti": "kagum"}
+  ],
+  "顔": [
+    {"kanji": "笑顔", "furigana": "えがお", "arti": "senyuman"},
+    {"kanji": "顔色", "furigana": "かおいろ", "arti": "warna wajah, raut"},
+    {"kanji": "洗顔", "furigana": "せんがん", "arti": "cuci muka"},
+    {"kanji": "顔つき", "furigana": "かおつき", "arti": "raut wajah"},
+    {"kanji": "顔写真", "furigana": "かおじゃしん", "arti": "foto wajah"}
+  ],
+  "起": [
+    {"kanji": "起こす", "furigana": "おこす", "arti": "membangunkan"},
+    {"kanji": "起こる", "furigana": "おこる", "arti": "terjadi"},
+    {"kanji": "起床", "furigana": "きしょう", "arti": "bangun tidur"},
+    {"kanji": "起業", "furigana": "きぎょう", "arti": "mendirikan usaha"},
+    {"kanji": "起き上がる", "furigana": "おきあがる", "arti": "bangkit berdiri"}
+  ],
+  "期": [
+    {"kanji": "期間", "furigana": "きかん", "arti": "jangka waktu"},
+    {"kanji": "時期", "furigana": "じき", "arti": "musim, saat"},
+    {"kanji": "期限", "furigana": "きげん", "arti": "batas waktu"},
+    {"kanji": "期待", "furigana": "きたい", "arti": "harapan"},
+    {"kanji": "定期", "furigana": "ていき", "arti": "berkala"}
+  ],
+  "究": [
+    {"kanji": "究極", "furigana": "きゅうきょく", "arti": "puncak, tertinggi"},
+    {"kanji": "探究", "furigana": "たんきゅう", "arti": "penyelidikan"},
+    {"kanji": "究明", "furigana": "きゅうめい", "arti": "menyelidiki kebenaran"},
+    {"kanji": "究める", "furigana": "きわめる", "arti": "mendalami"}
+  ],
+  "急": [
+    {"kanji": "急に", "furigana": "きゅうに", "arti": "tiba-tiba"},
+    {"kanji": "急行", "furigana": "きゅうこう", "arti": "kereta ekspres"},
+    {"kanji": "緊急", "furigana": "きんきゅう", "arti": "darurat"},
+    {"kanji": "救急", "furigana": "きゅうきゅう", "arti": "pertolongan darurat"},
+    {"kanji": "急病", "furigana": "きゅうびょう", "arti": "sakit mendadak"}
+  ],
+  "級": [
+    {"kanji": "上級", "furigana": "じょうきゅう", "arti": "tingkat lanjutan"},
+    {"kanji": "中級", "furigana": "ちゅうきゅう", "arti": "tingkat menengah"},
+    {"kanji": "初級", "furigana": "しょきゅう", "arti": "tingkat pemula"},
+    {"kanji": "一級", "furigana": "いっきゅう", "arti": "tingkat satu"},
+    {"kanji": "級友", "furigana": "きゅうゆう", "arti": "teman sekelas"}
+  ],
+  "牛": [
+    {"kanji": "牛", "furigana": "うし", "arti": "sapi"},
+    {"kanji": "牛肉", "furigana": "ぎゅうにく", "arti": "daging sapi"},
+    {"kanji": "牛丼", "furigana": "ぎゅうどん", "arti": "nasi daging sapi"},
+    {"kanji": "牛小屋", "furigana": "うしごや", "arti": "kandang sapi"},
+    {"kanji": "子牛", "furigana": "こうし", "arti": "anak sapi"}
+  ],
+  "去": [
+    {"kanji": "去る", "furigana": "さる", "arti": "pergi, meninggalkan"},
+    {"kanji": "過去", "furigana": "かこ", "arti": "masa lalu"},
+    {"kanji": "消去", "furigana": "しょうきょ", "arti": "penghapusan"},
+    {"kanji": "除去", "furigana": "じょきょ", "arti": "penyingkiran"}
+  ],
+  "魚": [
+    {"kanji": "魚屋", "furigana": "さかなや", "arti": "penjual ikan"},
+    {"kanji": "金魚", "furigana": "きんぎょ", "arti": "ikan mas"},
+    {"kanji": "魚介類", "furigana": "ぎょかいるい", "arti": "makanan laut"},
+    {"kanji": "焼き魚", "furigana": "やきざかな", "arti": "ikan bakar"},
+    {"kanji": "生魚", "furigana": "なまざかな", "arti": "ikan mentah"}
+  ],
+  "曲": [
+    {"kanji": "曲", "furigana": "きょく", "arti": "lagu"},
+    {"kanji": "曲げる", "furigana": "まげる", "arti": "membengkokkan"},
+    {"kanji": "作曲", "furigana": "さっきょく", "arti": "mencipta lagu"},
+    {"kanji": "名曲", "furigana": "めいきょく", "arti": "lagu terkenal"},
+    {"kanji": "歌曲", "furigana": "かきょく", "arti": "lagu, kidung"}
+  ],
+  "京": [
+    {"kanji": "東京", "furigana": "とうきょう", "arti": "Tokyo"},
+    {"kanji": "上京", "furigana": "じょうきょう", "arti": "pindah ke Tokyo"},
+    {"kanji": "北京", "furigana": "ペキン", "arti": "Beijing"},
+    {"kanji": "京料理", "furigana": "きょうりょうり", "arti": "masakan khas Kyoto"}
+  ],
+  "供": [
+    {"kanji": "子供", "furigana": "こども", "arti": "anak-anak"},
+    {"kanji": "提供", "furigana": "ていきょう", "arti": "menyediakan, sponsor"},
+    {"kanji": "供給", "furigana": "きょうきゅう", "arti": "pasokan"},
+    {"kanji": "お供", "furigana": "おとも", "arti": "pengiring"}
+  ],
+  "強": [
+    {"kanji": "勉強", "furigana": "べんきょう", "arti": "belajar"},
+    {"kanji": "強化", "furigana": "きょうか", "arti": "penguatan"},
+    {"kanji": "強制", "furigana": "きょうせい", "arti": "paksaan"},
+    {"kanji": "力強い", "furigana": "ちからづよい", "arti": "kuat, meyakinkan"},
+    {"kanji": "強引", "furigana": "ごういん", "arti": "memaksa"}
+  ],
+  "教": [
+    {"kanji": "教室", "furigana": "きょうしつ", "arti": "ruang kelas"},
+    {"kanji": "教会", "furigana": "きょうかい", "arti": "gereja"},
+    {"kanji": "教師", "furigana": "きょうし", "arti": "guru"},
+    {"kanji": "教育", "furigana": "きょういく", "arti": "pendidikan"},
+    {"kanji": "教科書", "furigana": "きょうかしょ", "arti": "buku pelajaran"}
+  ],
+  "競": [
+    {"kanji": "競走", "furigana": "きょうそう", "arti": "lomba lari"},
+    {"kanji": "競技", "furigana": "きょうぎ", "arti": "pertandingan"},
+    {"kanji": "競馬", "furigana": "けいば", "arti": "balap kuda"},
+    {"kanji": "競う", "furigana": "きそう", "arti": "bertanding"},
+    {"kanji": "競泳", "furigana": "きょうえい", "arti": "renang perlombaan"}
+  ],
+  "業": [
+    {"kanji": "授業", "furigana": "じゅぎょう", "arti": "pelajaran"},
+    {"kanji": "卒業", "furigana": "そつぎょう", "arti": "lulus sekolah"},
+    {"kanji": "営業", "furigana": "えいぎょう", "arti": "penjualan, bisnis"},
+    {"kanji": "業者", "furigana": "ぎょうしゃ", "arti": "kontraktor, penjual"},
+    {"kanji": "業界", "furigana": "ぎょうかい", "arti": "industri"}
+  ],
+  "近": [
+    {"kanji": "近く", "furigana": "ちかく", "arti": "dekat"},
+    {"kanji": "近所", "furigana": "きんじょ", "arti": "lingkungan sekitar"},
+    {"kanji": "最近", "furigana": "さいきん", "arti": "akhir-akhir ini"},
+    {"kanji": "近代", "furigana": "きんだい", "arti": "zaman modern"},
+    {"kanji": "接近", "furigana": "せっきん", "arti": "mendekat"}
+  ],
+  "銀": [
+    {"kanji": "銀色", "furigana": "ぎんいろ", "arti": "warna perak"},
+    {"kanji": "銀", "furigana": "ぎん", "arti": "perak"},
+    {"kanji": "銀座", "furigana": "ぎんざ", "arti": "Ginza"},
+    {"kanji": "銀貨", "furigana": "ぎんか", "arti": "koin perak"},
+    {"kanji": "銀メダル", "furigana": "ぎんメダル", "arti": "medali perak"}
+  ],
+  "区": [
+    {"kanji": "区", "furigana": "く", "arti": "kecamatan, distrik"},
+    {"kanji": "地区", "furigana": "ちく", "arti": "kawasan"},
+    {"kanji": "区分", "furigana": "くぶん", "arti": "pembagian"},
+    {"kanji": "区別", "furigana": "くべつ", "arti": "perbedaan"},
+    {"kanji": "区域", "furigana": "くいき", "arti": "wilayah"}
+  ],
+  "苦": [
+    {"kanji": "苦い", "furigana": "にがい", "arti": "pahit"},
+    {"kanji": "苦労", "furigana": "くろう", "arti": "kesulitan, susah payah"},
+    {"kanji": "苦手", "furigana": "にがて", "arti": "tidak pandai, lemah"},
+    {"kanji": "苦しむ", "furigana": "くるしむ", "arti": "menderita"},
+    {"kanji": "苦情", "furigana": "くじょう", "arti": "keluhan"}
+  ],
+  "具": [
+    {"kanji": "具合", "furigana": "ぐあい", "arti": "keadaan, kondisi"},
+    {"kanji": "具体的", "furigana": "ぐたいてき", "arti": "spesifik, konkret"},
+    {"kanji": "家具", "furigana": "かぐ", "arti": "perabot rumah"},
+    {"kanji": "用具", "furigana": "ようぐ", "arti": "perkakas"},
+    {"kanji": "器具", "furigana": "きぐ", "arti": "alat"}
+  ],
+  "君": [
+    {"kanji": "君主", "furigana": "くんしゅ", "arti": "raja"},
+    {"kanji": "君子", "furigana": "くんし", "arti": "orang bijak"},
+    {"kanji": "君達", "furigana": "きみたち", "arti": "kalian"},
+    {"kanji": "君が代", "furigana": "きみがよ", "arti": "lagu kebangsaan Jepang"}
+  ],
+  "計": [
+    {"kanji": "会計", "furigana": "かいけい", "arti": "pembayaran, akuntansi"},
+    {"kanji": "計算", "furigana": "けいさん", "arti": "perhitungan"},
+    {"kanji": "時計", "furigana": "とけい", "arti": "jam"},
+    {"kanji": "合計", "furigana": "ごうけい", "arti": "total"},
+    {"kanji": "設計", "furigana": "せっけい", "arti": "desain, rancangan"}
+  ],
+  "軽": [
+    {"kanji": "手軽", "furigana": "てがる", "arti": "mudah, praktis"},
+    {"kanji": "気軽", "furigana": "きがる", "arti": "santai, tanpa beban"},
+    {"kanji": "軽食", "furigana": "けいしょく", "arti": "makanan ringan"},
+    {"kanji": "軽率", "furigana": "けいそつ", "arti": "sembrono"},
+    {"kanji": "軽自動車", "furigana": "けいじどうしゃ", "arti": "mobil kecil"}
+  ],
+  "犬": [
+    {"kanji": "子犬", "furigana": "こいぬ", "arti": "anak anjing"},
+    {"kanji": "犬小屋", "furigana": "いぬごや", "arti": "kandang anjing"},
+    {"kanji": "盲導犬", "furigana": "もうどうけん", "arti": "anjing pemandu"},
+    {"kanji": "愛犬", "furigana": "あいけん", "arti": "anjing peliharaan"},
+    {"kanji": "番犬", "furigana": "ばんけん", "arti": "anjing penjaga"}
+  ],
+  "建": [
+    {"kanji": "建物", "furigana": "たてもの", "arti": "bangunan"},
+    {"kanji": "建築", "furigana": "けんちく", "arti": "arsitektur"},
+    {"kanji": "建前", "furigana": "たてまえ", "arti": "sikap resmi, tatemae"},
+    {"kanji": "建設", "furigana": "けんせつ", "arti": "pembangunan"},
+    {"kanji": "建て替える", "furigana": "たてかえる", "arti": "membangun ulang"}
+  ],
+  "研": [
+    {"kanji": "研修", "furigana": "けんしゅう", "arti": "pelatihan"},
+    {"kanji": "研ぐ", "furigana": "とぐ", "arti": "mengasah, mencuci beras"},
+    {"kanji": "研磨", "furigana": "けんま", "arti": "penggosokan, pemolesan"}
+  ],
+  "県": [
+    {"kanji": "県庁", "furigana": "けんちょう", "arti": "kantor gubernur"},
+    {"kanji": "県内", "furigana": "けんない", "arti": "di dalam prefektur"},
+    {"kanji": "県民", "furigana": "けんみん", "arti": "penduduk prefektur"},
+    {"kanji": "県立", "furigana": "けんりつ", "arti": "milik prefektur"},
+    {"kanji": "都道府県", "furigana": "とどうふけん", "arti": "pembagian wilayah Jepang"}
+  ],
+  "験": [
+    {"kanji": "経験", "furigana": "けいけん", "arti": "pengalaman"},
+    {"kanji": "体験", "furigana": "たいけん", "arti": "pengalaman langsung"},
+    {"kanji": "実験", "furigana": "じっけん", "arti": "percobaan"},
+    {"kanji": "受験", "furigana": "じゅけん", "arti": "mengikuti ujian"},
+    {"kanji": "冒険", "furigana": "ぼうけん", "arti": "petualangan"}
+  ],
+  "戸": [
+    {"kanji": "戸棚", "furigana": "とだな", "arti": "lemari"},
+    {"kanji": "戸口", "furigana": "とぐち", "arti": "pintu masuk"},
+    {"kanji": "雨戸", "furigana": "あまど", "arti": "penutup jendela kayu"},
+    {"kanji": "戸締まり", "furigana": "とじまり", "arti": "mengunci pintu"}
+  ],
+  "午": [
+    {"kanji": "午前", "furigana": "ごぜん", "arti": "pagi (sebelum tengah hari)"},
+    {"kanji": "正午", "furigana": "しょうご", "arti": "tengah hari"},
+    {"kanji": "午前中", "furigana": "ごぜんちゅう", "arti": "pada pagi hari"}
+  ],
+  "後": [
+    {"kanji": "後", "furigana": "あと", "arti": "setelah, sisa"},
+    {"kanji": "後ろ", "furigana": "うしろ", "arti": "belakang"},
+    {"kanji": "最後", "furigana": "さいご", "arti": "terakhir"},
+    {"kanji": "以後", "furigana": "いご", "arti": "sejak itu, selanjutnya"},
+    {"kanji": "後で", "furigana": "あとで", "arti": "nanti"}
+  ],
+  "工": [
+    {"kanji": "工事", "furigana": "こうじ", "arti": "pekerjaan konstruksi"},
+    {"kanji": "工学", "furigana": "こうがく", "arti": "teknik"},
+    {"kanji": "工夫", "furigana": "くふう", "arti": "ide, akal"},
+    {"kanji": "工業", "furigana": "こうぎょう", "arti": "industri"},
+    {"kanji": "大工", "furigana": "だいく", "arti": "tukang kayu"}
+  ],
+  "光": [
+    {"kanji": "光る", "furigana": "ひかる", "arti": "bersinar"},
+    {"kanji": "日光", "furigana": "にっこう", "arti": "sinar matahari"},
+    {"kanji": "光線", "furigana": "こうせん", "arti": "berkas cahaya"},
+    {"kanji": "月光", "furigana": "げっこう", "arti": "cahaya bulan"},
+    {"kanji": "光景", "furigana": "こうけい", "arti": "pemandangan"}
+  ],
+  "好": [
+    {"kanji": "好む", "furigana": "このむ", "arti": "menyukai"},
+    {"kanji": "好意", "furigana": "こうい", "arti": "kebaikan hati"},
+    {"kanji": "好調", "furigana": "こうちょう", "arti": "dalam kondisi baik"},
+    {"kanji": "大好き", "furigana": "だいすき", "arti": "sangat suka"},
+    {"kanji": "好感", "furigana": "こうかん", "arti": "kesan baik"}
+  ],
+  "考": [
+    {"kanji": "考え", "furigana": "かんがえ", "arti": "pikiran"},
+    {"kanji": "参考", "furigana": "さんこう", "arti": "referensi"},
+    {"kanji": "考慮", "furigana": "こうりょ", "arti": "pertimbangan"},
+    {"kanji": "思考", "furigana": "しこう", "arti": "pemikiran"},
+    {"kanji": "考案", "furigana": "こうあん", "arti": "rancangan, gagasan"}
+  ],
+  "合": [
+    {"kanji": "場合", "furigana": "ばあい", "arti": "situasi, jika"},
+    {"kanji": "合計", "furigana": "ごうけい", "arti": "total"},
+    {"kanji": "合格", "furigana": "ごうかく", "arti": "lulus"},
+    {"kanji": "打ち合わせ", "furigana": "うちあわせ", "arti": "rapat, diskusi"},
+    {"kanji": "都合", "furigana": "つごう", "arti": "keadaan, jadwal"}
+  ],
+  "左": [
+    {"kanji": "左側", "furigana": "ひだりがわ", "arti": "sisi kiri"},
+    {"kanji": "左手", "furigana": "ひだりて", "arti": "tangan kiri"},
+    {"kanji": "左右", "furigana": "さゆう", "arti": "kiri kanan"},
+    {"kanji": "左折", "furigana": "させつ", "arti": "belok kiri"},
+    {"kanji": "左利き", "furigana": "ひだりきき", "arti": "kidal"}
+  ],
+  "祭": [
+    {"kanji": "祭日", "furigana": "さいじつ", "arti": "hari raya"},
+    {"kanji": "文化祭", "furigana": "ぶんかさい", "arti": "festival budaya"},
+    {"kanji": "学園祭", "furigana": "がくえんさい", "arti": "festival kampus"},
+    {"kanji": "秋祭り", "furigana": "あきまつり", "arti": "festival musim gugur"}
+  ],
+  "菜": [
+    {"kanji": "惣菜", "furigana": "そうざい", "arti": "lauk siap saji"},
+    {"kanji": "菜の花", "furigana": "なのはな", "arti": "bunga canola"},
+    {"kanji": "菜園", "furigana": "さいえん", "arti": "kebun sayur"},
+    {"kanji": "青菜", "furigana": "あおな", "arti": "sayuran hijau"}
+  ],
+  "歳": [
+    {"kanji": "お歳暮", "furigana": "おせいぼ", "arti": "hadiah akhir tahun"},
+    {"kanji": "歳末", "furigana": "さいまつ", "arti": "akhir tahun"},
+    {"kanji": "二十歳", "furigana": "はたち", "arti": "usia dua puluh"},
+    {"kanji": "歳月", "furigana": "さいげつ", "arti": "waktu, masa"}
+  ],
+  "産": [
+    {"kanji": "産む", "furigana": "うむ", "arti": "melahirkan"},
+    {"kanji": "産地", "furigana": "さんち", "arti": "daerah penghasil"},
+    {"kanji": "出産", "furigana": "しゅっさん", "arti": "melahirkan"},
+    {"kanji": "生産", "furigana": "せいさん", "arti": "produksi"},
+    {"kanji": "産物", "furigana": "さんぶつ", "arti": "hasil bumi"}
+  ],
+  "皿": [
+    {"kanji": "小皿", "furigana": "こざら", "arti": "piring kecil"},
+    {"kanji": "大皿", "furigana": "おおざら", "arti": "piring besar"},
+    {"kanji": "灰皿", "furigana": "はいざら", "arti": "asbak"},
+    {"kanji": "皿洗い", "furigana": "さらあらい", "arti": "cuci piring"},
+    {"kanji": "お皿", "furigana": "おさら", "arti": "piring (sopan)"}
+  ],
+  "止": [
+    {"kanji": "止める", "furigana": "とめる", "arti": "menghentikan"},
+    {"kanji": "中止", "furigana": "ちゅうし", "arti": "pembatalan"},
+    {"kanji": "防止", "furigana": "ぼうし", "arti": "pencegahan"},
+    {"kanji": "禁止", "furigana": "きんし", "arti": "larangan"},
+    {"kanji": "止む", "furigana": "やむ", "arti": "berhenti (hujan)"}
+  ],
+  "仕": [
+    {"kanji": "仕方", "furigana": "しかた", "arti": "cara"},
+    {"kanji": "仕上げ", "furigana": "しあげ", "arti": "sentuhan akhir"},
+    {"kanji": "食事", "furigana": "しょくじ", "arti": "makan"},
+    {"kanji": "仕える", "furigana": "つかえる", "arti": "mengabdi"},
+    {"kanji": "仕組み", "furigana": "しくみ", "arti": "mekanisme"}
+  ],
+  "市": [
+    {"kanji": "市", "furigana": "し", "arti": "kota"},
+    {"kanji": "市民", "furigana": "しみん", "arti": "warga kota"},
+    {"kanji": "市役所", "furigana": "しやくしょ", "arti": "balai kota"},
+    {"kanji": "市場", "furigana": "いちば", "arti": "pasar"},
+    {"kanji": "市内", "furigana": "しない", "arti": "dalam kota"}
+  ],
+  "死": [
+    {"kanji": "死", "furigana": "し", "arti": "kematian"},
+    {"kanji": "死亡", "furigana": "しぼう", "arti": "meninggal dunia"},
+    {"kanji": "死体", "furigana": "したい", "arti": "jenazah"},
+    {"kanji": "生死", "furigana": "せいし", "arti": "hidup dan mati"},
+    {"kanji": "必死", "furigana": "ひっし", "arti": "mati-matian"}
+  ],
+  "始": [
+    {"kanji": "始める", "furigana": "はじめる", "arti": "memulai"},
+    {"kanji": "開始", "furigana": "かいし", "arti": "mulai"},
+    {"kanji": "始発", "furigana": "しはつ", "arti": "keberangkatan pertama"},
+    {"kanji": "始まり", "furigana": "はじまり", "arti": "permulaan"},
+    {"kanji": "最初", "furigana": "さいしょ", "arti": "pertama"}
+  ],
+  "思": [
+    {"kanji": "思い出す", "furigana": "おもいだす", "arti": "teringat"},
+    {"kanji": "思考", "furigana": "しこう", "arti": "pemikiran"},
+    {"kanji": "思いつく", "furigana": "おもいつく", "arti": "terpikir"},
+    {"kanji": "思い出", "furigana": "おもいで", "arti": "kenangan"},
+    {"kanji": "思わず", "furigana": "おもわず", "arti": "tanpa sengaja"}
+  ],
+  "紙": [
+    {"kanji": "紙切れ", "furigana": "かみきれ", "arti": "sobekan kertas"},
+    {"kanji": "新聞紙", "furigana": "しんぶんし", "arti": "kertas koran"},
+    {"kanji": "手紙", "furigana": "てがみ", "arti": "surat"},
+    {"kanji": "紙袋", "furigana": "かみぶくろ", "arti": "kantong kertas"},
+    {"kanji": "用紙", "furigana": "ようし", "arti": "formulir"}
+  ],
+  "試": [
+    {"kanji": "試す", "furigana": "ためす", "arti": "mencoba"},
+    {"kanji": "試合", "furigana": "しあい", "arti": "pertandingan"},
+    {"kanji": "試み", "furigana": "こころみ", "arti": "usaha, percobaan"},
+    {"kanji": "試着", "furigana": "しちゃく", "arti": "mencoba pakaian"}
+  ],
+  "字": [
+    {"kanji": "文字", "furigana": "もじ", "arti": "huruf"},
+    {"kanji": "字", "furigana": "じ", "arti": "huruf, karakter"},
+    {"kanji": "数字", "furigana": "すうじ", "arti": "angka"},
+    {"kanji": "赤字", "furigana": "あかじ", "arti": "defisit, merah"},
+    {"kanji": "名字", "furigana": "みょうじ", "arti": "nama keluarga"}
+  ],
+  "自": [
+    {"kanji": "自由", "furigana": "じゆう", "arti": "bebas"},
+    {"kanji": "自動", "furigana": "じどう", "arti": "otomatis"},
+    {"kanji": "自然", "furigana": "しぜん", "arti": "alam"},
+    {"kanji": "自転車", "furigana": "じてんしゃ", "arti": "sepeda"},
+    {"kanji": "自動車", "furigana": "じどうしゃ", "arti": "mobil"}
+  ],
+  "事": [
+    {"kanji": "事", "furigana": "こと", "arti": "hal, perkara"},
+    {"kanji": "用事", "furigana": "ようじ", "arti": "keperluan"},
+    {"kanji": "大事", "furigana": "だいじ", "arti": "penting"},
+    {"kanji": "事故", "furigana": "じこ", "arti": "kecelakaan"},
+    {"kanji": "記事", "furigana": "きじ", "arti": "artikel, berita"}
+  ],
+  "持": [
+    {"kanji": "持ち物", "furigana": "もちもの", "arti": "barang bawaan"},
+    {"kanji": "持続", "furigana": "じぞく", "arti": "berkelanjutan"},
+    {"kanji": "維持", "furigana": "いじ", "arti": "pemeliharaan"},
+    {"kanji": "持ち歩く", "furigana": "もちあるく", "arti": "membawa ke mana-mana"}
+  ],
+  "室": [
+    {"kanji": "会議室", "furigana": "かいぎしつ", "arti": "ruang rapat"},
+    {"kanji": "寝室", "furigana": "しんしつ", "arti": "kamar tidur"},
+    {"kanji": "事務室", "furigana": "じむしつ", "arti": "kantor"},
+    {"kanji": "温室", "furigana": "おんしつ", "arti": "rumah kaca"},
+    {"kanji": "室内", "furigana": "しつない", "arti": "di dalam ruangan"}
+  ],
+  "質": [
+    {"kanji": "性質", "furigana": "せいしつ", "arti": "sifat"},
+    {"kanji": "品質", "furigana": "ひんしつ", "arti": "kualitas"},
+    {"kanji": "質屋", "furigana": "しちや", "arti": "pegadaian"},
+    {"kanji": "質", "furigana": "しつ", "arti": "mutu, sifat"},
+    {"kanji": "体質", "furigana": "たいしつ", "arti": "kondisi tubuh"}
+  ],
+  "写": [
+    {"kanji": "写す", "furigana": "うつす", "arti": "menyalin, memotret"},
+    {"kanji": "写る", "furigana": "うつる", "arti": "terambil dalam foto"},
+    {"kanji": "描写", "furigana": "びょうしゃ", "arti": "penggambaran"},
+    {"kanji": "写生", "furigana": "しゃせい", "arti": "melukis dari alam"}
+  ],
+  "社": [
+    {"kanji": "社会", "furigana": "しゃかい", "arti": "masyarakat"},
+    {"kanji": "神社", "furigana": "じんじゃ", "arti": "kuil Shinto"},
+    {"kanji": "社長", "furigana": "しゃちょう", "arti": "direktur utama"},
+    {"kanji": "出版社", "furigana": "しゅっぱんしゃ", "arti": "penerbit"},
+    {"kanji": "社会人", "furigana": "しゃかいじん", "arti": "anggota masyarakat kerja"}
+  ],
+  "者": [
+    {"kanji": "作者", "furigana": "さくしゃ", "arti": "pengarang"},
+    {"kanji": "学者", "furigana": "がくしゃ", "arti": "ilmuwan"},
+    {"kanji": "利用者", "furigana": "りようしゃ", "arti": "pengguna"},
+    {"kanji": "読者", "furigana": "どくしゃ", "arti": "pembaca"},
+    {"kanji": "前者", "furigana": "ぜんしゃ", "arti": "yang pertama"}
+  ],
+  "借": [
+    {"kanji": "借金", "furigana": "しゃっきん", "arti": "utang"},
+    {"kanji": "借り物", "furigana": "かりもの", "arti": "barang pinjaman"},
+    {"kanji": "借用", "furigana": "しゃくよう", "arti": "peminjaman"},
+    {"kanji": "借主", "furigana": "かりぬし", "arti": "peminjam, penyewa"}
+  ],
+  "弱": [
+    {"kanji": "弱る", "furigana": "よわる", "arti": "melemah"},
+    {"kanji": "弱点", "furigana": "じゃくてん", "arti": "kelemahan"},
+    {"kanji": "弱気", "furigana": "よわき", "arti": "penakut, ragu"},
+    {"kanji": "弱者", "furigana": "じゃくしゃ", "arti": "kaum lemah"}
+  ],
+  "主": [
+    {"kanji": "主に", "furigana": "おもに", "arti": "terutama"},
+    {"kanji": "主要", "furigana": "しゅよう", "arti": "utama"},
+    {"kanji": "主人公", "furigana": "しゅじんこう", "arti": "tokoh utama"},
+    {"kanji": "主婦", "furigana": "しゅふ", "arti": "ibu rumah tangga"},
+    {"kanji": "地主", "furigana": "じぬし", "arti": "pemilik tanah"}
+  ],
+  "首": [
+    {"kanji": "首都", "furigana": "しゅと", "arti": "ibu kota"},
+    {"kanji": "首相", "furigana": "しゅしょう", "arti": "perdana menteri"},
+    {"kanji": "首飾り", "furigana": "くびかざり", "arti": "kalung"},
+    {"kanji": "首輪", "furigana": "くびわ", "arti": "kalung hewan"},
+    {"kanji": "首位", "furigana": "しゅい", "arti": "peringkat pertama"}
+  ],
+  "秋": [
+    {"kanji": "秋分", "furigana": "しゅうぶん", "arti": "ekuinoks musim gugur"},
+    {"kanji": "秋休み", "furigana": "あきやすみ", "arti": "libur musim gugur"},
+    {"kanji": "秋雨", "furigana": "あきさめ", "arti": "hujan musim gugur"},
+    {"kanji": "晩秋", "furigana": "ばんしゅう", "arti": "akhir musim gugur"},
+    {"kanji": "初秋", "furigana": "しょしゅう", "arti": "awal musim gugur"}
+  ],
+  "終": [
+    {"kanji": "終える", "furigana": "おえる", "arti": "menyelesaikan"},
+    {"kanji": "終わり", "furigana": "おわり", "arti": "akhir"},
+    {"kanji": "終点", "furigana": "しゅうてん", "arti": "terminal, ujung"},
+    {"kanji": "最終", "furigana": "さいしゅう", "arti": "terakhir"},
+    {"kanji": "終了", "furigana": "しゅうりょう", "arti": "selesai"}
+  ],
+  "習": [
+    {"kanji": "習う", "furigana": "ならう", "arti": "belajar"},
+    {"kanji": "習慣", "furigana": "しゅうかん", "arti": "kebiasaan"},
+    {"kanji": "学習", "furigana": "がくしゅう", "arti": "pembelajaran"},
+    {"kanji": "復習", "furigana": "ふくしゅう", "arti": "mengulang pelajaran"},
+    {"kanji": "予習", "furigana": "よしゅう", "arti": "mempelajari sebelumnya"}
+  ],
+  "集": [
+    {"kanji": "集める", "furigana": "あつめる", "arti": "mengumpulkan"},
+    {"kanji": "集合", "furigana": "しゅうごう", "arti": "berkumpul"},
+    {"kanji": "集まり", "furigana": "あつまり", "arti": "pertemuan"},
+    {"kanji": "編集", "furigana": "へんしゅう", "arti": "penyuntingan"},
+    {"kanji": "収集", "furigana": "しゅうしゅう", "arti": "koleksi"}
+  ],
+  "住": [
+    {"kanji": "住所", "furigana": "じゅうしょ", "arti": "alamat"},
+    {"kanji": "住民", "furigana": "じゅうみん", "arti": "penduduk"},
+    {"kanji": "住みやすい", "furigana": "すみやすい", "arti": "nyaman dihuni"},
+    {"kanji": "居住", "furigana": "きょじゅう", "arti": "tempat tinggal"},
+    {"kanji": "住まい", "furigana": "すまい", "arti": "tempat tinggal"}
+  ],
+  "重": [
+    {"kanji": "重さ", "furigana": "おもさ", "arti": "berat"},
+    {"kanji": "重要", "furigana": "じゅうよう", "arti": "penting"},
+    {"kanji": "体重", "furigana": "たいじゅう", "arti": "berat badan"},
+    {"kanji": "重力", "furigana": "じゅうりょく", "arti": "gravitasi"},
+    {"kanji": "慎重", "furigana": "しんちょう", "arti": "hati-hati"}
+  ],
+  "春": [
+    {"kanji": "春休み", "furigana": "はるやすみ", "arti": "libur musim semi"},
+    {"kanji": "春分", "furigana": "しゅんぶん", "arti": "ekuinoks musim semi"},
+    {"kanji": "春夏秋冬", "furigana": "しゅんかしゅうとう", "arti": "empat musim"},
+    {"kanji": "青春", "furigana": "せいしゅん", "arti": "masa muda"},
+    {"kanji": "新春", "furigana": "しんしゅん", "arti": "tahun baru"}
+  ],
+  "所": [
+    {"kanji": "所", "furigana": "ところ", "arti": "tempat"},
+    {"kanji": "住所", "furigana": "じゅうしょ", "arti": "alamat"},
+    {"kanji": "所々", "furigana": "ところどころ", "arti": "di sana sini"},
+    {"kanji": "所得", "furigana": "しょとく", "arti": "penghasilan"},
+    {"kanji": "研究所", "furigana": "けんきゅうしょ", "arti": "lembaga penelitian"}
+  ],
+  "暑": [
+    {"kanji": "暑さ", "furigana": "あつさ", "arti": "panasnya"},
+    {"kanji": "猛暑", "furigana": "もうしょ", "arti": "panas terik"},
+    {"kanji": "蒸し暑い", "furigana": "むしあつい", "arti": "panas lembap"},
+    {"kanji": "暑中見舞い", "furigana": "しょちゅうみまい", "arti": "surat sapaan musim panas"},
+    {"kanji": "残暑", "furigana": "ざんしょ", "arti": "sisa panas musim gugur"}
+  ],
+  "上": [
+    {"kanji": "上", "furigana": "うえ", "arti": "atas"},
+    {"kanji": "上手", "furigana": "じょうず", "arti": "pandai"},
+    {"kanji": "上げる", "furigana": "あげる", "arti": "menaikkan"},
+    {"kanji": "上着", "furigana": "うわぎ", "arti": "jaket, pakaian luar"},
+    {"kanji": "上り", "furigana": "のぼり", "arti": "naik, pendakian"}
+  ],
+  "乗": [
+    {"kanji": "乗り物", "furigana": "のりもの", "arti": "kendaraan"},
+    {"kanji": "乗客", "furigana": "じょうきゃく", "arti": "penumpang"},
+    {"kanji": "乗り換える", "furigana": "のりかえる", "arti": "pindah kendaraan"},
+    {"kanji": "乗車", "furigana": "じょうしゃ", "arti": "naik kendaraan"},
+    {"kanji": "相乗り", "furigana": "あいのり", "arti": "berbagi tumpangan"}
+  ],
+  "場": [
+    {"kanji": "場面", "furigana": "ばめん", "arti": "adegan, situasi"},
+    {"kanji": "会場", "furigana": "かいじょう", "arti": "tempat acara"},
+    {"kanji": "広場", "furigana": "ひろば", "arti": "alun-alun"},
+    {"kanji": "駐車場", "furigana": "ちゅうしゃじょう", "arti": "tempat parkir"},
+    {"kanji": "場合", "furigana": "ばあい", "arti": "situasi, jika"}
+  ],
+  "真": [
+    {"kanji": "真っ赤", "furigana": "まっか", "arti": "merah sekali"},
+    {"kanji": "真ん中", "furigana": "まんなか", "arti": "tengah-tengah"},
+    {"kanji": "真空", "furigana": "しんくう", "arti": "vakum"},
+    {"kanji": "真剣", "furigana": "しんけん", "arti": "sungguh-sungguh"},
+    {"kanji": "真面目", "furigana": "まじめ", "arti": "rajin, serius"}
+  ],
+  "進": [
+    {"kanji": "進める", "furigana": "すすめる", "arti": "memajukan"},
+    {"kanji": "進歩", "furigana": "しんぽ", "arti": "kemajuan"},
+    {"kanji": "進行", "furigana": "しんこう", "arti": "berlangsung"},
+    {"kanji": "前進", "furigana": "ぜんしん", "arti": "maju ke depan"},
+    {"kanji": "進学", "furigana": "しんがく", "arti": "melanjutkan sekolah"}
+  ],
+  "森": [
+    {"kanji": "森林", "furigana": "しんりん", "arti": "hutan"},
+    {"kanji": "森林浴", "furigana": "しんりんよく", "arti": "mandi hutan (relaksasi)"},
+    {"kanji": "森林公園", "furigana": "しんりんこうえん", "arti": "taman hutan"},
+    {"kanji": "森羅万象", "furigana": "しんらばんしょう", "arti": "segala sesuatu di alam"}
+  ],
+  "親": [
+    {"kanji": "親切", "furigana": "しんせつ", "arti": "baik hati"},
+    {"kanji": "親しい", "furigana": "したしい", "arti": "akrab"},
+    {"kanji": "両親", "furigana": "りょうしん", "arti": "orang tua"},
+    {"kanji": "親友", "furigana": "しんゆう", "arti": "sahabat"},
+    {"kanji": "親子", "furigana": "おやこ", "arti": "orang tua dan anak"}
+  ],
+  "図": [
+    {"kanji": "図", "furigana": "ず", "arti": "gambar, diagram"},
+    {"kanji": "地図", "furigana": "ちず", "arti": "peta"},
+    {"kanji": "図鑑", "furigana": "ずかん", "arti": "buku bergambar"},
+    {"kanji": "図面", "furigana": "ずめん", "arti": "gambar teknik"},
+    {"kanji": "合図", "furigana": "あいず", "arti": "sinyal, isyarat"}
+  ],
+  "世": [
+    {"kanji": "世の中", "furigana": "よのなか", "arti": "dunia, masyarakat"},
+    {"kanji": "世話", "furigana": "せわ", "arti": "perhatian, bantuan"},
+    {"kanji": "世代", "furigana": "せだい", "arti": "generasi"},
+    {"kanji": "世間", "furigana": "せけん", "arti": "dunia, lingkungan sosial"},
+    {"kanji": "出世", "furigana": "しゅっせ", "arti": "sukses naik pangkat"}
+  ],
+  "正": [
+    {"kanji": "正確", "furigana": "せいかく", "arti": "akurat"},
+    {"kanji": "正直", "furigana": "しょうじき", "arti": "jujur"},
+    {"kanji": "正解", "furigana": "せいかい", "arti": "jawaban benar"},
+    {"kanji": "正午", "furigana": "しょうご", "arti": "tengah hari"},
+    {"kanji": "正体", "furigana": "しょうたい", "arti": "identitas sebenarnya"}
+  ],
+  "西": [
+    {"kanji": "西側", "furigana": "にしがわ", "arti": "sisi barat"},
+    {"kanji": "西洋", "furigana": "せいよう", "arti": "Barat"},
+    {"kanji": "東西", "furigana": "とうざい", "arti": "timur barat"},
+    {"kanji": "西口", "furigana": "にしぐち", "arti": "pintu barat"},
+    {"kanji": "西日本", "furigana": "にしにほん", "arti": "Jepang barat"}
+  ],
+  "声": [
+    {"kanji": "音声", "furigana": "おんせい", "arti": "suara, audio"},
+    {"kanji": "泣き声", "furigana": "なきごえ", "arti": "suara tangisan"},
+    {"kanji": "声援", "furigana": "せいえん", "arti": "dukungan sorakan"},
+    {"kanji": "発声", "furigana": "はっせい", "arti": "mengeluarkan suara"},
+    {"kanji": "呼び声", "furigana": "よびごえ", "arti": "panggilan"}
+  ],
+  "夕": [
+    {"kanji": "夕日", "furigana": "ゆうひ", "arti": "matahari terbenam"},
+    {"kanji": "夕食", "furigana": "ゆうしょく", "arti": "makan malam"},
+    {"kanji": "夕焼け", "furigana": "ゆうやけ", "arti": "langit senja merah"},
+    {"kanji": "夕立", "furigana": "ゆうだち", "arti": "hujan sore musim panas"},
+    {"kanji": "七夕", "furigana": "たなばた", "arti": "festival bintang"}
+  ],
+  "切": [
+    {"kanji": "切手", "furigana": "きって", "arti": "perangko"},
+    {"kanji": "大切", "furigana": "たいせつ", "arti": "penting, berharga"},
+    {"kanji": "切符", "furigana": "きっぷ", "arti": "tiket"},
+    {"kanji": "親切", "furigana": "しんせつ", "arti": "baik hati"},
+    {"kanji": "切れる", "furigana": "きれる", "arti": "terpotong, putus"}
+  ],
+  "説": [
+    {"kanji": "小説", "furigana": "しょうせつ", "arti": "novel"},
+    {"kanji": "説得", "furigana": "せっとく", "arti": "membujuk"},
+    {"kanji": "伝説", "furigana": "でんせつ", "arti": "legenda"},
+    {"kanji": "仮説", "furigana": "かせつ", "arti": "hipotesis"},
+    {"kanji": "学説", "furigana": "がくせつ", "arti": "teori ilmiah"}
+  ],
+  "洗": [
+    {"kanji": "洗濯", "furigana": "せんたく", "arti": "mencuci baju"},
+    {"kanji": "洗面", "furigana": "せんめん", "arti": "cuci muka"},
+    {"kanji": "洗車", "furigana": "せんしゃ", "arti": "cuci mobil"},
+    {"kanji": "洗浄", "furigana": "せんじょう", "arti": "pembersihan"},
+    {"kanji": "洗い物", "furigana": "あらいもの", "arti": "cucian"}
+  ],
+  "前": [
+    {"kanji": "前日", "furigana": "ぜんじつ", "arti": "sehari sebelumnya"},
+    {"kanji": "前後", "furigana": "ぜんご", "arti": "sekitar, depan belakang"},
+    {"kanji": "前回", "furigana": "ぜんかい", "arti": "waktu sebelumnya"},
+    {"kanji": "名前", "furigana": "なまえ", "arti": "nama"},
+    {"kanji": "前方", "furigana": "ぜんぽう", "arti": "depan"}
+  ],
+  "相": [
+    {"kanji": "相手", "furigana": "あいて", "arti": "lawan, pasangan"},
+    {"kanji": "相互", "furigana": "そうご", "arti": "saling"},
+    {"kanji": "相撲", "furigana": "すもう", "arti": "sumo"},
+    {"kanji": "相続", "furigana": "そうぞく", "arti": "warisan"}
+  ],
+  "送": [
+    {"kanji": "送料", "furigana": "そうりょう", "arti": "biaya kirim"},
+    {"kanji": "放送", "furigana": "ほうそう", "arti": "siaran"},
+    {"kanji": "送信", "furigana": "そうしん", "arti": "mengirim (pesan)"},
+    {"kanji": "送り出す", "furigana": "おくりだす", "arti": "melepas kepergian"},
+    {"kanji": "見送る", "furigana": "みおくる", "arti": "mengantar, melepas"}
+  ],
+  "族": [
+    {"kanji": "民族", "furigana": "みんぞく", "arti": "bangsa, etnis"},
+    {"kanji": "親族", "furigana": "しんぞく", "arti": "kerabat"},
+    {"kanji": "一族", "furigana": "いちぞく", "arti": "satu keluarga besar"},
+    {"kanji": "部族", "furigana": "ぶぞく", "arti": "suku"},
+    {"kanji": "水族館", "furigana": "すいぞくかん", "arti": "akuarium"}
+  ],
+  "太": [
+    {"kanji": "太陽", "furigana": "たいよう", "arti": "matahari"},
+    {"kanji": "太る", "furigana": "ふとる", "arti": "gemuk"},
+    {"kanji": "太字", "furigana": "ふとじ", "arti": "huruf tebal"},
+    {"kanji": "太もも", "furigana": "ふともも", "arti": "paha"},
+    {"kanji": "太平洋", "furigana": "たいへいよう", "arti": "Samudra Pasifik"}
+  ],
+  "待": [
+    {"kanji": "待ち合わせ", "furigana": "まちあわせ", "arti": "janji bertemu"},
+    {"kanji": "期待", "furigana": "きたい", "arti": "harapan"},
+    {"kanji": "招待", "furigana": "しょうたい", "arti": "undangan"},
+    {"kanji": "待合室", "furigana": "まちあいしつ", "arti": "ruang tunggu"}
+  ],
+  "貸": [
+    {"kanji": "賃貸", "furigana": "ちんたい", "arti": "sewa"},
+    {"kanji": "貸し出し", "furigana": "かしだし", "arti": "peminjaman"},
+    {"kanji": "貸し切り", "furigana": "かしきり", "arti": "sewa penuh"},
+    {"kanji": "貸し借り", "furigana": "かしかり", "arti": "pinjam meminjam"},
+    {"kanji": "貸主", "furigana": "かしぬし", "arti": "pemberi pinjaman"}
+  ],
+  "代": [
+    {"kanji": "代", "furigana": "だい", "arti": "generasi, pengganti"},
+    {"kanji": "代表", "furigana": "だいひょう", "arti": "perwakilan"},
+    {"kanji": "代金", "furigana": "だいきん", "arti": "biaya, harga"},
+    {"kanji": "現代", "furigana": "げんだい", "arti": "zaman sekarang"},
+    {"kanji": "年代", "furigana": "ねんだい", "arti": "era, tahun"}
+  ],
+  "台": [
+    {"kanji": "台風", "furigana": "たいふう", "arti": "topan"},
+    {"kanji": "台", "furigana": "だい", "arti": "alas, dudukan"},
+    {"kanji": "舞台", "furigana": "ぶたい", "arti": "panggung"},
+    {"kanji": "台無し", "furigana": "だいなし", "arti": "hancur berantakan"},
+    {"kanji": "高台", "furigana": "たかだい", "arti": "tanah tinggi"}
+  ],
+  "題": [
+    {"kanji": "題名", "furigana": "だいめい", "arti": "judul"},
+    {"kanji": "課題", "furigana": "かだい", "arti": "tugas, masalah"},
+    {"kanji": "宿題", "furigana": "しゅくだい", "arti": "pekerjaan rumah"},
+    {"kanji": "出題", "furigana": "しゅつだい", "arti": "pembuatan soal"},
+    {"kanji": "難題", "furigana": "なんだい", "arti": "masalah sulit"}
+  ],
+  "地": [
+    {"kanji": "地下", "furigana": "ちか", "arti": "bawah tanah"},
+    {"kanji": "地方", "furigana": "ちほう", "arti": "daerah"},
+    {"kanji": "地震", "furigana": "じしん", "arti": "gempa bumi"},
+    {"kanji": "土地", "furigana": "とち", "arti": "tanah"},
+    {"kanji": "地面", "furigana": "じめん", "arti": "permukaan tanah"}
+  ],
+  "池": [
+    {"kanji": "電池", "furigana": "でんち", "arti": "baterai"},
+    {"kanji": "貯水池", "furigana": "ちょすいち", "arti": "waduk"},
+    {"kanji": "庭池", "furigana": "にわいけ", "arti": "kolam taman"}
+  ],
+  "知": [
+    {"kanji": "知らせる", "furigana": "しらせる", "arti": "memberitahu"},
+    {"kanji": "知識", "furigana": "ちしき", "arti": "pengetahuan"},
+    {"kanji": "知恵", "furigana": "ちえ", "arti": "kebijaksanaan"},
+    {"kanji": "通知", "furigana": "つうち", "arti": "pemberitahuan"},
+    {"kanji": "知人", "furigana": "ちじん", "arti": "kenalan"}
+  ],
+  "茶": [
+    {"kanji": "茶", "furigana": "ちゃ", "arti": "teh"},
+    {"kanji": "茶碗", "furigana": "ちゃわん", "arti": "mangkuk nasi"},
+    {"kanji": "喫茶店", "furigana": "きっさてん", "arti": "kedai kopi"},
+    {"kanji": "茶色", "furigana": "ちゃいろ", "arti": "cokelat"},
+    {"kanji": "緑茶", "furigana": "りょくちゃ", "arti": "teh hijau"}
+  ],
+  "着": [
+    {"kanji": "着く", "furigana": "つく", "arti": "tiba"},
+    {"kanji": "到着", "furigana": "とうちゃく", "arti": "kedatangan"},
+    {"kanji": "着替える", "furigana": "きがえる", "arti": "berganti pakaian"},
+    {"kanji": "発着", "furigana": "はっちゃく", "arti": "keberangkatan dan kedatangan"},
+    {"kanji": "着信", "furigana": "ちゃくしん", "arti": "panggilan masuk"}
+  ],
+  "中": [
+    {"kanji": "中国", "furigana": "ちゅうごく", "arti": "Tiongkok"},
+    {"kanji": "中心", "furigana": "ちゅうしん", "arti": "pusat"},
+    {"kanji": "中古", "furigana": "ちゅうこ", "arti": "bekas"},
+    {"kanji": "中間", "furigana": "ちゅうかん", "arti": "di antara"},
+    {"kanji": "世界中", "furigana": "せかいじゅう", "arti": "seluruh dunia"}
+  ],
+  "注": [
+    {"kanji": "注文", "furigana": "ちゅうもん", "arti": "pesanan"},
+    {"kanji": "注ぐ", "furigana": "そそぐ", "arti": "menuang"},
+    {"kanji": "注射", "furigana": "ちゅうしゃ", "arti": "suntikan"},
+    {"kanji": "注釈", "furigana": "ちゅうしゃく", "arti": "catatan penjelasan"},
+    {"kanji": "発注", "furigana": "はっちゅう", "arti": "memesan"}
+  ],
+  "鳥": [
+    {"kanji": "小鳥", "furigana": "ことり", "arti": "burung kecil"},
+    {"kanji": "野鳥", "furigana": "やちょう", "arti": "burung liar"},
+    {"kanji": "鳥肉", "furigana": "とりにく", "arti": "daging ayam"},
+    {"kanji": "鳥居", "furigana": "とりい", "arti": "gerbang kuil Shinto"},
+    {"kanji": "白鳥", "furigana": "はくちょう", "arti": "angsa"}
+  ],
+  "通": [
+    {"kanji": "通勤", "furigana": "つうきん", "arti": "perjalanan kerja"},
+    {"kanji": "通学", "furigana": "つうがく", "arti": "perjalanan sekolah"},
+    {"kanji": "交通", "furigana": "こうつう", "arti": "lalu lintas"},
+    {"kanji": "通訳", "furigana": "つうやく", "arti": "penerjemah lisan"},
+    {"kanji": "普通", "furigana": "ふつう", "arti": "biasa"}
+  ],
+  "低": [
+    {"kanji": "最低", "furigana": "さいてい", "arti": "terendah, terburuk"},
+    {"kanji": "低下", "furigana": "ていか", "arti": "penurunan"},
+    {"kanji": "低気圧", "furigana": "ていきあつ", "arti": "tekanan udara rendah"},
+    {"kanji": "低温", "furigana": "ていおん", "arti": "suhu rendah"},
+    {"kanji": "高低", "furigana": "こうてい", "arti": "tinggi rendah"}
+  ],
+  "店": [
+    {"kanji": "本店", "furigana": "ほんてん", "arti": "kantor pusat toko"},
+    {"kanji": "支店", "furigana": "してん", "arti": "cabang"},
+    {"kanji": "店長", "furigana": "てんちょう", "arti": "kepala toko"},
+    {"kanji": "売店", "furigana": "ばいてん", "arti": "kios"},
+    {"kanji": "商店", "furigana": "しょうてん", "arti": "toko"}
+  ],
+  "転": [
+    {"kanji": "転勤", "furigana": "てんきん", "arti": "mutasi kerja"},
+    {"kanji": "転校", "furigana": "てんこう", "arti": "pindah sekolah"},
+    {"kanji": "逆転", "furigana": "ぎゃくてん", "arti": "pembalikan"},
+    {"kanji": "転がる", "furigana": "ころがる", "arti": "terguling"},
+    {"kanji": "転職", "furigana": "てんしょく", "arti": "pindah kerja"}
+  ],
+  "都": [
+    {"kanji": "都市", "furigana": "とし", "arti": "kota"},
+    {"kanji": "都内", "furigana": "とない", "arti": "di dalam Tokyo"},
+    {"kanji": "都心", "furigana": "としん", "arti": "pusat kota"},
+    {"kanji": "古都", "furigana": "こと", "arti": "kota tua"},
+    {"kanji": "都道府県", "furigana": "とどうふけん", "arti": "pembagian wilayah Jepang"}
+  ],
+  "度": [
+    {"kanji": "度", "furigana": "ど", "arti": "derajat, kali"},
+    {"kanji": "度々", "furigana": "たびたび", "arti": "sering kali"},
+    {"kanji": "制度", "furigana": "せいど", "arti": "sistem"},
+    {"kanji": "態度", "furigana": "たいど", "arti": "sikap"},
+    {"kanji": "角度", "furigana": "かくど", "arti": "sudut"}
+  ],
+  "冬": [
+    {"kanji": "冬休み", "furigana": "ふゆやすみ", "arti": "libur musim dingin"},
+    {"kanji": "真冬", "furigana": "まふゆ", "arti": "puncak musim dingin"},
+    {"kanji": "冬季", "furigana": "とうき", "arti": "musim dingin"},
+    {"kanji": "冬物", "furigana": "ふゆもの", "arti": "barang musim dingin"},
+    {"kanji": "冬眠", "furigana": "とうみん", "arti": "hibernasi"}
+  ],
+  "東": [
+    {"kanji": "東京", "furigana": "とうきょう", "arti": "Tokyo"},
+    {"kanji": "東北", "furigana": "とうほく", "arti": "Tohoku (timur laut)"},
+    {"kanji": "東口", "furigana": "ひがしぐち", "arti": "pintu timur"},
+    {"kanji": "東側", "furigana": "ひがしがわ", "arti": "sisi timur"},
+    {"kanji": "東海", "furigana": "とうかい", "arti": "Tokai (wilayah Jepang)"}
+  ],
+  "答": [
+    {"kanji": "答え", "furigana": "こたえ", "arti": "jawaban"},
+    {"kanji": "解答", "furigana": "かいとう", "arti": "pemecahan soal"},
+    {"kanji": "問答", "furigana": "もんどう", "arti": "tanya jawab"},
+    {"kanji": "応答", "furigana": "おうとう", "arti": "tanggapan"},
+    {"kanji": "答案", "furigana": "とうあん", "arti": "lembar jawaban"}
+  ],
+  "頭": [
+    {"kanji": "頭痛", "furigana": "ずつう", "arti": "sakit kepala"},
+    {"kanji": "先頭", "furigana": "せんとう", "arti": "paling depan"},
+    {"kanji": "頭脳", "furigana": "ずのう", "arti": "otak, intelektual"},
+    {"kanji": "頭上", "furigana": "ずじょう", "arti": "di atas kepala"},
+    {"kanji": "頭金", "furigana": "あたまきん", "arti": "uang muka"}
+  ],
+  "同": [
+    {"kanji": "同時", "furigana": "どうじ", "arti": "bersamaan"},
+    {"kanji": "同居", "furigana": "どうきょ", "arti": "tinggal bersama"},
+    {"kanji": "同僚", "furigana": "どうりょう", "arti": "rekan kerja"},
+    {"kanji": "同一", "furigana": "どういつ", "arti": "sama"},
+    {"kanji": "同意", "furigana": "どうい", "arti": "persetujuan"}
+  ],
+  "動": [
+    {"kanji": "動画", "furigana": "どうが", "arti": "video"},
+    {"kanji": "動物", "furigana": "どうぶつ", "arti": "hewan"},
+    {"kanji": "動作", "furigana": "どうさ", "arti": "gerakan"},
+    {"kanji": "移動", "furigana": "いどう", "arti": "perpindahan"},
+    {"kanji": "行動", "furigana": "こうどう", "arti": "tindakan"}
+  ],
+  "堂": [
+    {"kanji": "堂々", "furigana": "どうどう", "arti": "dengan percaya diri"},
+    {"kanji": "講堂", "furigana": "こうどう", "arti": "aula"},
+    {"kanji": "殿堂", "furigana": "でんどう", "arti": "balai, tempat suci"},
+    {"kanji": "本堂", "furigana": "ほんどう", "arti": "bangunan utama kuil"},
+    {"kanji": "教会堂", "furigana": "きょうかいどう", "arti": "gedung gereja"}
+  ],
+  "働": [
+    {"kanji": "働き", "furigana": "はたらき", "arti": "kerja, fungsi"},
+    {"kanji": "労働", "furigana": "ろうどう", "arti": "tenaga kerja"},
+    {"kanji": "働き者", "furigana": "はたらきもの", "arti": "pekerja keras"},
+    {"kanji": "共働き", "furigana": "ともばたらき", "arti": "suami istri bekerja"},
+    {"kanji": "働き方", "furigana": "はたらきかた", "arti": "cara bekerja"}
+  ],
+  "特": [
+    {"kanji": "特急", "furigana": "とっきゅう", "arti": "kereta ekspres"},
+    {"kanji": "特に", "furigana": "とくに", "arti": "khususnya"},
+    {"kanji": "特徴", "furigana": "とくちょう", "arti": "ciri khas"},
+    {"kanji": "特売", "furigana": "とくばい", "arti": "obral"},
+    {"kanji": "特産", "furigana": "とくさん", "arti": "hasil khas daerah"}
+  ],
+  "南": [
+    {"kanji": "南口", "furigana": "みなみぐち", "arti": "pintu selatan"},
+    {"kanji": "南側", "furigana": "みなみがわ", "arti": "sisi selatan"},
+    {"kanji": "南米", "furigana": "なんべい", "arti": "Amerika Selatan"},
+    {"kanji": "南国", "furigana": "なんごく", "arti": "negeri tropis"},
+    {"kanji": "南極", "furigana": "なんきょく", "arti": "Kutub Selatan"}
+  ],
+  "肉": [
+    {"kanji": "筋肉", "furigana": "きんにく", "arti": "otot"},
+    {"kanji": "肉まん", "furigana": "にくまん", "arti": "bakpao"},
+    {"kanji": "肉料理", "furigana": "にくりょうり", "arti": "masakan daging"},
+    {"kanji": "鶏肉", "furigana": "とりにく", "arti": "daging ayam"},
+    {"kanji": "豚肉", "furigana": "ぶたにく", "arti": "daging babi"}
+  ],
+  "売": [
+    {"kanji": "売り場", "furigana": "うりば", "arti": "tempat penjualan"},
+    {"kanji": "売店", "furigana": "ばいてん", "arti": "kios"},
+    {"kanji": "発売", "furigana": "はつばい", "arti": "penjualan, rilis"},
+    {"kanji": "売り切れ", "furigana": "うりきれ", "arti": "habis terjual"},
+    {"kanji": "商売", "furigana": "しょうばい", "arti": "perdagangan"}
+  ],
+  "発": [
+    {"kanji": "発見", "furigana": "はっけん", "arti": "penemuan"},
+    {"kanji": "発表", "furigana": "はっぴょう", "arti": "pengumuman"},
+    {"kanji": "発生", "furigana": "はっせい", "arti": "terjadi, timbul"},
+    {"kanji": "発音", "furigana": "はつおん", "arti": "pelafalan"},
+    {"kanji": "発達", "furigana": "はったつ", "arti": "perkembangan"}
+  ],
+  "飯": [
+    {"kanji": "飯", "furigana": "めし", "arti": "nasi, makanan"},
+    {"kanji": "朝飯", "furigana": "あさめし", "arti": "sarapan"},
+    {"kanji": "昼飯", "furigana": "ひるめし", "arti": "makan siang"},
+    {"kanji": "夕飯", "furigana": "ゆうはん", "arti": "makan malam"},
+    {"kanji": "炊飯器", "furigana": "すいはんき", "arti": "penanak nasi"}
+  ],
+  "病": [
+    {"kanji": "病人", "furigana": "びょうにん", "arti": "orang sakit"},
+    {"kanji": "病院", "furigana": "びょういん", "arti": "rumah sakit"},
+    {"kanji": "病む", "furigana": "やむ", "arti": "sakit"},
+    {"kanji": "看病", "furigana": "かんびょう", "arti": "merawat orang sakit"},
+    {"kanji": "重病", "furigana": "じゅうびょう", "arti": "penyakit parah"}
+  ],
+  "秒": [
+    {"kanji": "秒", "furigana": "びょう", "arti": "detik"},
+    {"kanji": "数秒", "furigana": "すうびょう", "arti": "beberapa detik"},
+    {"kanji": "秒速", "furigana": "びょうそく", "arti": "kecepatan per detik"},
+    {"kanji": "秒針", "furigana": "びょうしん", "arti": "jarum detik"},
+    {"kanji": "何秒", "furigana": "なんびょう", "arti": "berapa detik"}
+  ],
+  "品": [
+    {"kanji": "作品", "furigana": "さくひん", "arti": "karya"},
+    {"kanji": "商品", "furigana": "しょうひん", "arti": "barang dagangan"},
+    {"kanji": "品種", "furigana": "ひんしゅ", "arti": "jenis, varietas"},
+    {"kanji": "食品", "furigana": "しょくひん", "arti": "bahan makanan"},
+    {"kanji": "製品", "furigana": "せいひん", "arti": "produk"}
+  ],
+  "不": [
+    {"kanji": "不安", "furigana": "ふあん", "arti": "cemas"},
+    {"kanji": "不満", "furigana": "ふまん", "arti": "tidak puas"},
+    {"kanji": "不足", "furigana": "ふそく", "arti": "kekurangan"},
+    {"kanji": "不幸", "furigana": "ふこう", "arti": "kemalangan"},
+    {"kanji": "不意", "furigana": "ふい", "arti": "mendadak"}
+  ],
+  "服": [
+    {"kanji": "服装", "furigana": "ふくそう", "arti": "pakaian"},
+    {"kanji": "制服", "furigana": "せいふく", "arti": "seragam"},
+    {"kanji": "和服", "furigana": "わふく", "arti": "pakaian tradisional Jepang"},
+    {"kanji": "一服", "furigana": "いっぷく", "arti": "istirahat sejenak"},
+    {"kanji": "礼服", "furigana": "れいふく", "arti": "pakaian formal"}
+  ],
+  "物": [
+    {"kanji": "荷物", "furigana": "にもつ", "arti": "bagasi, barang"},
+    {"kanji": "食べ物", "furigana": "たべもの", "arti": "makanan"},
+    {"kanji": "買い物", "furigana": "かいもの", "arti": "belanja"},
+    {"kanji": "動物", "furigana": "どうぶつ", "arti": "hewan"},
+    {"kanji": "建物", "furigana": "たてもの", "arti": "bangunan"}
+  ],
+  "文": [
+    {"kanji": "文章", "furigana": "ぶんしょう", "arti": "karangan, kalimat"},
+    {"kanji": "文法", "furigana": "ぶんぽう", "arti": "tata bahasa"},
+    {"kanji": "作文", "furigana": "さくぶん", "arti": "karangan"},
+    {"kanji": "文庫", "furigana": "ぶんこ", "arti": "buku saku"},
+    {"kanji": "文具", "furigana": "ぶんぐ", "arti": "alat tulis"}
+  ],
+  "別": [
+    {"kanji": "別", "furigana": "べつ", "arti": "lain"},
+    {"kanji": "特別", "furigana": "とくべつ", "arti": "istimewa"},
+    {"kanji": "区別", "furigana": "くべつ", "arti": "perbedaan"},
+    {"kanji": "別に", "furigana": "べつに", "arti": "secara khusus (tidak)"},
+    {"kanji": "差別", "furigana": "さべつ", "arti": "diskriminasi"}
+  ],
+  "便": [
+    {"kanji": "郵便", "furigana": "ゆうびん", "arti": "pos, surat"},
+    {"kanji": "郵便局", "furigana": "ゆうびんきょく", "arti": "kantor pos"},
+    {"kanji": "便", "furigana": "びん", "arti": "penerbangan, layanan"},
+    {"kanji": "定期便", "furigana": "ていきびん", "arti": "layanan terjadwal"},
+    {"kanji": "航空便", "furigana": "こうくうびん", "arti": "pos udara"}
+  ],
+  "勉": [
+    {"kanji": "勉学", "furigana": "べんがく", "arti": "belajar, menuntut ilmu"},
+    {"kanji": "勤勉", "furigana": "きんべん", "arti": "rajin"},
+    {"kanji": "勉励", "furigana": "べんれい", "arti": "ketekunan"}
+  ],
+  "方": [
+    {"kanji": "方向", "furigana": "ほうこう", "arti": "arah"},
+    {"kanji": "方法", "furigana": "ほうほう", "arti": "cara"},
+    {"kanji": "方言", "furigana": "ほうげん", "arti": "dialek"},
+    {"kanji": "味方", "furigana": "みかた", "arti": "sekutu, tim"},
+    {"kanji": "方針", "furigana": "ほうしん", "arti": "kebijakan, arah"}
+  ],
+  "北": [
+    {"kanji": "北口", "furigana": "きたぐち", "arti": "pintu utara"},
+    {"kanji": "北側", "furigana": "きたがわ", "arti": "sisi utara"},
+    {"kanji": "北海道", "furigana": "ほっかいどう", "arti": "Hokkaido"},
+    {"kanji": "北極", "furigana": "ほっきょく", "arti": "Kutub Utara"},
+    {"kanji": "北国", "furigana": "きたぐに", "arti": "daerah utara"}
+  ],
+  "味": [
+    {"kanji": "味噌", "furigana": "みそ", "arti": "miso"},
+    {"kanji": "趣味", "furigana": "しゅみ", "arti": "hobi"},
+    {"kanji": "調味料", "furigana": "ちょうみりょう", "arti": "bumbu"},
+    {"kanji": "味わう", "furigana": "あじわう", "arti": "menikmati rasa"},
+    {"kanji": "味覚", "furigana": "みかく", "arti": "indera pengecap"}
+  ],
+  "民": [
+    {"kanji": "民族", "furigana": "みんぞく", "arti": "bangsa, etnis"},
+    {"kanji": "市民", "furigana": "しみん", "arti": "warga kota"},
+    {"kanji": "民主", "furigana": "みんしゅ", "arti": "demokrasi"},
+    {"kanji": "住民", "furigana": "じゅうみん", "arti": "penduduk"},
+    {"kanji": "民間", "furigana": "みんかん", "arti": "swasta, rakyat"}
+  ],
+  "門": [
+    {"kanji": "専門", "furigana": "せんもん", "arti": "spesialisasi"},
+    {"kanji": "部門", "furigana": "ぶもん", "arti": "bagian, departemen"},
+    {"kanji": "校門", "furigana": "こうもん", "arti": "gerbang sekolah"},
+    {"kanji": "門前", "furigana": "もんぜん", "arti": "depan gerbang"},
+    {"kanji": "城門", "furigana": "じょうもん", "arti": "gerbang istana"}
+  ],
+  "問": [
+    {"kanji": "問い合わせ", "furigana": "といあわせ", "arti": "pertanyaan, inquiry"},
+    {"kanji": "訪問", "furigana": "ほうもん", "arti": "kunjungan"},
+    {"kanji": "問題", "furigana": "もんだい", "arti": "masalah, soal"},
+    {"kanji": "問う", "furigana": "とう", "arti": "bertanya"},
+    {"kanji": "疑問", "furigana": "ぎもん", "arti": "keraguan"}
+  ],
+  "野": [
+    {"kanji": "野球", "furigana": "やきゅう", "arti": "bisbol"},
+    {"kanji": "分野", "furigana": "ぶんや", "arti": "bidang"},
+    {"kanji": "野生", "furigana": "やせい", "arti": "liar"},
+    {"kanji": "野外", "furigana": "やがい", "arti": "luar ruangan"},
+    {"kanji": "野原", "furigana": "のはら", "arti": "padang rumput"}
+  ],
+  "薬": [
+    {"kanji": "薬局", "furigana": "やっきょく", "arti": "apotek"},
+    {"kanji": "薬屋", "furigana": "くすりや", "arti": "toko obat"},
+    {"kanji": "薬草", "furigana": "やくそう", "arti": "tanaman obat"},
+    {"kanji": "薬指", "furigana": "くすりゆび", "arti": "jari manis"},
+    {"kanji": "薬品", "furigana": "やくひん", "arti": "obat-obatan"}
+  ],
+  "有": [
+    {"kanji": "有料", "furigana": "ゆうりょう", "arti": "berbayar"},
+    {"kanji": "有効", "furigana": "ゆうこう", "arti": "berlaku, efektif"},
+    {"kanji": "所有", "furigana": "しょゆう", "arti": "kepemilikan"},
+    {"kanji": "有無", "furigana": "うむ", "arti": "ada atau tidak"},
+    {"kanji": "有り", "furigana": "あり", "arti": "ada"}
+  ],
+  "用": [
+    {"kanji": "利用", "furigana": "りよう", "arti": "memanfaatkan"},
+    {"kanji": "採用", "furigana": "さいよう", "arti": "penerimaan, pengangkatan"},
+    {"kanji": "応用", "furigana": "おうよう", "arti": "penerapan"},
+    {"kanji": "用語", "furigana": "ようご", "arti": "istilah"},
+    {"kanji": "費用", "furigana": "ひよう", "arti": "biaya"}
+  ],
+  "洋": [
+    {"kanji": "洋食", "furigana": "ようしょく", "arti": "masakan Barat"},
+    {"kanji": "洋風", "furigana": "ようふう", "arti": "gaya Barat"},
+    {"kanji": "西洋", "furigana": "せいよう", "arti": "Barat"},
+    {"kanji": "洋画", "furigana": "ようが", "arti": "film Barat"},
+    {"kanji": "洋室", "furigana": "ようしつ", "arti": "kamar gaya Barat"}
+  ],
+  "理": [
+    {"kanji": "理由", "furigana": "りゆう", "arti": "alasan"},
+    {"kanji": "理科", "furigana": "りか", "arti": "ilmu pengetahuan alam"},
+    {"kanji": "整理", "furigana": "せいり", "arti": "merapikan"},
+    {"kanji": "理解", "furigana": "りかい", "arti": "pemahaman"},
+    {"kanji": "地理", "furigana": "ちり", "arti": "geografi"}
+  ],
+  "旅": [
+    {"kanji": "旅", "furigana": "たび", "arti": "perjalanan"},
+    {"kanji": "旅館", "furigana": "りょかん", "arti": "penginapan tradisional"},
+    {"kanji": "旅人", "furigana": "たびびと", "arti": "pengembara"},
+    {"kanji": "旅先", "furigana": "たびさき", "arti": "tujuan perjalanan"},
+    {"kanji": "旅費", "furigana": "りょひ", "arti": "biaya perjalanan"}
+  ],
+  "料": [
+    {"kanji": "料金", "furigana": "りょうきん", "arti": "tarif, biaya"},
+    {"kanji": "材料", "furigana": "ざいりょう", "arti": "bahan"},
+    {"kanji": "資料", "furigana": "しりょう", "arti": "data, materi"},
+    {"kanji": "調味料", "furigana": "ちょうみりょう", "arti": "bumbu"},
+    {"kanji": "無料", "furigana": "むりょう", "arti": "gratis"}
+  ],
+  "林": [
+    {"kanji": "林業", "furigana": "りんぎょう", "arti": "kehutanan"},
+    {"kanji": "林道", "furigana": "りんどう", "arti": "jalan hutan"},
+    {"kanji": "竹林", "furigana": "ちくりん", "arti": "hutan bambu"},
+    {"kanji": "林間学校", "furigana": "りんかんがっこう", "arti": "kegiatan sekolah di alam"},
+    {"kanji": "植林", "furigana": "しょくりん", "arti": "penanaman pohon"}
+  ]
+}

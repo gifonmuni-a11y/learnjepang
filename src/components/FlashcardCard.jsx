@@ -16,6 +16,16 @@ function FuriganaText({ text, show }) {
   return <div className="text-[13px] leading-tight text-rose-600">{text}</div>
 }
 
+// Ukuran huruf depan menyesuaikan panjang kata:
+// kanji tunggal besar, kata panjang mengecil agar muat.
+function frontFontSize(char = '') {
+  const n = char.length
+  if (n <= 1) return 'clamp(96px, 20vw, 150px)'
+  if (n <= 3) return 'clamp(64px, 14vw, 96px)'
+  if (n <= 6) return 'clamp(44px, 10vw, 68px)'
+  return 'clamp(30px, 7vw, 48px)'
+}
+
 export default function FlashcardCard({ card, showFurigana = true }) {
   const [flipped, setFlipped] = useState(false)
   const vocab = padVocab(card.kosakata)
@@ -35,8 +45,11 @@ export default function FlashcardCard({ card, showFurigana = true }) {
           <div className="flex-1 flex flex-col items-center justify-center px-6 pt-4">
             <FuriganaText text={card.furigana_atas} show={showFurigana} />
             <div
-              className="font-display text-[120px] sm:text-[150px] leading-none text-slate-900 mt-1"
-              style={{ fontFamily: '"Yu Mincho", "Hiragino Mincho ProN", "Noto Serif JP", serif' }}
+              className="font-display leading-none text-slate-900 mt-1 text-center break-keep"
+              style={{
+                fontFamily: '"Yu Mincho", "Hiragino Mincho ProN", "Noto Serif JP", serif',
+                fontSize: frontFontSize(card.char)
+              }}
             >
               {card.char}
             </div>
